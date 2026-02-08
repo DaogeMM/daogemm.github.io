@@ -179,9 +179,10 @@
         }
     ],
     [
-        138,
+        138.0,
         {
             "x1": [
+                "Introduction.姜米條ElousFZ.0",
                 "Introduction.姜米條ElousFZ.0"
             ]
         }
@@ -586,7 +587,8 @@
             "x1": [
                 "BreakOver.Kforest.0",
                 "FrozenHeart.A39沙包P.0",
-                "Reimei.影虎.0"
+                "Reimei.影虎.0",
+                "彼方へ名もなき海辺より.打打だいず&月乃.0"
             ]
         }
     ],
@@ -651,6 +653,14 @@
                 "Demonkin.ForgedReigns.0",
                 "DerRichter.Ωμεγα.0",
                 "MiracleForestVIPMix.Rinthlive.0"
+            ]
+        }
+    ],
+    [
+        192.333,
+        {
+            "x1": [
+                "ABYSSMOTION192333.ariiolTSAR奏Sou.0"
             ]
         }
     ],

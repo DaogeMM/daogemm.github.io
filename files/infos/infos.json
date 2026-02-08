@@ -2408,7 +2408,7 @@
         "IN": {
             "charter": "阿♪爽",
             "dif": "12",
-            "lvl": "12.7",
+            "lvl": "12.6",
             "notecount": 407,
             "tcharter": "阿爽",
             "tap": 251,
@@ -2584,7 +2584,7 @@
         "IN": {
             "charter": "Barbarianerman",
             "dif": "14",
-            "lvl": "14.4",
+            "lvl": "14.3",
             "notecount": 900,
             "tcharter": "野从",
             "tap": 698,
@@ -3276,7 +3276,7 @@
         "HD": {
             "charter": "阿爽『Destroy』",
             "dif": "12",
-            "lvl": "12.3",
+            "lvl": "12.5",
             "notecount": 773,
             "tcharter": "阿爽",
             "tap": 365,
@@ -6532,7 +6532,7 @@
         "HD": {
             "charter": "Phigros Charting Team",
             "dif": "12",
-            "lvl": "12.0",
+            "lvl": "12.3",
             "notecount": 613,
             "tcharter": "StupiGGy",
             "tap": 210,
@@ -7072,7 +7072,7 @@
         "IN": {
             "charter": "JKy",
             "dif": "14",
-            "lvl": "14.0",
+            "lvl": "14.1",
             "notecount": 708,
             "tcharter": "JKy",
             "tap": 430,
@@ -7688,7 +7688,7 @@
         "IN": {
             "charter": "百九十八",
             "dif": "14",
-            "lvl": "14.7",
+            "lvl": "14.8",
             "notecount": 697,
             "tcharter": "百九十八",
             "tap": 590,
@@ -12792,7 +12792,7 @@
         "IN": {
             "charter": "倪之所爽",
             "dif": "13",
-            "lvl": "13.6",
+            "lvl": "13.8",
             "notecount": 713,
             "tcharter": "NerSAN & 阿爽",
             "tap": 428,
@@ -18700,7 +18700,7 @@
         "AT": {
             "charter": "JKy vs StrayCat",
             "dif": "16",
-            "lvl": "16.8",
+            "lvl": "16.7",
             "notecount": 1088,
             "tcharter": "JKy",
             "tap": 807,
@@ -19996,7 +19996,7 @@
         "HD": {
             "charter": "vacant/stupiggy",
             "dif": "12",
-            "lvl": "12.6",
+            "lvl": "12.7",
             "notecount": 835,
             "tcharter": "StupiGGy",
             "tap": 507,
@@ -20599,8 +20599,8 @@
         "previewe": "125.67",
         "EZ": {
             "charter": "StupiGGy",
-            "dif": "5",
-            "lvl": "5.0",
+            "dif": "4",
+            "lvl": "4.5",
             "notecount": 301,
             "tcharter": "StupiGGy",
             "tap": 130,
@@ -20612,7 +20612,7 @@
         "HD": {
             "charter": "Blessing beyond myself.",
             "dif": "10",
-            "lvl": "10.8",
+            "lvl": "10.3",
             "notecount": 445,
             "tcharter": "野从",
             "tap": 158,
@@ -21479,8 +21479,8 @@
         "previewe": "119.22",
         "EZ": {
             "charter": "COC",
-            "dif": "4",
-            "lvl": "4.5",
+            "dif": "5",
+            "lvl": "5.0",
             "notecount": 222,
             "tcharter": "COC",
             "tap": 122,
@@ -21706,7 +21706,7 @@
         "competition": "",
         "chapter": "Single Collection 单曲 精选集",
         "version": "3.13.1",
-        "translate": "爱丽丝在XXXXXXX之中",
+        "translate": "爱丽丝在XXXXXXXX之中",
         "BPM": 144,
         "duration": "155.01",
         "LY": {
@@ -21932,7 +21932,7 @@
         "HD": {
             "charter": "Su1fuR vs. Simon_Axis",
             "dif": "12",
-            "lvl": "12.5",
+            "lvl": "12.3",
             "notecount": 844,
             "tcharter": "Simon_Axis & Su1fuR",
             "tap": 232,
@@ -22120,7 +22120,7 @@
         "IN": {
             "charter": "jeitie gets sent to the sun",
             "dif": "14",
-            "lvl": "14.1",
+            "lvl": "14.2",
             "notecount": 786,
             "tcharter": "Jeitie",
             "tap": 218,
@@ -22284,7 +22284,7 @@
         "HD": {
             "charter": "啊哒咔哟 & 小咩兔 & COC",
             "dif": "12",
-            "lvl": "12.3",
+            "lvl": "12.0",
             "notecount": 733,
             "tcharter": "啊哒咔哟 & XMT小咩兔 & COC",
             "tap": 291,
@@ -22623,8 +22623,8 @@
         "previewe": "57.75",
         "EZ": {
             "charter": "XMT小咩兔",
-            "dif": "3",
-            "lvl": "3.5",
+            "dif": "4",
+            "lvl": "4.0",
             "notecount": 299,
             "tcharter": "XMT小咩兔",
             "tap": 125,
@@ -22711,8 +22711,8 @@
         "previewe": "96.00",
         "EZ": {
             "charter": "Helabot",
-            "dif": "4",
-            "lvl": "4.0",
+            "dif": "3",
+            "lvl": "3.5",
             "notecount": 238,
             "tcharter": "Helabot",
             "tap": 56,
@@ -22799,8 +22799,8 @@
         "previewe": "57.00",
         "EZ": {
             "charter": "Helabot",
-            "dif": "7",
-            "lvl": "7.5",
+            "dif": "6",
+            "lvl": "6.0",
             "notecount": 363,
             "tcharter": "Helabot",
             "tap": 128,
@@ -22823,8 +22823,8 @@
         },
         "IN": {
             "charter": "St2.1GHz -Før The Pigeons-",
-            "dif": "15",
-            "lvl": "15.8",
+            "dif": "16",
+            "lvl": "16.0",
             "notecount": 1128,
             "tcharter": "StR-1",
             "tap": 412,
@@ -22888,7 +22888,7 @@
         "EZ": {
             "charter": "-",
             "dif": "7",
-            "lvl": "7.0",
+            "lvl": "7.5",
             "notecount": 296,
             "tcharter": "StR-1",
             "tap": 192,
@@ -22912,7 +22912,7 @@
         "IN": {
             "charter": "Gausbon",
             "dif": "16",
-            "lvl": "16.4",
+            "lvl": "16.3",
             "notecount": 1259,
             "tcharter": "Gausbon",
             "tap": 698,
@@ -23000,7 +23000,7 @@
         "IN": {
             "charter": "Salt",
             "dif": "14",
-            "lvl": "14.8",
+            "lvl": "14.6",
             "notecount": 825,
             "tcharter": "Salt",
             "tap": 449,
@@ -23439,8 +23439,8 @@
         },
         "IN": {
             "charter": "Salt & Uvernight",
-            "dif": "16",
-            "lvl": "16.0",
+            "dif": "15",
+            "lvl": "15.9",
             "notecount": 1248,
             "tcharter": "Salt & Uvernight",
             "tap": 820,
@@ -23452,7 +23452,7 @@
         "AT": {
             "charter": "魔王、大咩兔の兄 『大咩免』!!",
             "dif": "16",
-            "lvl": "16.9",
+            "lvl": "16.8",
             "notecount": 1677,
             "tcharter": "XMT小咩兔",
             "tap": 1115,
@@ -23616,7 +23616,7 @@
         "IN": {
             "charter": "Salt",
             "dif": "14",
-            "lvl": "14.5",
+            "lvl": "14.4",
             "notecount": 721,
             "tcharter": "Salt",
             "tap": 393,
@@ -23855,8 +23855,8 @@
         "previewe": "41.71",
         "EZ": {
             "charter": "Minibus",
-            "dif": "3",
-            "lvl": "3.0",
+            "dif": "4",
+            "lvl": "4.0",
             "notecount": 196,
             "tcharter": "Magazet",
             "tap": 116,
@@ -23880,7 +23880,7 @@
         "IN": {
             "charter": "Monorail",
             "dif": "13",
-            "lvl": "13.7",
+            "lvl": "13.5",
             "notecount": 666,
             "tcharter": "Magazet",
             "tap": 401,
@@ -24031,8 +24031,8 @@
         "previewe": "106.00",
         "EZ": {
             "charter": "【梦之起始】爬爬 vs. 盐",
-            "dif": "7",
-            "lvl": "7.0",
+            "dif": "6",
+            "lvl": "6.0",
             "notecount": 521,
             "tcharter": "爬爬 & Salt",
             "tap": 79,
@@ -24044,7 +24044,7 @@
         "HD": {
             "charter": "E00200",
             "dif": "12",
-            "lvl": "12.1",
+            "lvl": "12.5",
             "notecount": 1141,
             "tcharter": "Uvernight",
             "tap": 476,
@@ -24056,7 +24056,7 @@
         "IN": {
             "charter": "Magazet wanders within StR-1",
             "dif": "16",
-            "lvl": "16.2",
+            "lvl": "16.4",
             "notecount": 1648,
             "tcharter": "Magazet & StR-1",
             "tap": 745,
@@ -24119,8 +24119,8 @@
         "previewe": "96.00",
         "EZ": {
             "charter": "爬爬",
-            "dif": "6",
-            "lvl": "6.0",
+            "dif": "7",
+            "lvl": "7.0",
             "notecount": 378,
             "tcharter": "爬爬",
             "tap": 114,
@@ -24132,7 +24132,7 @@
         "HD": {
             "charter": "凛",
             "dif": "12",
-            "lvl": "12.5",
+            "lvl": "12.1",
             "notecount": 817,
             "tcharter": "Uvernight",
             "tap": 398,
@@ -24144,7 +24144,7 @@
         "IN": {
             "charter": "OPCII_0584_X",
             "dif": "16",
-            "lvl": "16.4",
+            "lvl": "16.2",
             "notecount": 1439,
             "tcharter": "Simon_Axis",
             "tap": 810,
@@ -24173,6 +24173,182 @@
         "translate": "彩",
         "BPM": 170,
         "duration": "162.38",
+        "LY": {
+            "notecount": "",
+            "tcharter": "",
+            "dif": "",
+            "lvl": "",
+            "charter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "SP": {
+            "notecount": "",
+            "tcharter": "",
+            "dif": "",
+            "lvl": "",
+            "charter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "display": true
+    },
+    "彼方へ名もなき海辺より.打打だいず&月乃.0": {
+        "name": "彼方へ、名もなき海辺より",
+        "composer": "打打だいず&月乃",
+        "illustrator": "月乃",
+        "previews": "72.00",
+        "previewe": "92.00",
+        "EZ": {
+            "charter": "打打だいずファンクラブ会長 -- Likey！！！",
+            "dif": "3",
+            "lvl": "3.5",
+            "notecount": 217,
+            "tcharter": "Likey",
+            "tap": 63,
+            "drag": 77,
+            "hold": 65,
+            "flick": 12,
+            "line": 19
+        },
+        "HD": {
+            "charter": "打打だいずファンクラブ会長 -- Likey！！！",
+            "dif": "8",
+            "lvl": "8.1",
+            "notecount": 409,
+            "tcharter": "Likey",
+            "tap": 145,
+            "drag": 131,
+            "hold": 129,
+            "flick": 4,
+            "line": 12
+        },
+        "IN": {
+            "charter": "打打だいずファンクラブ会長 -- Likey！！！",
+            "dif": "14",
+            "lvl": "14.5",
+            "notecount": 841,
+            "tcharter": "Likey",
+            "tap": 400,
+            "drag": 231,
+            "hold": 176,
+            "flick": 34,
+            "line": 23
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "relation": "宇宙电台2025",
+        "date": "2026/2/8",
+        "competition": "",
+        "chapter": "Single Collection 单曲 精选集",
+        "version": "3.18.3",
+        "translate": "自无名海畔，向彼岸",
+        "BPM": 185,
+        "duration": "171.90",
+        "LY": {
+            "notecount": "",
+            "tcharter": "",
+            "dif": "",
+            "lvl": "",
+            "charter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "SP": {
+            "notecount": "",
+            "tcharter": "",
+            "dif": "",
+            "lvl": "",
+            "charter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "display": true
+    },
+    "ABYSSMOTION192333.ariiolTSAR奏Sou.0": {
+        "name": "ABYSS MOTION 192.333",
+        "composer": "ariiol & 奏Sou",
+        "illustrator": "kkmfd",
+        "previews": "42.73",
+        "previewe": "63.95",
+        "EZ": {
+            "charter": "ABYSS 543.320",
+            "dif": "4",
+            "lvl": "4.0",
+            "notecount": 320,
+            "tcharter": "",
+            "tap": 109,
+            "drag": 151,
+            "hold": 35,
+            "flick": 25,
+            "line": 8
+        },
+        "HD": {
+            "charter": "ABYSS 543.320",
+            "dif": "9",
+            "lvl": "9.8",
+            "notecount": 543,
+            "tcharter": "",
+            "tap": 235,
+            "drag": 204,
+            "hold": 58,
+            "flick": 46,
+            "line": 8
+        },
+        "IN": {
+            "charter": "MOTION 464.237",
+            "dif": "14",
+            "lvl": "14.7",
+            "notecount": 815,
+            "tcharter": "",
+            "tap": 425,
+            "drag": 141,
+            "hold": 141,
+            "flick": 108,
+            "line": 19
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "relation": "音波狂潮",
+        "date": "2026/2/8",
+        "competition": "",
+        "chapter": "Single Collection 单曲 精选集",
+        "version": "3.18.3",
+        "translate": "深渊行动 192.333",
+        "BPM": 192.333,
+        "duration": "126.11",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25476,7 +25652,7 @@
         "AT": {
             "charter": "StR-1",
             "dif": "16",
-            "lvl": "16.4",
+            "lvl": "16.5",
             "notecount": 1111,
             "tcharter": "StR-1",
             "tap": 650,
@@ -26056,7 +26232,7 @@
         "EZ": {
             "charter": "LDAJOY&PLEASANT ^V^ LDA",
             "dif": "8",
-            "lvl": "8.1",
+            "lvl": "8.6",
             "notecount": 479,
             "tcharter": "LDA",
             "tap": 263,
@@ -26136,6 +26312,23 @@
         "display": true
     },
     "Introduction.姜米條ElousFZ.0": {
+        "name": "Introduction",
+        "composer": "姜米條 & ElousΛ.-FZ",
+        "illustrator": "L-sp4",
+        "previews": "0.00",
+        "previewe": "0.00",
+        "EZ": {
+            "charter": "野从",
+            "dif": "1",
+            "lvl": "1.0",
+            "notecount": 93,
+            "tcharter": "野从",
+            "tap": 9,
+            "drag": 60,
+            "hold": 14,
+            "flick": 10,
+            "line": 11
+        },
         "relation": "Phigros Original",
         "date": "2019/8/31",
         "competition": "",
@@ -26144,18 +26337,6 @@
         "translate": "序曲",
         "BPM": 138,
         "duration": "150.02",
-        "EZ": {
-            "notecount": 93,
-            "tcharter": "野从",
-            "tap": 9,
-            "drag": 60,
-            "hold": 14,
-            "flick": 10,
-            "line": 11,
-            "charter": "野从",
-            "dif": "1",
-            "lvl": "1.0"
-        },
         "HD": {
             "notecount": "",
             "tcharter": "",
@@ -26163,10 +26344,7 @@
             "drag": "",
             "hold": "",
             "flick": "",
-            "line": "",
-            "charter": "",
-            "dif": "",
-            "lvl": ""
+            "line": ""
         },
         "IN": {
             "notecount": "",
@@ -26175,10 +26353,7 @@
             "drag": "",
             "hold": "",
             "flick": "",
-            "line": "",
-            "charter": "",
-            "dif": "",
-            "lvl": ""
+            "line": ""
         },
         "AT": {
             "notecount": "",
@@ -26187,10 +26362,7 @@
             "drag": "",
             "hold": "",
             "flick": "",
-            "line": "",
-            "charter": "",
-            "dif": "",
-            "lvl": ""
+            "line": ""
         },
         "LY": {
             "notecount": "",
@@ -26216,12 +26388,7 @@
             "flick": "",
             "line": ""
         },
-        "display": false,
-        "name": "Introduction",
-        "composer": "姜米條 & ElousΛ.-FZ",
-        "illustrator": "L-sp4",
-        "previews": "0.00",
-        "previewe": "0.00"
+        "display": true
     },
     "Christmas.姜米條.0": {
         "relation": "Special & Original",
