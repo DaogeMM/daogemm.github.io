@@ -5,7 +5,7 @@
     "BPM": 257,
     "Duration": 138.01,
     "EZ": {
-      "Level": 7.5,
+      "Level": 7,
       "Charter": "StR-1",
       "NC": 296
     },
@@ -83,7 +83,7 @@
     "BPM": 199,
     "Duration": 144.13,
     "EZ": {
-      "Level": 6,
+      "Level": 7.5,
       "Charter": "Helabot",
       "NC": 363
     },
@@ -207,23 +207,49 @@
       "NC": 0
     }
   },
+  "彩.MisoilePunch.0": {
+    "songName": "彩",
+    "Composer": "MisoilePunch♪",
+    "BPM": 170,
+    "Duration": 162.38,
+    "EZ": {
+      "Level": 6,
+      "Charter": "爬爬",
+      "NC": 378
+    },
+    "HD": {
+      "Level": 12.5,
+      "Charter": "Uvernight",
+      "NC": 817
+    },
+    "IN": {
+      "Level": 16.4,
+      "Charter": "Simon_Axis",
+      "NC": 1439
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
   "Incyde.YbeLL.0": {
     "songName": "Incyde",
     "Composer": "YbeLL",
     "BPM": "180~540",
     "Duration": 200.58,
     "EZ": {
-      "Level": 6,
+      "Level": 7,
       "Charter": "爬爬 & Salt",
       "NC": 521
     },
     "HD": {
-      "Level": 12.5,
+      "Level": 12.1,
       "Charter": "Uvernight",
       "NC": 1141
     },
     "IN": {
-      "Level": 16.4,
+      "Level": 16.2,
       "Charter": "Magazet & StR-1",
       "NC": 1648
     },
@@ -252,32 +278,6 @@
       "Level": 16.2,
       "Charter": "Simon_Axis & Likey",
       "NC": 1502
-    },
-    "AT": {
-      "Level": 0,
-      "Charter": "",
-      "NC": 0
-    }
-  },
-  "彩.MisoilePunch.0": {
-    "songName": "彩",
-    "Composer": "MisoilePunch♪",
-    "BPM": 170,
-    "Duration": 162.38,
-    "EZ": {
-      "Level": 7,
-      "Charter": "爬爬",
-      "NC": 378
-    },
-    "HD": {
-      "Level": 12.1,
-      "Charter": "Uvernight",
-      "NC": 817
-    },
-    "IN": {
-      "Level": 16.2,
-      "Charter": "Simon_Axis",
-      "NC": 1439
     },
     "AT": {
       "Level": 0,
