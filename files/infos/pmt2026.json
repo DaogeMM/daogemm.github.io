@@ -1,0 +1,964 @@
+{
+  "QZKagoRequiem.tpazolite.0": {
+    "songName": "QZKago Requiem",
+    "Composer": "t+pazolite",
+    "BPM": 257,
+    "Duration": 138.01,
+    "EZ": {
+      "Level": 7.5,
+      "Charter": "StR-1",
+      "NC": 296
+    },
+    "HD": {
+      "Level": 13.3,
+      "Charter": "Rikko",
+      "NC": 1007
+    },
+    "IN": {
+      "Level": 16.3,
+      "Charter": "Gausbon",
+      "NC": 1259
+    },
+    "AT": {
+      "Level": 17.4,
+      "Charter": "Salt & M3d1uM",
+      "NC": 1723
+    }
+  },
+  "StardustRAY.kanonevsBlackY.0": {
+    "songName": "Stardust:RAY",
+    "Composer": "kanone vs. BlackY",
+    "BPM": 164,
+    "Duration": 166.1,
+    "EZ": {
+      "Level": 6,
+      "Charter": "Simon_Axis & Su1fuR",
+      "NC": 399
+    },
+    "HD": {
+      "Level": 12.3,
+      "Charter": "Simon_Axis & Su1fuR",
+      "NC": 844
+    },
+    "IN": {
+      "Level": 16.5,
+      "Charter": "Simon_Axis & Su1fuR",
+      "NC": 1392
+    },
+    "AT": {
+      "Level": 17.2,
+      "Charter": "Likey & StupiGGy",
+      "NC": 1570
+    }
+  },
+  "Hydra.JamesLandinoXAkiraComplex.0": {
+    "songName": "Hydra",
+    "Composer": "James Landino X Akira Complex",
+    "BPM": 160,
+    "Duration": 150.02,
+    "EZ": {
+      "Level": 6,
+      "Charter": "COC",
+      "NC": 283
+    },
+    "HD": {
+      "Level": 11.6,
+      "Charter": "COC",
+      "NC": 723
+    },
+    "IN": {
+      "Level": 15.4,
+      "Charter": "Su1fuR",
+      "NC": 1085
+    },
+    "AT": {
+      "Level": 17.1,
+      "Charter": "Likey",
+      "NC": 1547
+    }
+  },
+  "slips.rintarosoma.0": {
+    "songName": "sølips",
+    "Composer": "rintaro soma",
+    "BPM": 199,
+    "Duration": 144.13,
+    "EZ": {
+      "Level": 6,
+      "Charter": "Helabot",
+      "NC": 363
+    },
+    "HD": {
+      "Level": 12.8,
+      "Charter": "Salt",
+      "NC": 935
+    },
+    "IN": {
+      "Level": 16,
+      "Charter": "StR-1",
+      "NC": 1128
+    },
+    "AT": {
+      "Level": 16.8,
+      "Charter": "XMT小咩兔 & Likey",
+      "NC": 1175
+    }
+  },
+  "BANGINGSTRIKE.DewPleiades.0": {
+    "songName": "BANGING STRIKE",
+    "Composer": "Dew Pleiades",
+    "BPM": 234,
+    "Duration": 148,
+    "EZ": {
+      "Level": 5,
+      "Charter": "啊哒咔哟",
+      "NC": 371
+    },
+    "HD": {
+      "Level": 10.2,
+      "Charter": "啊哒咔哟",
+      "NC": 644
+    },
+    "IN": {
+      "Level": 15.9,
+      "Charter": "Salt & Uvernight",
+      "NC": 1248
+    },
+    "AT": {
+      "Level": 16.8,
+      "Charter": "XMT小咩兔",
+      "NC": 1677
+    }
+  },
+  "DiamondDust.MasahiroGodspeedAoki.0": {
+    "songName": "Diamond Dust",
+    "Composer": "Masahiro “Godspeed” Aoki",
+    "BPM": 200,
+    "Duration": 155.06,
+    "EZ": {
+      "Level": 5,
+      "Charter": "Salt",
+      "NC": 266
+    },
+    "HD": {
+      "Level": 10.8,
+      "Charter": "Salt",
+      "NC": 646
+    },
+    "IN": {
+      "Level": 15.3,
+      "Charter": "Gausbon",
+      "NC": 986
+    },
+    "AT": {
+      "Level": 16.7,
+      "Charter": "StupiGGy",
+      "NC": 1518
+    }
+  },
+  "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0": {
+    "songName": "Avataar ~Reincarnation of Kalpa~",
+    "Composer": "Scarlette a.k.a CrYmson",
+    "BPM": "180~540",
+    "Duration": 174.67,
+    "EZ": {
+      "Level": 2,
+      "Charter": "Su1fuR",
+      "NC": 122
+    },
+    "HD": {
+      "Level": 8.2,
+      "Charter": "Su1fuR",
+      "NC": 887
+    },
+    "IN": {
+      "Level": 13.4,
+      "Charter": "Salt",
+      "NC": 979
+    },
+    "AT": {
+      "Level": 16.6,
+      "Charter": "XMT小咩兔 & Salt",
+      "NC": 1074
+    }
+  },
+  "Verruckt.Raimukun.0": {
+    "songName": "Verrückt",
+    "Composer": "Raimukun",
+    "BPM": 238,
+    "Duration": 121.25,
+    "EZ": {
+      "Level": 7,
+      "Charter": "Magazet",
+      "NC": 273
+    },
+    "HD": {
+      "Level": 12.6,
+      "Charter": "Magazet",
+      "NC": 621
+    },
+    "IN": {
+      "Level": 16.5,
+      "Charter": "Salt",
+      "NC": 1285
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Incyde.YbeLL.0": {
+    "songName": "Incyde",
+    "Composer": "YbeLL",
+    "BPM": "180~540",
+    "Duration": 200.58,
+    "EZ": {
+      "Level": 6,
+      "Charter": "爬爬 & Salt",
+      "NC": 521
+    },
+    "HD": {
+      "Level": 12.5,
+      "Charter": "Uvernight",
+      "NC": 1141
+    },
+    "IN": {
+      "Level": 16.4,
+      "Charter": "Magazet & StR-1",
+      "NC": 1648
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "RetributionCycleofRedemption.ArdolfvsDaily天利.0": {
+    "songName": "Retribution ~ Cycle of Redemption ~",
+    "Composer": "Ardolf vs. Daily天利",
+    "BPM": 225,
+    "Duration": 173.79,
+    "EZ": {
+      "Level": 6,
+      "Charter": "StR-1 & 右果_Ary",
+      "NC": 393
+    },
+    "HD": {
+      "Level": 11.3,
+      "Charter": "StR-1 & 右果_Ary",
+      "NC": 789
+    },
+    "IN": {
+      "Level": 16.2,
+      "Charter": "Simon_Axis & Likey",
+      "NC": 1502
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "彩.MisoilePunch.0": {
+    "songName": "彩",
+    "Composer": "MisoilePunch♪",
+    "BPM": 170,
+    "Duration": 162.38,
+    "EZ": {
+      "Level": 7,
+      "Charter": "爬爬",
+      "NC": 378
+    },
+    "HD": {
+      "Level": 12.1,
+      "Charter": "Uvernight",
+      "NC": 817
+    },
+    "IN": {
+      "Level": 16.2,
+      "Charter": "Simon_Axis",
+      "NC": 1439
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "NOx.Juggernaut.0": {
+    "songName": "NO x",
+    "Composer": "Juggernaut.",
+    "BPM": 190,
+    "Duration": 153.16,
+    "EZ": {
+      "Level": 4.5,
+      "Charter": "Su1fuR",
+      "NC": 198
+    },
+    "HD": {
+      "Level": 10.3,
+      "Charter": "IUIsauce",
+      "NC": 700
+    },
+    "IN": {
+      "Level": 16.1,
+      "Charter": "StR-1",
+      "NC": 1150
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Aliceinaxxxxxxxx.Nagiha.0": {
+    "songName": "Alice in a xxxxxxxx",
+    "Composer": "Nagiha ",
+    "BPM": 144,
+    "Duration": 155.01,
+    "EZ": {
+      "Level": 5,
+      "Charter": "XMT小咩兔",
+      "NC": 239
+    },
+    "HD": {
+      "Level": 9.5,
+      "Charter": "XMT小咩兔",
+      "NC": 433
+    },
+    "IN": {
+      "Level": 15.8,
+      "Charter": "XMT小咩兔",
+      "NC": 922
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "百鬼夜行.SaladSavior.0": {
+    "songName": "百鬼֎夜行",
+    "Composer": "Salad Savior",
+    "BPM": 200,
+    "Duration": 138.01,
+    "EZ": {
+      "Level": 4.5,
+      "Charter": "Magazet",
+      "NC": 253
+    },
+    "HD": {
+      "Level": 10.1,
+      "Charter": "Magazet",
+      "NC": 625
+    },
+    "IN": {
+      "Level": 15.8,
+      "Charter": "Algax & RipHall",
+      "NC": 956
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "DevIAtiOnshortver.polysha.0": {
+    "songName": "DevIAtiOn (short ver.)",
+    "Composer": "polysha",
+    "BPM": "140~155",
+    "Duration": 171.87,
+    "EZ": {
+      "Level": 5,
+      "Charter": "COC",
+      "NC": 222
+    },
+    "HD": {
+      "Level": 11.1,
+      "Charter": "COC",
+      "NC": 827
+    },
+    "IN": {
+      "Level": 15.7,
+      "Charter": "NerSAN",
+      "NC": 1117
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Archidoxen.Se_IRA.0": {
+    "songName": "Archidoxen",
+    "Composer": "Se_IRA",
+    "BPM": 160,
+    "Duration": 123.76,
+    "EZ": {
+      "Level": 4,
+      "Charter": "右果_Ary",
+      "NC": 262
+    },
+    "HD": {
+      "Level": 10,
+      "Charter": "右果_Ary",
+      "NC": 543
+    },
+    "IN": {
+      "Level": 15.6,
+      "Charter": "右果_Ary",
+      "NC": 938
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "AfterZABANIYAMUGEdit.Daily天利.0": {
+    "songName": "After ZABANIYA (MUG Edit)",
+    "Composer": "Daily天利",
+    "BPM": 222,
+    "Duration": 147.31,
+    "EZ": {
+      "Level": 5,
+      "Charter": "Magazet",
+      "NC": 364
+    },
+    "HD": {
+      "Level": 10.2,
+      "Charter": "Magazet",
+      "NC": 723
+    },
+    "IN": {
+      "Level": 15.6,
+      "Charter": "Magazet",
+      "NC": 1130
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Radiance.Nhato.0": {
+    "songName": "Radiance",
+    "Composer": "Nhato",
+    "BPM": 155,
+    "Duration": 146.34,
+    "EZ": {
+      "Level": 3.5,
+      "Charter": "Su1fuR",
+      "NC": 218
+    },
+    "HD": {
+      "Level": 11.9,
+      "Charter": "Rikko",
+      "NC": 639
+    },
+    "IN": {
+      "Level": 14,
+      "Charter": "XMT小咩兔",
+      "NC": 667
+    },
+    "AT": {
+      "Level": 15.6,
+      "Charter": "Rikko",
+      "NC": 926
+    }
+  },
+  "Rebirth.ああああ.0": {
+    "songName": "Re：birth",
+    "Composer": "ああああ",
+    "BPM": 196,
+    "Duration": 157.98,
+    "EZ": {
+      "Level": 6,
+      "Charter": "啊哒咔哟 & XMT小咩兔 & COC",
+      "NC": 320
+    },
+    "HD": {
+      "Level": 12,
+      "Charter": "啊哒咔哟 & XMT小咩兔 & COC",
+      "NC": 733
+    },
+    "IN": {
+      "Level": 15.4,
+      "Charter": "Gausbon & StupiGGy",
+      "NC": 939
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "FlutterEcho.Cansol.0": {
+    "songName": "Flutter Echo",
+    "Composer": "Cansol",
+    "BPM": 219,
+    "Duration": 162.93,
+    "EZ": {
+      "Level": 3.5,
+      "Charter": "Rikko",
+      "NC": 222
+    },
+    "HD": {
+      "Level": 9.8,
+      "Charter": "Rikko",
+      "NC": 555
+    },
+    "IN": {
+      "Level": 14.9,
+      "Charter": "Clutter",
+      "NC": 1046
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Xenophobia.XinG.0": {
+    "songName": "Xenophobia",
+    "Composer": "XinG",
+    "BPM": 174,
+    "Duration": 146.61,
+    "EZ": {
+      "Level": 6.5,
+      "Charter": "Skuwo",
+      "NC": 366
+    },
+    "HD": {
+      "Level": 12.7,
+      "Charter": "Skuwo",
+      "NC": 873
+    },
+    "IN": {
+      "Level": 14.9,
+      "Charter": "Skuwo",
+      "NC": 1562
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Xepion.Acotto.0": {
+    "songName": "Xep+ion",
+    "Composer": "Acotto",
+    "BPM": 170,
+    "Duration": 117.76,
+    "EZ": {
+      "Level": 2.5,
+      "Charter": "Su1fuR",
+      "NC": 123
+    },
+    "HD": {
+      "Level": 9.8,
+      "Charter": "Rikko",
+      "NC": 368
+    },
+    "IN": {
+      "Level": 14.8,
+      "Charter": "Su1fuR & Rikko",
+      "NC": 698
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Alb.Avans.0": {
+    "songName": "Alb",
+    "Composer": "Avans",
+    "BPM": 140,
+    "Duration": 150.88,
+    "EZ": {
+      "Level": 3.5,
+      "Charter": "Likey",
+      "NC": 242
+    },
+    "HD": {
+      "Level": 8.9,
+      "Charter": "右果_Ary",
+      "NC": 687
+    },
+    "IN": {
+      "Level": 14.7,
+      "Charter": "右果_Ary",
+      "NC": 898
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "ABYSSMOTION192333.ariiolTSAR奏Sou.0": {
+    "songName": "ABYSS MOTION 192.333",
+    "Composer": "ariiol & 奏Sou",
+    "BPM": 192.333,
+    "Duration": 126.11,
+    "EZ": {
+      "Level": 4,
+      "Charter": "右果_Ary",
+      "NC": 320
+    },
+    "HD": {
+      "Level": 9.8,
+      "Charter": "右果_Ary",
+      "NC": 543
+    },
+    "IN": {
+      "Level": 14.7,
+      "Charter": "Magazet & Su1fuR & Salt",
+      "NC": 815
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "FrozenHeart.A39沙包P.0": {
+    "songName": "Frozen Heart",
+    "Composer": "A-39 / 沙包P",
+    "BPM": 185,
+    "Duration": 192.65,
+    "EZ": {
+      "Level": 5,
+      "Charter": "StR-1",
+      "NC": 353
+    },
+    "HD": {
+      "Level": 10.6,
+      "Charter": "StR-1",
+      "NC": 708
+    },
+    "IN": {
+      "Level": 14.6,
+      "Charter": "Likey & Gausbon",
+      "NC": 939
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔.0": {
+    "songName": "So laggy! (feat. Uzumaki)",
+    "Composer": "ShrimpCats. (はぁち×後藤涼輔)",
+    "BPM": 180,
+    "Duration": 122.68,
+    "EZ": {
+      "Level": 5,
+      "Charter": "Salt",
+      "NC": 218
+    },
+    "HD": {
+      "Level": 9.5,
+      "Charter": "Salt",
+      "NC": 445
+    },
+    "IN": {
+      "Level": 14.6,
+      "Charter": "Salt",
+      "NC": 825
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "彼方へ名もなき海辺より.打打だいず&月乃.0": {
+    "songName": "彼方へ、名もなき海辺より",
+    "Composer": "打打だいず&月乃",
+    "BPM": 185,
+    "Duration": 171.9,
+    "EZ": {
+      "Level": 3.5,
+      "Charter": "Likey",
+      "NC": 217
+    },
+    "HD": {
+      "Level": 8.1,
+      "Charter": "Likey",
+      "NC": 409
+    },
+    "IN": {
+      "Level": 14.5,
+      "Charter": "Likey",
+      "NC": 841
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "000AinSophAur.Yumeji.0": {
+    "songName": "000 -Ain Soph Aur-",
+    "Composer": "Yumeji",
+    "BPM": 194,
+    "Duration": 154.21,
+    "EZ": {
+      "Level": 2.5,
+      "Charter": "Magazet",
+      "NC": 171
+    },
+    "HD": {
+      "Level": 8.4,
+      "Charter": "Magazet",
+      "NC": 371
+    },
+    "IN": {
+      "Level": 14.4,
+      "Charter": "啊哒咔哟",
+      "NC": 689
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Cristalisia.onoken.0": {
+    "songName": "Cristalisia",
+    "Composer": "onoken",
+    "BPM": 134,
+    "Duration": 136.58,
+    "EZ": {
+      "Level": 4,
+      "Charter": "Skuwo",
+      "NC": 241
+    },
+    "HD": {
+      "Level": 10.4,
+      "Charter": "Skuwo",
+      "NC": 577
+    },
+    "IN": {
+      "Level": 14.4,
+      "Charter": "Salt",
+      "NC": 721
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Komplexe.雄之助featSennzai.0": {
+    "songName": "Komplexe",
+    "Composer": "雄之助 feat. Sennzai",
+    "BPM": 165,
+    "Duration": 142.56,
+    "EZ": {
+      "Level": 3.5,
+      "Charter": "Helabot",
+      "NC": 238
+    },
+    "HD": {
+      "Level": 9.6,
+      "Charter": "右果_Ary",
+      "NC": 485
+    },
+    "IN": {
+      "Level": 14.3,
+      "Charter": "Likey",
+      "NC": 1051
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Helios.NOABotaNya.0": {
+    "songName": "Helios",
+    "Composer": "NOA(Cortrix) & BotaNya",
+    "BPM": 150,
+    "Duration": 134.4,
+    "EZ": {
+      "Level": 5.5,
+      "Charter": "Jeitie",
+      "NC": 188
+    },
+    "HD": {
+      "Level": 9,
+      "Charter": "Jeitie",
+      "NC": 391
+    },
+    "IN": {
+      "Level": 14.2,
+      "Charter": "Jeitie",
+      "NC": 786
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "アンビバレンス.すりぃ相沢.0": {
+    "songName": "アンビバレンス",
+    "Composer": "すりぃ×相沢",
+    "BPM": 187,
+    "Duration": 161.72,
+    "EZ": {
+      "Level": 4,
+      "Charter": "XMT小咩兔",
+      "NC": 299
+    },
+    "HD": {
+      "Level": 8.7,
+      "Charter": "XMT小咩兔",
+      "NC": 579
+    },
+    "IN": {
+      "Level": 14.1,
+      "Charter": "Ctymax & Rikko & 阿爽",
+      "NC": 1128
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "雪降り雪が降っている.AiSSw夜輪ft結月ゆかり.0": {
+    "songName": "雪降り ~雪が降っている~",
+    "Composer": "AiSS w/ 夜輪 ft. 結月ゆかり",
+    "BPM": "156~234",
+    "Duration": 149.24,
+    "EZ": {
+      "Level": 1.5,
+      "Charter": "Su1fuR",
+      "NC": 111
+    },
+    "HD": {
+      "Level": 7.5,
+      "Charter": "Su1fuR",
+      "NC": 364
+    },
+    "IN": {
+      "Level": 12,
+      "Charter": "XMT小咩兔 & 野从 & NerSAN",
+      "NC": 429
+    },
+    "AT": {
+      "Level": 14,
+      "Charter": "XMT小咩兔",
+      "NC": 531
+    }
+  },
+  "最高傑作.PYKAMIA.0": {
+    "songName": "最高傑作",
+    "Composer": "PYKAMIA",
+    "BPM": 140,
+    "Duration": 144.01,
+    "EZ": {
+      "Level": 4.5,
+      "Charter": "StR-1",
+      "NC": 203
+    },
+    "HD": {
+      "Level": 9.3,
+      "Charter": "StR-1",
+      "NC": 346
+    },
+    "IN": {
+      "Level": 13.9,
+      "Charter": "TangScend & XMT小咩兔",
+      "NC": 697
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "TheWholeRest.KIVΛ.0": {
+    "songName": "The Whole Rest",
+    "Composer": "KIVΛ",
+    "BPM": 157,
+    "Duration": 143.53,
+    "EZ": {
+      "Level": 5,
+      "Charter": "Salt",
+      "NC": 217
+    },
+    "HD": {
+      "Level": 9.6,
+      "Charter": "Rikko",
+      "NC": 484
+    },
+    "IN": {
+      "Level": 13.6,
+      "Charter": "Uvernight",
+      "NC": 785
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "Locomotive.K.0": {
+    "songName": "Locomotive",
+    "Composer": "♠K",
+    "BPM": 128,
+    "Duration": 148.88,
+    "EZ": {
+      "Level": 4,
+      "Charter": "Magazet",
+      "NC": 196
+    },
+    "HD": {
+      "Level": 9.7,
+      "Charter": "Magazet",
+      "NC": 403
+    },
+    "IN": {
+      "Level": 13.5,
+      "Charter": "Magazet",
+      "NC": 666
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  },
+  "AphroditesChildshortver.RUQOA.0": {
+    "songName": "Aphrodite's Child (short ver.)",
+    "Composer": "RUQOA",
+    "BPM": 128,
+    "Duration": 167.35,
+    "EZ": {
+      "Level": 3.5,
+      "Charter": "StupiGGy",
+      "NC": 251
+    },
+    "HD": {
+      "Level": 8.1,
+      "Charter": "StupiGGy",
+      "NC": 516
+    },
+    "IN": {
+      "Level": 13.3,
+      "Charter": "JKy",
+      "NC": 674
+    },
+    "AT": {
+      "Level": 0,
+      "Charter": "",
+      "NC": 0
+    }
+  }
+}
