@@ -1,4 +1,21 @@
 {
+  "BoundedQuietude.FiniteLimitvsSiLiS.0": {
+    "songName": "[决赛曲] Bounded Quietude",
+    "Composer": "Finite Limit vs SiLiS",
+    "Type": 0,
+    "EZ": {
+      "Level": 7
+    },
+    "HD": {
+      "Level": 7.5
+    },
+    "IN": {
+      "Level": 15.9
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "Rrharil.TeamGrimoire.0": {
     "songName": "Rrhar'il",
     "Composer": "Team Grimoire",
@@ -252,23 +269,6 @@
     },
     "AT": {
       "Level": 16.1
-    }
-  },
-  "BoundedQuietude.FiniteLimitvsSiLiS.0": {
-    "songName": "[决赛曲] Bounded Quietude",
-    "Composer": "Finite Limit vs SiLiS",
-    "Type": 1,
-    "EZ": {
-      "Level": 7
-    },
-    "HD": {
-      "Level": 7.5
-    },
-    "IN": {
-      "Level": 15.9
-    },
-    "AT": {
-      "Level": 0
     }
   },
   "ChronosCollapseLaCampanella.SunsetRay.0": {

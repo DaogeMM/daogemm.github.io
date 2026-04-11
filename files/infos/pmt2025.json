@@ -1,4 +1,21 @@
 {
+  "BANGINGSTRIKE.DewPleiades.0": {
+    "songName": "[决赛曲] BANGING STRIKE",
+    "Composer": "Dew Pleiades",
+    "Type": 0,
+    "EZ": {
+      "Level": 5
+    },
+    "HD": {
+      "Level": 10.2
+    },
+    "IN": {
+      "Level": 16.0
+    },
+    "AT": {
+      "Level": 16.9
+    }
+  },
   "DistortedFate.Sakuzyo.0": {
     "songName": "Distorted Fate",
     "Composer": "Sakuzyo",
@@ -116,23 +133,6 @@
     },
     "AT": {
       "Level": 17
-    }
-  },
-  "BANGINGSTRIKE.DewPleiades.0": {
-    "songName": "[决赛曲] BANGING STRIKE",
-    "Composer": "Dew Pleiades",
-    "Type": 1,
-    "EZ": {
-      "Level": 5
-    },
-    "HD": {
-      "Level": 10.2
-    },
-    "IN": {
-      "Level": 16.0
-    },
-    "AT": {
-      "Level": 16.9
     }
   },
   "DerRichter.Ωμεγα.0": {
