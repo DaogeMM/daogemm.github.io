@@ -1,578 +1,2178 @@
-[
-  {
-    "name": "Strrrffe",
-    "score": 51.4,
-    "url": "https://b23.tv/cRVecHZ",
-    "id": "Strrrffe",
-    "uid": "1264077976",
-    "rank": 1,
-    "bvid": "BV1MyH9zBEUu"
+{
+  "Strrrffe": {
+    "player": {
+      "name": "Strrrffe",
+      "score": 51.4,
+      "url": "https://b23.tv/cRVecHZ",
+      "id": "Strrrffe",
+      "uid": "1264077976",
+      "rank": 1,
+      "bvid": "BV1MyH9zBEUu"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 1000000,
+        "value": 17.2
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 1000000,
+        "value": 17.2
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 1000000,
+        "value": 17.0
+      }
+    ]
   },
-  {
-    "name": "awalineUwU",
-    "score": 51.38295711,
-    "url": "https://www.bilibili.com/video/BV19aJDzwEii/",
-    "id": "awaline_UwU",
-    "uid": "3546721191725658",
-    "rank": 2,
-    "bvid": "BV19aJDzwEii"
+  "awalineUwU": {
+    "player": {
+      "name": "awalineUwU",
+      "score": 51.38295711,
+      "url": "https://www.bilibili.com/video/BV19aJDzwEii/",
+      "id": "awaline_UwU",
+      "uid": "3546721191725658",
+      "rank": 2,
+      "bvid": "BV19aJDzwEii"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 1000000,
+        "value": 17.2
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999777,
+        "value": 17.18296
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 1000000,
+        "value": 17.0
+      }
+    ]
   },
-  {
-    "name": "Ex1stenS",
-    "score": 51.33340536,
-    "url": "https://www.bilibili.com/video/BV1h1pnzQEPX",
-    "id": "Ex1stenS",
-    "uid": "508658816",
-    "rank": 3,
-    "bvid": "BV1h1pnzQEPX"
+  "Ex1stenS": {
+    "player": {
+      "name": "Ex1stenS",
+      "score": 51.33340536,
+      "url": "https://www.bilibili.com/video/BV1h1pnzQEPX",
+      "id": "Ex1stenS",
+      "uid": "508658816",
+      "rank": 3,
+      "bvid": "BV1h1pnzQEPX"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999777,
+        "value": 17.18296
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999654,
+        "value": 17.17356
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999694,
+        "value": 16.97689
+      }
+    ]
   },
-  {
-    "name": "666js",
-    "score": 51.32360166,
-    "url": "https://m.bilibili.com/video/BV11hp7zvEid/",
-    "id": "-666js-",
-    "uid": "693928832",
-    "rank": 4,
-    "bvid": "BV11hp7zvEid"
+  "666js": {
+    "player": {
+      "name": "666js",
+      "score": 51.32360166,
+      "url": "https://m.bilibili.com/video/BV11hp7zvEid/",
+      "id": "-666js-",
+      "uid": "693928832",
+      "rank": 4,
+      "bvid": "BV11hp7zvEid"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999777,
+        "value": 17.18296
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999389,
+        "value": 16.95387
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999827,
+        "value": 17.18678
+      }
+    ]
   },
-  {
-    "name": "幽蓝边鸠awa！",
-    "score": 51.27483389,
-    "url": "https://www.bilibili.com/video/BV1d7Jyz7EHT",
-    "id": "幽蓝边鸠awa",
-    "uid": "2103588161",
-    "rank": 5,
-    "bvid": "BV1d7Jyz7EHT"
+  "幽蓝边鸠awa！": {
+    "player": {
+      "name": "幽蓝边鸠awa！",
+      "score": 51.27483389,
+      "url": "https://www.bilibili.com/video/BV1d7Jyz7EHT",
+      "id": "幽蓝边鸠awa",
+      "uid": "2103588161",
+      "rank": 5,
+      "bvid": "BV1d7Jyz7EHT"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999331,
+        "value": 17.1489
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999694,
+        "value": 16.97689
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999333,
+        "value": 17.14905
+      }
+    ]
   },
-  {
-    "name": "bult_1519",
-    "score": 51.25066979,
-    "url": "https://b23.tv/kTVATzg",
-    "id": "bult_1519",
-    "uid": "291942700",
-    "rank": 6,
-    "bvid": "BV1ATH6z4EbW"
+  "bult_1519": {
+    "player": {
+      "name": "bult_1519",
+      "score": 51.25066979,
+      "url": "https://b23.tv/kTVATzg",
+      "id": "bult_1519",
+      "uid": "291942700",
+      "rank": 6,
+      "bvid": "BV1ATH6z4EbW"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998472,
+        "value": 16.88475
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999554,
+        "value": 17.16592
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 1000000,
+        "value": 17.2
+      }
+    ]
   },
-  {
-    "name": "nf11",
-    "score": 51.22126462,
-    "url": "https://b23.tv/dQhWwUy",
-    "id": "rrrOmuH",
-    "uid": "2038753414",
-    "rank": 7,
-    "bvid": "BV1mLaZzgEnF"
+  "nf11": {
+    "player": {
+      "name": "nf11",
+      "score": 51.22126462,
+      "url": "https://b23.tv/dQhWwUy",
+      "id": "rrrOmuH",
+      "uid": "2038753414",
+      "rank": 7,
+      "bvid": "BV1mLaZzgEnF"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999554,
+        "value": 17.16592
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999012,
+        "value": 17.12456
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999083,
+        "value": 16.93079
+      }
+    ]
   },
-  {
-    "name": "DestinySilent",
-    "score": 51.21441381,
-    "url": "https://www.bilibili.com/video/BV1KXHZzUESv/",
-    "id": "DestinySilent",
-    "uid": "1257947112",
-    "rank": 8,
-    "bvid": "BV1KXHZzUESv"
+  "DestinySilent": {
+    "player": {
+      "name": "DestinySilent",
+      "score": 51.21441381,
+      "url": "https://www.bilibili.com/video/BV1KXHZzUESv/",
+      "id": "DestinySilent",
+      "uid": "1257947112",
+      "rank": 8,
+      "bvid": "BV1KXHZzUESv"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999554,
+        "value": 17.16592
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999827,
+        "value": 17.18678
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998166,
+        "value": 16.86171
+      }
+    ]
   },
-  {
-    "name": "calasline",
-    "score": 51.16917238,
-    "url": "https://www.bilibili.com/video/BV1kCHsz1Eaa/",
-    "id": "Calasline",
-    "uid": "3546681547164257",
-    "rank": 9,
-    "bvid": "BV1kCHsz1Eaa"
+  "calasline": {
+    "player": {
+      "name": "calasline",
+      "score": 51.16917238,
+      "url": "https://www.bilibili.com/video/BV1kCHsz1Eaa/",
+      "id": "Calasline",
+      "uid": "3546681547164257",
+      "rank": 9,
+      "bvid": "BV1kCHsz1Eaa"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997771,
+        "value": 17.03003
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999506,
+        "value": 17.16226
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999694,
+        "value": 16.97689
+      }
+    ]
   },
-  {
-    "name": "Fortessimo",
-    "score": 51.16764541,
-    "url": "https://www.bilibili.com/video/BV1CnpEzcEYB",
-    "id": "Fortessimo",
-    "uid": "519125680",
-    "rank": 10,
-    "bvid": "BV1CnpEzcEYB"
+  "Fortessimo": {
+    "player": {
+      "name": "Fortessimo",
+      "score": 51.16764541,
+      "url": "https://www.bilibili.com/video/BV1CnpEzcEYB",
+      "id": "Fortessimo",
+      "uid": "519125680",
+      "rank": 10,
+      "bvid": "BV1CnpEzcEYB"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999140,
+        "value": 17.13432
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999654,
+        "value": 17.17356
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 999464,
+        "value": 16.85976
+      }
+    ]
   },
-  {
-    "name": "TSmK",
-    "score": 51.12877114,
-    "url": "https://www.bilibili.com/video/BV1fJpqzCEsb",
-    "id": "TSmK_X_X",
-    "uid": "117037520",
-    "rank": 11,
-    "bvid": "BV1fJpqzCEsb"
+  "TSmK": {
+    "player": {
+      "name": "TSmK",
+      "score": 51.12877114,
+      "url": "https://www.bilibili.com/video/BV1fJpqzCEsb",
+      "id": "TSmK_X_X",
+      "uid": "117037520",
+      "rank": 11,
+      "bvid": "BV1fJpqzCEsb"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 998217,
+        "value": 17.06397
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999136,
+        "value": 17.13402
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999083,
+        "value": 16.93079
+      }
+    ]
   },
-  {
-    "name": "没有底力的菜",
-    "score": 51.11663192,
-    "url": "https://b23.tv/t1g0dmL",
-    "id": "没有底力的菜",
-    "uid": "450918551",
-    "rank": 12,
-    "bvid": "BV1XxpgzREyi"
+  "没有底力的菜": {
+    "player": {
+      "name": "没有底力的菜",
+      "score": 51.11663192,
+      "url": "https://b23.tv/t1g0dmL",
+      "id": "没有底力的菜",
+      "uid": "450918551",
+      "rank": 12,
+      "bvid": "BV1XxpgzREyi"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 998662,
+        "value": 17.09787
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998472,
+        "value": 16.88475
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999136,
+        "value": 17.13402
+      }
+    ]
   },
-  {
-    "name": "hinasy",
-    "score": 51.10886065,
-    "url": "https://b23.tv/0j08ynd",
-    "id": "hinasy",
-    "uid": "1993570092",
-    "rank": 13,
-    "bvid": "BV1TjpRz6E62"
+  "hinasy": {
+    "player": {
+      "name": "hinasy",
+      "score": 51.10886065,
+      "url": "https://b23.tv/0j08ynd",
+      "id": "hinasy",
+      "uid": "1993570092",
+      "rank": 13,
+      "bvid": "BV1TjpRz6E62"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999331,
+        "value": 17.1489
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998667,
+        "value": 17.09825
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998166,
+        "value": 16.86171
+      }
+    ]
   },
-  {
-    "name": "果林",
-    "score": 51.08547134,
-    "url": "https://b23.tv/gN6nSJT",
-    "id": "Fruit_forest",
-    "uid": "366486509",
-    "rank": 14,
-    "bvid": "BV1MwYAzsEDL"
+  "果林": {
+    "player": {
+      "name": "果林",
+      "score": 51.08547134,
+      "url": "https://b23.tv/gN6nSJT",
+      "id": "Fruit_forest",
+      "uid": "366486509",
+      "rank": 14,
+      "bvid": "BV1MwYAzsEDL"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999108,
+        "value": 17.13188
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999136,
+        "value": 17.13402
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998928,
+        "value": 16.81958
+      }
+    ]
   },
-  {
-    "name": "潇洒雨落April",
-    "score": 51.06162186,
-    "url": "https://b23.tv/N5cIUaV",
-    "id": "潇洒雨落April",
-    "uid": "345050958",
-    "rank": 15,
-    "bvid": "BV1imHnz4EnM"
+  "潇洒雨落April": {
+    "player": {
+      "name": "潇洒雨落April",
+      "score": 51.06162186,
+      "url": "https://b23.tv/N5cIUaV",
+      "id": "潇洒雨落April",
+      "uid": "345050958",
+      "rank": 15,
+      "bvid": "BV1imHnz4EnM"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996529,
+        "value": 16.93568
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999333,
+        "value": 17.14905
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999694,
+        "value": 16.97689
+      }
+    ]
   },
-  {
-    "name": "OliverZ30",
-    "score": 51.06153624,
-    "url": "https://bilibili.com/video/BV1fgHszMEaq",
-    "id": "一只张章鱼",
-    "uid": "594854866",
-    "rank": 16,
-    "bvid": "BV1fgHszMEaq"
+  "OliverZ30": {
+    "player": {
+      "name": "OliverZ30",
+      "score": 51.06153624,
+      "url": "https://bilibili.com/video/BV1fgHszMEaq",
+      "id": "一只张章鱼",
+      "uid": "594854866",
+      "rank": 16,
+      "bvid": "BV1fgHszMEaq"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 998440,
+        "value": 17.08095
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998963,
+        "value": 17.12082
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 999464,
+        "value": 16.85976
+      }
+    ]
   },
-  {
-    "name": "你打的太高了",
-    "score": 51.0112747,
-    "url": "https://b23.tv/Qi3SOcu",
-    "id": "这还玩个滑稽啊",
-    "uid": "317116814",
-    "rank": 17,
-    "bvid": "BV1edHpzfEg2"
+  "你打的太高了": {
+    "player": {
+      "name": "你打的太高了",
+      "score": 51.0112747,
+      "url": "https://b23.tv/Qi3SOcu",
+      "id": "这还玩个滑稽啊",
+      "uid": "317116814",
+      "rank": 17,
+      "bvid": "BV1edHpzfEg2"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 998662,
+        "value": 17.09787
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998472,
+        "value": 16.88475
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997753,
+        "value": 17.02866
+      }
+    ]
   },
-  {
-    "name": "15岁发际线五千米",
-    "score": 50.98567411,
-    "url": "https://www.bilibili.com/video/BV17Gp9zWEFR",
-    "id": "15岁发际线五千米_",
-    "uid": "520995307",
-    "rank": 18,
-    "bvid": "BV17Gp9zWEFR"
+  "15岁发际线五千米": {
+    "player": {
+      "name": "15岁发际线五千米",
+      "score": 50.98567411,
+      "url": "https://www.bilibili.com/video/BV17Gp9zWEFR",
+      "id": "15岁发际线五千米_",
+      "uid": "520995307",
+      "rank": 18,
+      "bvid": "BV17Gp9zWEFR"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997134,
+        "value": 16.98161
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998642,
+        "value": 17.09635
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998777,
+        "value": 16.90772
+      }
+    ]
   },
-  {
-    "name": "XMecRil",
-    "score": 50.92373944,
-    "url": "https://m.bilibili.com/video/BV1XMHDzvEdu",
-    "id": "XMecRil",
-    "uid": "532499053",
-    "rank": 19,
-    "bvid": "BV1XMHDzvEdu"
+  "XMecRil": {
+    "player": {
+      "name": "XMecRil",
+      "score": 50.92373944,
+      "url": "https://m.bilibili.com/video/BV1XMHDzvEdu",
+      "id": "XMecRil",
+      "uid": "532499053",
+      "rank": 19,
+      "bvid": "BV1XMHDzvEdu"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996943,
+        "value": 16.9671
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998321,
+        "value": 17.07189
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998472,
+        "value": 16.88475
+      }
+    ]
   },
-  {
-    "name": "CIretiANa",
-    "score": 50.90635013,
-    "url": "https://www.bilibili.com/video/BV1VyJ1zUEFK/",
-    "id": "CIretiANa",
-    "uid": "1759109694",
-    "rank": 20,
-    "bvid": "BV1VyJ1zUEFK"
+  "CIretiANa": {
+    "player": {
+      "name": "CIretiANa",
+      "score": 50.90635013,
+      "url": "https://www.bilibili.com/video/BV1VyJ1zUEFK/",
+      "id": "CIretiANa",
+      "uid": "1759109694",
+      "rank": 20,
+      "bvid": "BV1VyJ1zUEFK"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 998440,
+        "value": 17.08095
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999481,
+        "value": 17.16035
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 996861,
+        "value": 16.66505
+      }
+    ]
   },
-  {
-    "name": "Rmy",
-    "score": 50.88562961,
-    "url": "https://www.bilibili.com/video/BV1oanPzzEwQ/",
-    "id": "皓月-Rmy",
-    "uid": "283768168",
-    "rank": 21,
-    "bvid": "BV1oanPzzEwQ"
+  "Rmy": {
+    "player": {
+      "name": "Rmy",
+      "score": 50.88562961,
+      "url": "https://www.bilibili.com/video/BV1oanPzzEwQ/",
+      "id": "皓月-Rmy",
+      "uid": "283768168",
+      "rank": 21,
+      "bvid": "BV1oanPzzEwQ"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998166,
+        "value": 16.86171
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998123,
+        "value": 17.05681
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996943,
+        "value": 16.9671
+      }
+    ]
   },
-  {
-    "name": "LoliCatSusu",
-    "score": 50.86455543,
-    "url": "https://www.bilibili.com/video/BV1hFnmzHEet/",
-    "id": "LoliCat-溯溯",
-    "uid": "500124294",
-    "rank": 22,
-    "bvid": "BV1hFnmzHEet"
+  "LoliCatSusu": {
+    "player": {
+      "name": "LoliCatSusu",
+      "score": 50.86455543,
+      "url": "https://www.bilibili.com/video/BV1hFnmzHEet/",
+      "id": "LoliCat-溯溯",
+      "uid": "500124294",
+      "rank": 22,
+      "bvid": "BV1hFnmzHEet"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999389,
+        "value": 16.95387
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995796,
+        "value": 16.88013
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997778,
+        "value": 17.03056
+      }
+    ]
   },
-  {
-    "name": "有生之年",
-    "score": 50.84245385,
-    "url": "https://www.bilibili.com/video/BV1vfHszvEPo/",
-    "id": "有生之年AT33",
-    "uid": "700220300",
-    "rank": 23,
-    "bvid": "BV1vfHszvEPo"
+  "有生之年": {
+    "player": {
+      "name": "有生之年",
+      "score": 50.84245385,
+      "url": "https://www.bilibili.com/video/BV1vfHszvEPo/",
+      "id": "有生之年AT33",
+      "uid": "700220300",
+      "rank": 23,
+      "bvid": "BV1vfHszvEPo"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996242,
+        "value": 16.91392
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 997598,
+        "value": 16.819
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998815,
+        "value": 17.10953
+      }
+    ]
   },
-  {
-    "name": "德谟demo",
-    "score": 50.83454651,
-    "url": "https://www.bilibili.com/video/BV1gKHAzaERA/",
-    "id": "德谟Demo_",
-    "uid": "1471983125",
-    "rank": 24,
-    "bvid": "BV1gKHAzaERA"
+  "德谟demo": {
+    "player": {
+      "name": "德谟demo",
+      "score": 50.83454651,
+      "url": "https://www.bilibili.com/video/BV1gKHAzaERA/",
+      "id": "德谟Demo_",
+      "uid": "1471983125",
+      "rank": 24,
+      "bvid": "BV1gKHAzaERA"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999389,
+        "value": 16.95387
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997161,
+        "value": 16.98366
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996019,
+        "value": 16.89702
+      }
+    ]
   },
-  {
-    "name": "Z0l1e3.",
-    "score": 50.82998988,
-    "url": "https://www.bilibili.com/video/BV17VpJzREFJ/",
-    "id": "Z0l1e3",
-    "uid": "1621159351",
-    "rank": 25,
-    "bvid": "BV17VpJzREFJ"
+  "Z0l1e3.": {
+    "player": {
+      "name": "Z0l1e3.",
+      "score": 50.82998988,
+      "url": "https://www.bilibili.com/video/BV17VpJzREFJ/",
+      "id": "Z0l1e3",
+      "uid": "1621159351",
+      "rank": 25,
+      "bvid": "BV17VpJzREFJ"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997803,
+        "value": 17.03246
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997136,
+        "value": 16.98176
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 997555,
+        "value": 16.81577
+      }
+    ]
   },
-  {
-    "name": "-DESTRUCTION-",
-    "score": 50.82794033,
-    "url": "https://www.bilibili.com/video/BV1VxHLzTEQY/",
-    "id": "一只DESTRUCTION",
-    "uid": "1913595780",
-    "rank": 26,
-    "bvid": "BV1VxHLzTEQY"
+  "-DESTRUCTION-": {
+    "player": {
+      "name": "-DESTRUCTION-",
+      "score": 50.82794033,
+      "url": "https://www.bilibili.com/video/BV1VxHLzTEQY/",
+      "id": "一只DESTRUCTION",
+      "uid": "1913595780",
+      "rank": 26,
+      "bvid": "BV1VxHLzTEQY"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 997555,
+        "value": 16.81577
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996242,
+        "value": 16.91392
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998667,
+        "value": 17.09825
+      }
+    ]
   },
-  {
-    "name": "春晖awa",
-    "score": 50.82727336,
-    "url": "https://www.bilibili.com/video/BV1AxHNz4ETv/",
-    "id": "春晖awa",
-    "uid": "9436905",
-    "rank": 27,
-    "bvid": "BV1AxHNz4ETv"
+  "春晖awa": {
+    "player": {
+      "name": "春晖awa",
+      "score": 50.82727336,
+      "url": "https://www.bilibili.com/video/BV1AxHNz4ETv/",
+      "id": "春晖awa",
+      "uid": "9436905",
+      "rank": 27,
+      "bvid": "BV1AxHNz4ETv"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998469,
+        "value": 17.08316
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996911,
+        "value": 16.96467
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998392,
+        "value": 16.77944
+      }
+    ]
   },
-  {
-    "name": "文轩猕猴桃",
-    "score": 50.81932,
-    "url": "https://b23.tv/eaGMvaa",
-    "id": "文文文文轩猕猴桃",
-    "uid": "1540079093",
-    "rank": 28,
-    "bvid": "BV1bQHZzJEqu"
+  "文轩猕猴桃": {
+    "player": {
+      "name": "文轩猕猴桃",
+      "score": 50.81932,
+      "url": "https://b23.tv/eaGMvaa",
+      "id": "文文文文轩猕猴桃",
+      "uid": "1540079093",
+      "rank": 28,
+      "bvid": "BV1bQHZzJEqu"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997580,
+        "value": 17.0155
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 997933,
+        "value": 16.7451
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998148,
+        "value": 17.05872
+      }
+    ]
   },
-  {
-    "name": "Vm=ifnti",
-    "score": 50.8158128,
-    "url": "https://www.bilibili.com/video/BV1WVnLzHE1H",
-    "id": "molie-_",
-    "uid": "502335237",
-    "rank": 29,
-    "bvid": "BV1WVnLzHE1H"
+  "Vm=ifnti": {
+    "player": {
+      "name": "Vm=ifnti",
+      "score": 50.8158128,
+      "url": "https://www.bilibili.com/video/BV1WVnLzHE1H",
+      "id": "molie-_",
+      "uid": "502335237",
+      "rank": 29,
+      "bvid": "BV1WVnLzHE1H"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 997249,
+        "value": 16.79278
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997771,
+        "value": 17.03003
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997284,
+        "value": 16.993
+      }
+    ]
   },
-  {
-    "name": "GT_不哈bh",
-    "score": 50.7931507,
-    "url": "https://m.bilibili.com/video/BV1bMHWzDEXH/",
-    "id": "不哈bh",
-    "uid": "480825955",
-    "rank": 30,
-    "bvid": "BV1bMHWzDEXH"
+  "GT_不哈bh": {
+    "player": {
+      "name": "GT_不哈bh",
+      "score": 50.7931507,
+      "url": "https://m.bilibili.com/video/BV1bMHWzDEXH/",
+      "id": "不哈bh",
+      "uid": "480825955",
+      "rank": 30,
+      "bvid": "BV1bMHWzDEXH"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998494,
+        "value": 17.08507
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995350,
+        "value": 16.84637
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998166,
+        "value": 16.86171
+      }
+    ]
   },
-  {
-    "name": "裴秀",
-    "score": 50.78915018,
-    "url": "https://b23.tv/vmfsw9o",
-    "id": "GT_DelovomENT",
-    "uid": "2049561291",
-    "rank": 31,
-    "bvid": "BV1PcHfzVE29"
+  "裴秀": {
+    "player": {
+      "name": "裴秀",
+      "score": 50.78915018,
+      "url": "https://b23.tv/vmfsw9o",
+      "id": "GT_DelovomENT",
+      "uid": "2049561291",
+      "rank": 31,
+      "bvid": "BV1PcHfzVE29"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 998662,
+        "value": 17.09787
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 994519,
+        "value": 16.78356
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998777,
+        "value": 16.90772
+      }
+    ]
   },
-  {
-    "name": "MoYK_28",
-    "score": 50.7821709,
-    "url": "https://b23.tv/zEbaatR",
-    "id": "MOYK_28",
-    "uid": "505652638",
-    "rank": 32,
-    "bvid": "BV1emHXz2ESu"
+  "MoYK_28": {
+    "player": {
+      "name": "MoYK_28",
+      "score": 50.7821709,
+      "url": "https://b23.tv/zEbaatR",
+      "id": "MOYK_28",
+      "uid": "505652638",
+      "rank": 32,
+      "bvid": "BV1emHXz2ESu"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996688,
+        "value": 16.94775
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998099,
+        "value": 17.05499
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998392,
+        "value": 16.77944
+      }
+    ]
   },
-  {
-    "name": "HLStoria",
-    "score": 50.77938652,
-    "url": "https://www.bilibili.com/video/BV1MHnAztEza",
-    "id": "沉默-_-微笑",
-    "uid": "406599529",
-    "rank": 33,
-    "bvid": "BV1MHnAztEza"
+  "HLStoria": {
+    "player": {
+      "name": "HLStoria",
+      "score": 50.77938652,
+      "url": "https://www.bilibili.com/video/BV1MHnAztEza",
+      "id": "沉默-_-微笑",
+      "uid": "406599529",
+      "rank": 33,
+      "bvid": "BV1MHnAztEza"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994490,
+        "value": 16.78137
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997654,
+        "value": 17.02113
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 999694,
+        "value": 16.97689
+      }
+    ]
   },
-  {
-    "name": "光反_GF",
-    "score": 50.76921316,
-    "url": "https://b23.tv/TMUTL8m",
-    "id": "光反_GF",
-    "uid": "1760753545",
-    "rank": 34,
-    "bvid": "BV1GkHZzxEGQ"
+  "光反_GF": {
+    "player": {
+      "name": "光反_GF",
+      "score": 50.76921316,
+      "url": "https://b23.tv/TMUTL8m",
+      "id": "光反_GF",
+      "uid": "1760753545",
+      "rank": 34,
+      "bvid": "BV1GkHZzxEGQ"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996879,
+        "value": 16.96224
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996681,
+        "value": 16.75016
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998123,
+        "value": 17.05681
+      }
+    ]
   },
-  {
-    "name": 4648315,
-    "score": 50.75476665,
-    "url": "https://www.bilibili.com/video/BV15mHtzrEwu/",
-    "id": 4648315,
-    "uid": "544159282",
-    "rank": 35,
-    "bvid": "BV15mHtzrEwu"
+  "4648315": {
+    "player": {
+      "name": 4648315,
+      "score": 50.75476665,
+      "url": "https://www.bilibili.com/video/BV15mHtzrEwu/",
+      "id": 4648315,
+      "uid": "544159282",
+      "rank": 35,
+      "bvid": "BV15mHtzrEwu"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997102,
+        "value": 16.97918
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997753,
+        "value": 17.02866
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996638,
+        "value": 16.74693
+      }
+    ]
   },
-  {
-    "name": "ReAlms准备一穿三",
-    "score": 50.74214431,
-    "url": "https://b23.tv/ledG0b7",
-    "id": "ReAlms_Wm",
-    "uid": "3493126404573865",
-    "rank": 36,
-    "bvid": "BV1dpafzWEUD"
+  "ReAlms准备一穿三": {
+    "player": {
+      "name": "ReAlms准备一穿三",
+      "score": 50.74214431,
+      "url": "https://b23.tv/ledG0b7",
+      "id": "ReAlms_Wm",
+      "uid": "3493126404573865",
+      "rank": 36,
+      "bvid": "BV1dpafzWEUD"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998777,
+        "value": 16.90772
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998099,
+        "value": 17.05499
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998392,
+        "value": 16.77944
+      }
+    ]
   },
-  {
-    "name": "浦雨嘎",
-    "score": 50.7397115,
-    "url": "https://www.bilibili.com/video/BV1iCHDzrEBX/",
-    "id": "咕咕_咕咕-咕咕",
-    "uid": "578552999",
-    "rank": 37,
-    "bvid": "BV1iCHDzrEBX"
+  "浦雨嘎": {
+    "player": {
+      "name": "浦雨嘎",
+      "score": 50.7397115,
+      "url": "https://www.bilibili.com/video/BV1iCHDzrEBX/",
+      "id": "咕咕_咕咕-咕咕",
+      "uid": "578552999",
+      "rank": 37,
+      "bvid": "BV1iCHDzrEBX"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995127,
+        "value": 16.8295
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 997555,
+        "value": 16.81577
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998617,
+        "value": 17.09444
+      }
+    ]
   },
-  {
-    "name": "青空",
-    "score": 50.72117494,
-    "url": "https://www.bilibili.com/video/BV1JpWwzUEJ8/",
-    "id": "bili_76931553942",
-    "uid": "522892321",
-    "rank": 38,
-    "bvid": "BV1JpWwzUEJ8"
+  "青空": {
+    "player": {
+      "name": "青空",
+      "score": 50.72117494,
+      "url": "https://www.bilibili.com/video/BV1JpWwzUEJ8/",
+      "id": "bili_76931553942",
+      "uid": "522892321",
+      "rank": 38,
+      "bvid": "BV1JpWwzUEJ8"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 997860,
+        "value": 16.8387
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997407,
+        "value": 17.00235
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995796,
+        "value": 16.88013
+      }
+    ]
   },
-  {
-    "name": "一只彁子",
-    "score": 50.7058968,
-    "url": "https://b23.tv/1gnnMkn",
-    "id": "一只彁子",
-    "uid": "3537117269461519",
-    "rank": 39,
-    "bvid": "BV1rdYAz7E9N"
+  "一只彁子": {
+    "player": {
+      "name": "一只彁子",
+      "score": 50.7058968,
+      "url": "https://b23.tv/1gnnMkn",
+      "id": "一只彁子",
+      "uid": "3537117269461519",
+      "rank": 39,
+      "bvid": "BV1rdYAz7E9N"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996681,
+        "value": 16.75016
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996242,
+        "value": 16.91392
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997926,
+        "value": 17.04182
+      }
+    ]
   },
-  {
-    "name": "XietiaoC",
-    "score": 50.69403046,
-    "url": "https://www.bilibili.com/video/BV1ANHfz6EJV/",
-    "id": "XietiaoC",
-    "uid": "1651522699",
-    "rank": 40,
-    "bvid": "BV1ANHfz6EJV"
+  "XietiaoC": {
+    "player": {
+      "name": "XietiaoC",
+      "score": 50.69403046,
+      "url": "https://www.bilibili.com/video/BV1ANHfz6EJV/",
+      "id": "XietiaoC",
+      "uid": "1651522699",
+      "rank": 40,
+      "bvid": "BV1ANHfz6EJV"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998777,
+        "value": 16.90772
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998444,
+        "value": 17.08126
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 997397,
+        "value": 16.70505
+      }
+    ]
   },
-  {
-    "name": "5i3R",
-    "score": 50.67568367,
-    "url": "https://www.bilibili.com/video/BV13AHAzeEd2/",
-    "id": "5i3R",
-    "uid": "189579622",
-    "rank": 41,
-    "bvid": "BV13AHAzeEd2"
+  "5i3R": {
+    "player": {
+      "name": "5i3R",
+      "score": 50.67568367,
+      "url": "https://www.bilibili.com/video/BV13AHAzeEd2/",
+      "id": "5i3R",
+      "uid": "189579622",
+      "rank": 41,
+      "bvid": "BV13AHAzeEd2"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997136,
+        "value": 16.98176
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994554,
+        "value": 16.7862
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998777,
+        "value": 16.90772
+      }
+    ]
   },
-  {
-    "name": "一属鸽子的",
-    "score": 50.67334692,
-    "url": "https://www.bilibili.com/video/BV18CHgzJE3z/",
-    "id": "一属鸽子的",
-    "uid": "238009089",
-    "rank": 42,
-    "bvid": "BV18CHgzJE3z"
+  "一属鸽子的": {
+    "player": {
+      "name": "一属鸽子的",
+      "score": 50.67334692,
+      "url": "https://www.bilibili.com/video/BV18CHgzJE3z/",
+      "id": "一属鸽子的",
+      "uid": "238009089",
+      "rank": 42,
+      "bvid": "BV18CHgzJE3z"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994076,
+        "value": 16.75012
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 998777,
+        "value": 16.90772
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997580,
+        "value": 17.0155
+      }
+    ]
   },
-  {
-    "name": "昶冥Charming",
-    "score": 50.67116396,
-    "url": "https://b23.tv/MTLIuqI",
-    "id": "昶冥Charming",
-    "uid": "1344034069",
-    "rank": 43,
-    "bvid": "BV1x6HLzoE1w"
+  "昶冥Charming": {
+    "player": {
+      "name": "昶冥Charming",
+      "score": 50.67116396,
+      "url": "https://b23.tv/MTLIuqI",
+      "id": "昶冥Charming",
+      "uid": "1344034069",
+      "rank": 43,
+      "bvid": "BV1x6HLzoE1w"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996688,
+        "value": 16.94775
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998444,
+        "value": 17.08126
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 996554,
+        "value": 16.64216
+      }
+    ]
   },
-  {
-    "name": "Guest",
-    "score": 50.62766411,
-    "url": "https://www.bilibili.com/video/BV155nqzwEg3/",
-    "id": "二咪毛",
-    "uid": "529501414",
-    "rank": 44,
-    "bvid": "BV155nqzwEg3"
+  "Guest": {
+    "player": {
+      "name": "Guest",
+      "score": 50.62766411,
+      "url": "https://www.bilibili.com/video/BV155nqzwEg3/",
+      "id": "二咪毛",
+      "uid": "529501414",
+      "rank": 44,
+      "bvid": "BV155nqzwEg3"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997134,
+        "value": 16.98161
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998430,
+        "value": 16.78228
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 995580,
+        "value": 16.86377
+      }
+    ]
   },
-  {
-    "name": "User526878212",
-    "score": 50.62495002,
-    "url": "https://b23.tv/OYchl3N",
-    "id": "空宛水瑑",
-    "uid": "600202454",
-    "rank": 45,
-    "bvid": "BV1NjHGz2ENP"
+  "User526878212": {
+    "player": {
+      "name": "User526878212",
+      "score": 50.62495002,
+      "url": "https://b23.tv/OYchl3N",
+      "id": "空宛水瑑",
+      "uid": "600202454",
+      "rank": 45,
+      "bvid": "BV1NjHGz2ENP"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995127,
+        "value": 16.8295
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996376,
+        "value": 16.72729
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998272,
+        "value": 17.06816
+      }
+    ]
   },
-  {
-    "name": "knkgii",
-    "score": 50.59833581,
-    "url": "https://www.bilibili.com/video/BV1u1JCzgERd/",
-    "id": "枫影ii",
-    "uid": "677524135",
-    "rank": 46,
-    "bvid": "BV1u1JCzgERd"
+  "knkgii": {
+    "player": {
+      "name": "knkgii",
+      "score": 50.59833581,
+      "url": "https://www.bilibili.com/video/BV1u1JCzgERd/",
+      "id": "枫影ii",
+      "uid": "677524135",
+      "rank": 46,
+      "bvid": "BV1u1JCzgERd"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995541,
+        "value": 16.86082
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997803,
+        "value": 17.03246
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 997397,
+        "value": 16.70505
+      }
+    ]
   },
-  {
-    "name": "光之鸠子",
-    "score": 50.59070012,
-    "url": "https://www.bilibili.com/video/BV11fH5zRE9w",
-    "id": "光之鸠子nya",
-    "uid": "1062835097",
-    "rank": 47,
-    "bvid": "BV11fH5zRE9w"
+  "光之鸠子": {
+    "player": {
+      "name": "光之鸠子",
+      "score": 50.59070012,
+      "url": "https://www.bilibili.com/video/BV11fH5zRE9w",
+      "id": "光之鸠子nya",
+      "uid": "1062835097",
+      "rank": 47,
+      "bvid": "BV11fH5zRE9w"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995127,
+        "value": 16.8295
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997136,
+        "value": 16.98176
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998392,
+        "value": 16.77944
+      }
+    ]
   },
-  {
-    "name": "Kamiyama_Shiki",
-    "score": 50.57597968,
-    "url": "https://www.bilibili.com/video/BV1RNHTz2Exb/",
-    "id": "bili_79712318740",
-    "uid": "3632300585650297",
-    "rank": 48,
-    "bvid": "BV1RNHTz2Exb"
+  "Kamiyama_Shiki": {
+    "player": {
+      "name": "Kamiyama_Shiki",
+      "score": 50.57597968,
+      "url": "https://www.bilibili.com/video/BV1RNHTz2Exb/",
+      "id": "bili_79712318740",
+      "uid": "3632300585650297",
+      "rank": 48,
+      "bvid": "BV1RNHTz2Exb"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998124,
+        "value": 16.75939
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998123,
+        "value": 17.05681
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994204,
+        "value": 16.75978
+      }
+    ]
   },
-  {
-    "name": "雪茸淚",
-    "score": 50.56893695,
-    "url": "https://www.bilibili.com/video/BV1BXnXzJEoP",
-    "id": "雪茸淚",
-    "uid": "480939222",
-    "rank": 49,
-    "bvid": "BV1BXnXzJEoP"
+  "雪茸淚": {
+    "player": {
+      "name": "雪茸淚",
+      "score": 50.56893695,
+      "url": "https://www.bilibili.com/video/BV1BXnXzJEoP",
+      "id": "雪茸淚",
+      "uid": "480939222",
+      "rank": 49,
+      "bvid": "BV1BXnXzJEoP"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 993822,
+        "value": 16.73097
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996943,
+        "value": 16.76981
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998272,
+        "value": 17.06816
+      }
+    ]
   },
-  {
-    "name": "好笑吗",
-    "score": 50.56488551,
-    "url": "https://b23.tv/hMsL09Q",
-    "id": "YMBの奇妙な天裁",
-    "uid": "642169751",
-    "rank": 50,
-    "bvid": "BV1s1HKzaEB8"
+  "好笑吗": {
+    "player": {
+      "name": "好笑吗",
+      "score": 50.56488551,
+      "url": "https://b23.tv/hMsL09Q",
+      "id": "YMBの奇妙な天裁",
+      "uid": "642169751",
+      "rank": 50,
+      "bvid": "BV1s1HKzaEB8"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998928,
+        "value": 16.81958
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997407,
+        "value": 17.00235
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 993981,
+        "value": 16.74296
+      }
+    ]
   },
-  {
-    "name": "凉皮你fu不fu",
-    "score": 50.5586635,
-    "url": "https://www.bilibili.com/video/BV1ZynqzzEqr/",
-    "id": "凉皮你fu不fu",
-    "uid": "2080126848",
-    "rank": 51,
-    "bvid": "BV1ZynqzzEqr"
+  "凉皮你fu不fu": {
+    "player": {
+      "name": "凉皮你fu不fu",
+      "score": 50.5586635,
+      "url": "https://www.bilibili.com/video/BV1ZynqzzEqr/",
+      "id": "凉皮你fu不fu",
+      "uid": "2080126848",
+      "rank": 51,
+      "bvid": "BV1ZynqzzEqr"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996376,
+        "value": 16.72729
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 993376,
+        "value": 16.69736
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999136,
+        "value": 17.13402
+      }
+    ]
   },
-  {
-    "name": "不用的东西",
-    "score": 50.55510927,
-    "url": "https://www.bilibili.com/video/BV12PnVzSE46/",
-    "id": "我不月半",
-    "uid": "2090299506",
-    "rank": 52,
-    "bvid": "BV12PnVzSE46"
+  "不用的东西": {
+    "player": {
+      "name": "不用的东西",
+      "score": 50.55510927,
+      "url": "https://www.bilibili.com/video/BV12PnVzSE46/",
+      "id": "我不月半",
+      "uid": "2090299506",
+      "rank": 52,
+      "bvid": "BV12PnVzSE46"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996242,
+        "value": 16.91392
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 997062,
+        "value": 16.97614
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 996861,
+        "value": 16.66505
+      }
+    ]
   },
-  {
-    "name": "Rainy",
-    "score": 50.55381369,
-    "url": "https://m.bilibili.com/video/BV1wdJrzREXf",
-    "id": "-雨-时-",
-    "uid": "1699914422",
-    "rank": 53,
-    "bvid": "BV1wdJrzREXf"
+  "Rainy": {
+    "player": {
+      "name": "Rainy",
+      "score": 50.55381369,
+      "url": "https://m.bilibili.com/video/BV1wdJrzREXf",
+      "id": "-雨-时-",
+      "uid": "1699914422",
+      "rank": 53,
+      "bvid": "BV1wdJrzREXf"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994013,
+        "value": 16.74537
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996725,
+        "value": 16.75346
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998099,
+        "value": 17.05499
+      }
+    ]
   },
-  {
-    "name": 233666,
-    "score": 50.55190288,
-    "url": "https://www.bilibili.com/video/BV1QyHAziEzu/",
-    "id": "XXQ_233666",
-    "uid": "669669803",
-    "rank": 54,
-    "bvid": "BV1QyHAziEzu"
+  "233666": {
+    "player": {
+      "name": 233666,
+      "score": 50.55190288,
+      "url": "https://www.bilibili.com/video/BV1QyHAziEzu/",
+      "id": "XXQ_233666",
+      "uid": "669669803",
+      "rank": 54,
+      "bvid": "BV1QyHAziEzu"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994331,
+        "value": 16.76937
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 996286,
+        "value": 16.62219
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999481,
+        "value": 17.16035
+      }
+    ]
   },
-  {
-    "name": "doubaol",
-    "score": 50.51957185,
-    "url": "https://www.bilibili.com/video/BV1TXH5zZEum/",
-    "id": "doubaol_stw",
-    "uid": "1545678644",
-    "rank": 55,
-    "bvid": "BV1TXH5zZEum"
+  "doubaol": {
+    "player": {
+      "name": "doubaol",
+      "score": 50.51957185,
+      "url": "https://www.bilibili.com/video/BV1TXH5zZEum/",
+      "id": "doubaol_stw",
+      "uid": "1545678644",
+      "rank": 55,
+      "bvid": "BV1TXH5zZEum"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 996593,
+        "value": 16.64507
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996376,
+        "value": 16.72729
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 999309,
+        "value": 17.14722
+      }
+    ]
   },
-  {
-    "name": "Cabbageix白菜",
-    "score": 50.51499574,
-    "url": "https://www.bilibili.com/video/BV1CAn8zsEWJ/",
-    "id": "Cabbageix白菜",
-    "uid": "411613266",
-    "rank": 56,
-    "bvid": "BV1CAn8zsEWJ"
+  "Cabbageix白菜": {
+    "player": {
+      "name": "Cabbageix白菜",
+      "score": 50.51499574,
+      "url": "https://www.bilibili.com/video/BV1CAn8zsEWJ/",
+      "id": "Cabbageix白菜",
+      "uid": "411613266",
+      "rank": 56,
+      "bvid": "BV1CAn8zsEWJ"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995573,
+        "value": 16.86325
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 996222,
+        "value": 16.91241
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 997856,
+        "value": 16.73935
+      }
+    ]
   },
-  {
-    "name": "早期陈总",
-    "score": 50.50819151,
-    "url": "https://www.bilibili.com/video/BV1umWPzgEhZ",
-    "id": "早期陈总",
-    "uid": "1515475415",
-    "rank": 57,
-    "bvid": "BV1umWPzgEhZ"
+  "早期陈总": {
+    "player": {
+      "name": "早期陈总",
+      "score": 50.50819151,
+      "url": "https://www.bilibili.com/video/BV1umWPzgEhZ",
+      "id": "早期陈总",
+      "uid": "1515475415",
+      "rank": 57,
+      "bvid": "BV1umWPzgEhZ"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 997555,
+        "value": 16.81577
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998790,
+        "value": 17.10763
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 991879,
+        "value": 16.5848
+      }
+    ]
   },
-  {
-    "name": "Come on，0.01",
-    "score": 50.49857644,
-    "url": "https://b23.tv/Swnqfwj",
-    "id": "ComeOn0丶01",
-    "uid": "515809495",
-    "rank": 58,
-    "bvid": "BV1a8HKzkEQ3"
+  "Come on，0.01": {
+    "player": {
+      "name": "Come on，0.01",
+      "score": 50.49857644,
+      "url": "https://b23.tv/Swnqfwj",
+      "id": "ComeOn0丶01",
+      "uid": "515809495",
+      "rank": 58,
+      "bvid": "BV1a8HKzkEQ3"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 993790,
+        "value": 16.72856
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 996988,
+        "value": 16.97052
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998660,
+        "value": 16.7995
+      }
+    ]
   },
-  {
-    "name": "落痕luor",
-    "score": 50.48394699,
-    "url": "https://b23.tv/vMh95L4",
-    "id": "落痕luor",
-    "uid": "473660784",
-    "rank": 59,
-    "bvid": "BV15VH3zfE9s"
+  "落痕luor": {
+    "player": {
+      "name": "落痕luor",
+      "score": 50.48394699,
+      "url": "https://b23.tv/vMh95L4",
+      "id": "落痕luor",
+      "uid": "473660784",
+      "rank": 59,
+      "bvid": "BV15VH3zfE9s"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994904,
+        "value": 16.81264
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 994541,
+        "value": 16.59004
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998444,
+        "value": 17.08126
+      }
+    ]
   },
-  {
-    "name": "风扬轻语w",
-    "score": 50.47181878,
-    "url": "https://www.bilibili.com/video/BV1hPHWzWECK",
-    "id": "风扬轻语w",
-    "uid": "1706048294",
-    "rank": 60,
-    "bvid": "BV1hPHWzWECK"
+  "风扬轻语w": {
+    "player": {
+      "name": "风扬轻语w",
+      "score": 50.47181878,
+      "url": "https://www.bilibili.com/video/BV1hPHWzWECK",
+      "id": "风扬轻语w",
+      "uid": "1706048294",
+      "rank": 60,
+      "bvid": "BV1hPHWzWECK"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994713,
+        "value": 16.81775
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 994395,
+        "value": 16.7742
+      },
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 999732,
+        "value": 16.87988
+      }
+    ]
   },
-  {
-    "name": "Ctymin",
-    "score": 50.46679547,
-    "url": "https://b23.tv/K3MlxVZ",
-    "id": "aaaawa_",
-    "uid": "3546817778158287",
-    "rank": 61,
-    "bvid": "BV17pHJzREXj"
+  "Ctymin": {
+    "player": {
+      "name": "Ctymin",
+      "score": 50.46679547,
+      "url": "https://b23.tv/K3MlxVZ",
+      "id": "aaaawa_",
+      "uid": "3546817778158287",
+      "rank": 61,
+      "bvid": "BV17pHJzREXj"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 997856,
+        "value": 16.73935
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 996444,
+        "value": 16.92924
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994713,
+        "value": 16.79821
+      }
+    ]
   },
-  {
-    "name": "莫特奈利斯",
-    "score": 50.43589792,
-    "url": "https://b23.tv/lGbdwE7",
-    "id": "莫特奈利斯",
-    "uid": "500049877",
-    "rank": 62,
-    "bvid": "BV11gnmzCEJG"
+  "莫特奈利斯": {
+    "player": {
+      "name": "莫特奈利斯",
+      "score": 50.43589792,
+      "url": "https://b23.tv/lGbdwE7",
+      "id": "莫特奈利斯",
+      "uid": "500049877",
+      "rank": 62,
+      "bvid": "BV11gnmzCEJG"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 998660,
+        "value": 16.7995
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 996222,
+        "value": 16.91241
+      },
+      {
+        "id": "",
+        "name": "幻影鬼魅 (PLEASE) [AT]",
+        "level": 17.0,
+        "score": 996332,
+        "value": 16.72399
+      }
+    ]
   },
-  {
-    "name": "Fzponline",
-    "score": 50.41829344,
-    "url": "https://www.bilibili.com/video/BV16DnnzhEqq",
-    "id": "肥皂泡哦",
-    "uid": "608799006",
-    "rank": 63,
-    "bvid": "BV16DnnzhEqq"
+  "Fzponline": {
+    "player": {
+      "name": "Fzponline",
+      "score": 50.41829344,
+      "url": "https://www.bilibili.com/video/BV16DnnzhEqq",
+      "id": "肥皂泡哦",
+      "uid": "608799006",
+      "rank": 63,
+      "bvid": "BV16DnnzhEqq"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 996593,
+        "value": 16.64507
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 996222,
+        "value": 16.91241
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995541,
+        "value": 16.86082
+      }
+    ]
   },
-  {
-    "name": "uNf3tt3rEd_OvO",
-    "score": 50.41244518,
-    "url": "https://www.bilibili.com/video/BV1yYp7zPEhW/",
-    "id": "Unfettered_逍遥",
-    "uid": "600262822",
-    "rank": 64,
-    "bvid": "BV1yYp7zPEhW"
+  "uNf3tt3rEd_OvO": {
+    "player": {
+      "name": "uNf3tt3rEd_OvO",
+      "score": 50.41244518,
+      "url": "https://www.bilibili.com/video/BV1yYp7zPEhW/",
+      "id": "Unfettered_逍遥",
+      "uid": "600262822",
+      "rank": 64,
+      "bvid": "BV1yYp7zPEhW"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Der Richter [AT]",
+        "level": 16.9,
+        "score": 997397,
+        "value": 16.70505
+      },
+      {
+        "id": "",
+        "name": "AbsoluTe disoRdeR [AT]",
+        "level": 17.2,
+        "score": 998148,
+        "value": 17.05872
+      },
+      {
+        "id": "",
+        "name": "Diamond Dust [AT]",
+        "level": 16.7,
+        "score": 999308,
+        "value": 16.64868
+      }
+    ]
   }
-]
+}
