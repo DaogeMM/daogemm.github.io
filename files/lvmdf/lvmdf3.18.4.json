@@ -1,0 +1,78 @@
+{
+  "Incyde.YbeLL.0": {
+    "songName": "Incyde",
+    "EZ": {
+      "old": 6,
+      "new": 7
+    },
+    "HD": {
+      "old": 12.5,
+      "new": 12.1
+    },
+    "IN": {
+      "old": 16.4,
+      "new": 16.2
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "QZKagoRequiem.tpazolite.0": {
+    "songName": "QZKago Requiem",
+    "EZ": {
+      "old": 7.5,
+      "new": 7
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "slips.rintarosoma.0": {
+    "songName": "sølips",
+    "EZ": {
+      "old": 6,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "彩.MisoilePunch.0": {
+    "songName": "彩",
+    "EZ": {
+      "old": 7,
+      "new": 6
+    },
+    "HD": {
+      "old": 12.1,
+      "new": 12.5
+    },
+    "IN": {
+      "old": 16.2,
+      "new": 16.4
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  }
+}

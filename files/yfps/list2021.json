@@ -1,0 +1,282 @@
+{
+  "WATER.A39沙包P.0": {
+    "songName": "WATER",
+    "Composer": "A-39/沙包P",
+    "NORMAL": 6812,
+    "FAVOUR": 2640,
+    "TOTAL": 9452,
+    "RATE": 1
+  },
+  "雪降りメリクリ.A39.0": {
+    "songName": "雪降り、メリクリ",
+    "Composer": "A-39",
+    "NORMAL": 6061,
+    "FAVOUR": 1552,
+    "TOTAL": 7613,
+    "RATE": 1
+  },
+  "Lyrith迷宮リリス.ユメミド.0": {
+    "songName": "Lyrith -迷宮リリス-",
+    "Composer": "ユメミド",
+    "NORMAL": 4631,
+    "FAVOUR": 1036,
+    "TOTAL": 5667,
+    "RATE": 1
+  },
+  "Igallta.SeURa.0": {
+    "songName": "Igallta",
+    "Composer": "Se-U-Ra",
+    "NORMAL": 3950,
+    "FAVOUR": 732,
+    "TOTAL": 4682,
+    "RATE": 1
+  },
+  "重生.姜米條.0": {
+    "songName": "重生",
+    "Composer": "姜米條",
+    "NORMAL": 2992,
+    "FAVOUR": 570,
+    "TOTAL": 3562,
+    "RATE": 1
+  },
+  "GOODRAGE.EBIMAYO.0": {
+    "songName": "GOODRAGE",
+    "Composer": "EBIMAYO",
+    "NORMAL": 2931,
+    "FAVOUR": 594,
+    "TOTAL": 3525,
+    "RATE": 1
+  },
+  "SIGMA.Kryexe.0": {
+    "songName": "SIGMA",
+    "Composer": "Kry.exe",
+    "NORMAL": 2887,
+    "FAVOUR": 626,
+    "TOTAL": 3513,
+    "RATE": 1
+  },
+  "Aventyr.GrandThawRigelTheatre.0": {
+    "songName": "Äventyr",
+    "Composer": "Grand Thaw / RigÄl Theatre",
+    "NORMAL": 2698,
+    "FAVOUR": 622,
+    "TOTAL": 3320,
+    "RATE": 1
+  },
+  "望影の方舟Six.SeURa.0": {
+    "songName": "望影の方舟Six",
+    "Composer": "Se-U-Ra",
+    "NORMAL": 2947,
+    "FAVOUR": 367,
+    "TOTAL": 3314,
+    "RATE": 1
+  },
+  "GOODTEK.EBIMAYO.0": {
+    "songName": "GOODTEK",
+    "Composer": "EBIMAYO",
+    "NORMAL": 2514,
+    "FAVOUR": 389,
+    "TOTAL": 2903,
+    "RATE": 1
+  },
+  "MOBILYS.Dachs.0": {
+    "songName": "MOBILYS",
+    "Composer": "Dachs",
+    "NORMAL": 2100,
+    "FAVOUR": 673,
+    "TOTAL": 2773,
+    "RATE": 1
+  },
+  "InfinityHeaven.HyuN.0": {
+    "songName": "Infinity Heaven",
+    "Composer": "HyuN",
+    "NORMAL": 2008,
+    "FAVOUR": 546,
+    "TOTAL": 2554,
+    "RATE": 1
+  },
+  "CROSSSOUL.HyuNfeatSyepias.0": {
+    "songName": "CROSS†SOUL",
+    "Composer": "HyuN feat. Syepias",
+    "NORMAL": 2180,
+    "FAVOUR": 354,
+    "TOTAL": 2534,
+    "RATE": 1
+  },
+  "NOONEYESMAN.MYUKKE.0": {
+    "songName": "NO ONE YES MAN",
+    "Composer": "MYUKKE.",
+    "NORMAL": 1634,
+    "FAVOUR": 256,
+    "TOTAL": 1890,
+    "RATE": 1
+  },
+  "Disorder.HyuNfeatYURI.0": {
+    "songName": "Disorder",
+    "Composer": "HyuN feat. YURI",
+    "NORMAL": 1418,
+    "FAVOUR": 234,
+    "TOTAL": 1652,
+    "RATE": 1
+  },
+  "Trane.MALVA.0": {
+    "songName": "Träne",
+    "Composer": "MALVA.",
+    "NORMAL": 1414,
+    "FAVOUR": 215,
+    "TOTAL": 1629,
+    "RATE": 1
+  },
+  "GOODFORTUNE.EBIMAYO.0": {
+    "songName": "GOODFORTUNE",
+    "Composer": "EBIMAYO",
+    "NORMAL": 1386,
+    "FAVOUR": 216,
+    "TOTAL": 1602,
+    "RATE": 1
+  },
+  "GOODWORLD.EBIMAYO.0": {
+    "songName": "GOODWORLD",
+    "Composer": "EBIMAYO",
+    "NORMAL": 1285,
+    "FAVOUR": 138,
+    "TOTAL": 1423,
+    "RATE": 1
+  },
+  "LeaveAllBehind.rider.0": {
+    "songName": "Leave All Behind",
+    "Composer": "rider",
+    "NORMAL": 1154,
+    "FAVOUR": 200,
+    "TOTAL": 1354,
+    "RATE": 1
+  },
+  "Palescreen.WyvernPfeatMadol.0": {
+    "songName": "Palescreen",
+    "Composer": "WyvernP feat. Madol",
+    "NORMAL": 1068,
+    "FAVOUR": 283,
+    "TOTAL": 1351,
+    "RATE": 1
+  },
+  "SpeedUp.DarTokki.0": {
+    "songName": "Speed Up!",
+    "Composer": "DarTokki",
+    "NORMAL": 1000,
+    "FAVOUR": 183,
+    "TOTAL": 1183,
+    "RATE": 1
+  },
+  "TheMountainEater.PaulBazooka.0": {
+    "songName": "The Mountain Eater",
+    "Composer": "Paul Bazooka",
+    "NORMAL": 949,
+    "FAVOUR": 127,
+    "TOTAL": 1076,
+    "RATE": 1
+  },
+  "MagentaPotion.EmoCo.0": {
+    "songName": "Magenta Potion",
+    "Composer": "EmoCo.",
+    "NORMAL": 831,
+    "FAVOUR": 237,
+    "TOTAL": 1068,
+    "RATE": 1
+  },
+  "GOODBOUNCE.EBIMAYO.0": {
+    "songName": "GOODBOUNCE",
+    "Composer": "EBIMAYO",
+    "NORMAL": 955,
+    "FAVOUR": 92,
+    "TOTAL": 1047,
+    "RATE": 1
+  },
+  "microwav.dandeless.0": {
+    "songName": "micro.wav",
+    "Composer": "dandeless",
+    "NORMAL": 900,
+    "FAVOUR": 140,
+    "TOTAL": 1040,
+    "RATE": 1
+  },
+  "MiracleForestVIPMix.Rinthlive.0": {
+    "songName": "Miracle Forest (VIP Mix)",
+    "Composer": "Rinth_live",
+    "NORMAL": 878,
+    "FAVOUR": 141,
+    "TOTAL": 1019,
+    "RATE": 1
+  },
+  "Electron.ElousFZ.0": {
+    "songName": "Electron",
+    "Composer": "ElousΛ.-FZ",
+    "NORMAL": 857,
+    "FAVOUR": 160,
+    "TOTAL": 1017,
+    "RATE": 1
+  },
+  "Poseidon.1112vsStar.0": {
+    "songName": "Ποσειδῶν",
+    "Composer": "1112 vs. Star*",
+    "NORMAL": 917,
+    "FAVOUR": 96,
+    "TOTAL": 1013,
+    "RATE": 1
+  },
+  "Starduster.Quree.0": {
+    "songName": "Starduster",
+    "Composer": "Quree",
+    "NORMAL": 542,
+    "FAVOUR": 84,
+    "TOTAL": 626,
+    "RATE": 1
+  },
+  "EndMe.ZxNXasDelaina.0": {
+    "songName": "End Me",
+    "Composer": "ZxNX as Delaina",
+    "NORMAL": 529,
+    "FAVOUR": 72,
+    "TOTAL": 601,
+    "RATE": 1
+  },
+  "Orthodox.tokiwa.0": {
+    "songName": "Orthodox",
+    "Composer": "tokiwa",
+    "NORMAL": 454,
+    "FAVOUR": 79,
+    "TOTAL": 533,
+    "RATE": 1
+  },
+  "ColorfulDays.P4koofeatつゆり花鈴.0": {
+    "songName": "Colorful Days♪",
+    "Composer": "P4koo feat. つゆり花鈴",
+    "NORMAL": 418,
+    "FAVOUR": 53,
+    "TOTAL": 471,
+    "RATE": 1
+  },
+  "HardcoreKwaya.EnFr.0": {
+    "songName": "Hardcore Kwaya",
+    "Composer": "EnFr",
+    "NORMAL": 288,
+    "FAVOUR": 47,
+    "TOTAL": 335,
+    "RATE": 1
+  },
+  "ParallelRetrogressionGameVer.Tetrajectory.0": {
+    "songName": "Parallel Retrogression(Game Ver.)",
+    "Composer": "Tetrajectory",
+    "NORMAL": 233,
+    "FAVOUR": 27,
+    "TOTAL": 260,
+    "RATE": 1
+  },
+  "GetBack.CAP3.0": {
+    "songName": "Get Back",
+    "Composer": "CAP3",
+    "NORMAL": 172,
+    "FAVOUR": 17,
+    "TOTAL": 189,
+    "RATE": 1
+  }
+}
