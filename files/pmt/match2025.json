@@ -1,0 +1,1828 @@
+{
+  "淘汰赛-64进32": {
+    "常规组A": {
+      "players": {
+        "Strrrffe": {
+          "player": {
+            "name": "Strrrffe",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            1000000,
+            1000000,
+            1000000,
+            1000000
+          ],
+          "total_score": 4000000,
+          "result": "T",
+          "status": "晋级"
+        },
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            996963,
+            996726,
+            998949,
+            1000000
+          ],
+          "total_score": 3992638,
+          "result": "T",
+          "status": "晋级"
+        },
+        "落痕luor": {
+          "player": {
+            "name": "落痕luor",
+            "id": "落痕luor",
+            "uid": "473660784",
+            "rank": 59
+          },
+          "scores": [
+            998102,
+            991348,
+            995665,
+            999435
+          ],
+          "total_score": 3984550,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "4648315": {
+          "player": {
+            "name": 4648315,
+            "id": 4648315,
+            "uid": "544159282",
+            "rank": 35
+          },
+          "scores": [
+            951193,
+            984139,
+            983069,
+            999152
+          ],
+          "total_score": 3917553,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Alice in a xxxxxxxx [IN]",
+        "Distorted Fate [AT]",
+        "DESTRUCTION 3,2,1 [AT]",
+        "蝎虎天体 -Lacertid- [IN]"
+      ]
+    },
+    "常规组B": {
+      "players": {
+        "15岁发际线五千米": {
+          "player": {
+            "name": "15岁发际线五千米",
+            "id": "15岁发际线五千米_",
+            "uid": "520995307",
+            "rank": 18
+          },
+          "scores": [
+            997887,
+            998738,
+            998275,
+            997000
+          ],
+          "total_score": 3991900,
+          "result": "T",
+          "status": "晋级"
+        },
+        "bult_1519": {
+          "player": {
+            "name": "bult_1519",
+            "id": "bult_1519",
+            "uid": "291942700",
+            "rank": 6
+          },
+          "scores": [
+            1000000,
+            996992,
+            993678,
+            995704
+          ],
+          "total_score": 3986374,
+          "result": "T",
+          "status": "晋级"
+        },
+        "User526878212": {
+          "player": {
+            "name": "User526878212",
+            "id": "空宛水瑑",
+            "uid": "600202454",
+            "rank": 45
+          },
+          "scores": [
+            998905,
+            994775,
+            998024,
+            992444
+          ],
+          "total_score": 3984148,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "Fzponline": {
+          "player": {
+            "name": "Fzponline",
+            "id": "肥皂泡哦",
+            "uid": "608799006",
+            "rank": 63
+          },
+          "scores": [
+            1000000,
+            986637,
+            994217,
+            995874
+          ],
+          "total_score": 3976728,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Radiance [HD]",
+        "+ERABY+E CONNEC+10N [AT]",
+        "Stardust:RAY [IN]",
+        "AbsoluTe disoRdeR [AT]"
+      ]
+    },
+    "常规组C": {
+      "players": {
+        "calasline": {
+          "player": {
+            "name": "calasline",
+            "id": "Calasline",
+            "uid": "3546681547164257",
+            "rank": 9
+          },
+          "scores": [
+            999386,
+            995879,
+            989884,
+            990803
+          ],
+          "total_score": 3975952,
+          "result": "T",
+          "status": "晋级"
+        },
+        "光反_GF": {
+          "player": {
+            "name": "光反_GF",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 34
+          },
+          "scores": [
+            992193,
+            995445,
+            997493,
+            990474
+          ],
+          "total_score": 3975605,
+          "result": "T",
+          "status": "晋级"
+        },
+        "CIretiANa": {
+          "player": {
+            "name": "CIretiANa",
+            "id": "CIretiANa",
+            "uid": "1759109694",
+            "rank": 20
+          },
+          "scores": [
+            989649,
+            997722,
+            981558,
+            988636
+          ],
+          "total_score": 3957565,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "Kamiyama_Shiki": {
+          "player": {
+            "name": "Kamiyama_Shiki",
+            "id": "bili_79712318740",
+            "uid": "3632300585650297",
+            "rank": 48
+          },
+          "scores": [
+            992018,
+            948373,
+            948970,
+            976881
+          ],
+          "total_score": 3866242,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Break Over [AT]",
+        "Alice in a xxxxxxxx [IN]",
+        "DevIAtiOn (short ver.) [IN]",
+        "Credits [AT]"
+      ]
+    },
+    "常规组D": {
+      "players": {
+        "没有底力的菜": {
+          "player": {
+            "name": "没有底力的菜",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 12
+          },
+          "scores": [
+            997165,
+            998438,
+            999255,
+            996552
+          ],
+          "total_score": 3991410,
+          "result": "T",
+          "status": "晋级"
+        },
+        "文轩猕猴桃": {
+          "player": {
+            "name": "文轩猕猴桃",
+            "id": "文文文文轩猕猴桃",
+            "uid": "1540079093",
+            "rank": 28
+          },
+          "scores": [
+            995050,
+            998116,
+            997764,
+            1000000
+          ],
+          "total_score": 3990930,
+          "result": "T",
+          "status": "晋级"
+        },
+        "ReAlms准备一穿三": {
+          "player": {
+            "name": "ReAlms准备一穿三",
+            "id": "ReAlms_Wm",
+            "uid": "3493126404573865",
+            "rank": 36
+          },
+          "scores": [
+            997480,
+            997748,
+            997764,
+            996146
+          ],
+          "total_score": 3989138,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "doubaol": {
+          "player": {
+            "name": "doubaol",
+            "id": "doubaol_stw",
+            "uid": "1545678644",
+            "rank": 55
+          },
+          "scores": [
+            982088,
+            989430,
+            985623,
+            992089
+          ],
+          "total_score": 3949230,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "PANIC PARADISE [AT]",
+        "Cuvism³ [AT]",
+        "Frozen Heart [IN]",
+        "Diamond Dust [IN]"
+      ]
+    }
+  },
+  "淘汰赛-32进16": {
+    "常规组A": {
+      "players": {
+        "bult_1519": {
+          "player": {
+            "name": "bult_1519",
+            "id": "bult_1519",
+            "uid": "291942700",
+            "rank": 6
+          },
+          "scores": [
+            999555,
+            999335,
+            999212,
+            998401
+          ],
+          "total_score": 3996503,
+          "result": "T",
+          "status": "晋级"
+        },
+        "Ex1stenS": {
+          "player": {
+            "name": "Ex1stenS",
+            "id": "Ex1stenS",
+            "uid": "508658816",
+            "rank": 3
+          },
+          "scores": [
+            999555,
+            999335,
+            996565,
+            1000000
+          ],
+          "total_score": 3995455,
+          "result": "T",
+          "status": "晋级"
+        },
+        "潇洒雨落April": {
+          "player": {
+            "name": "潇洒雨落April",
+            "id": "潇洒雨落April",
+            "uid": "345050958",
+            "rank": 15
+          },
+          "scores": [
+            996883,
+            999335,
+            997241,
+            998756
+          ],
+          "total_score": 3992215,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "Z0l1e3.": {
+          "player": {
+            "name": "Z0l1e3.",
+            "id": "Z0l1e3",
+            "uid": "1621159351",
+            "rank": 25
+          },
+          "scores": [
+            989122,
+            996011,
+            999212,
+            993128
+          ],
+          "total_score": 3977473,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Helios [IN]",
+        "Bloom [IN]",
+        "Poison AND÷OR Affection [IN]",
+        "Indelible Scar [IN]"
+      ]
+    },
+    "常规组B": {
+      "players": {
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            1000000,
+            999657,
+            998164,
+            996107
+          ],
+          "total_score": 3993928,
+          "result": "T",
+          "status": "晋级"
+        },
+        "光反_GF": {
+          "player": {
+            "name": "光反_GF",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 34
+          },
+          "scores": [
+            992868,
+            998284,
+            998866,
+            995455
+          ],
+          "total_score": 3985473,
+          "result": "T",
+          "status": "晋级"
+        },
+        "-DESTRUCTION-": {
+          "player": {
+            "name": "-DESTRUCTION-",
+            "id": "一只DESTRUCTION",
+            "uid": "1913595780",
+            "rank": 26
+          },
+          "scores": [
+            981113,
+            996618,
+            995572,
+            998132
+          ],
+          "total_score": 3971435,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "GT_不哈bh": {
+          "player": {
+            "name": "GT_不哈bh",
+            "id": "不哈bh",
+            "uid": "480825955",
+            "rank": 30
+          },
+          "scores": [
+            990758,
+            998289,
+            990928,
+            990000
+          ],
+          "total_score": 3969975,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Credits [AT]",
+        "Freaky Undulations ~Noble Knights of Tune~ [IN]",
+        "Radiance [AT]",
+        "祈 -我ら神祖と共に歩む者なり- [AT]"
+      ]
+    },
+    "常规组C": {
+      "players": {
+        "HLStoria": {
+          "player": {
+            "name": "HLStoria",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 33
+          },
+          "scores": [
+            998391,
+            1000000,
+            998260,
+            999099
+          ],
+          "total_score": 3995750,
+          "result": "T",
+          "status": "晋级"
+        },
+        "5i3R": {
+          "player": {
+            "name": "5i3R",
+            "id": "5i3R",
+            "uid": "189579622",
+            "rank": 41
+          },
+          "scores": [
+            999196,
+            996950,
+            1000000,
+            993305
+          ],
+          "total_score": 3989451,
+          "result": "T",
+          "status": "晋级"
+        },
+        "LoliCatSusu": {
+          "player": {
+            "name": "LoliCatSusu",
+            "id": "LoliCat-溯溯",
+            "uid": "500124294",
+            "rank": 22
+          },
+          "scores": [
+            998632,
+            1000000,
+            993854,
+            995217
+          ],
+          "total_score": 3987703,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "knkgii": {
+          "player": {
+            "name": "knkgii",
+            "id": "枫影ii",
+            "uid": "677524135",
+            "rank": 46
+          },
+          "scores": [
+            997788,
+            986275,
+            992938,
+            990000
+          ],
+          "total_score": 3967001,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "ぱぴぷぴぷぴぱ [IN]",
+        "Broken Sky [IN]",
+        "Swing Skip Drop [IN]",
+        "DESTRUCTION 3,2,1 [AT]"
+      ]
+    }
+  },
+  "淘汰赛-16进8": {
+    "起始组A": {
+      "players": {
+        "Strrrffe": {
+          "player": {
+            "name": "Strrrffe",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            999182,
+            1000000
+          ],
+          "total_score": 1999182,
+          "result": "T",
+          "status": "一胜"
+        },
+        "Ex1stenS": {
+          "player": {
+            "name": "Ex1stenS",
+            "id": "Ex1stenS",
+            "uid": "508658816",
+            "rank": 3
+          },
+          "scores": [
+            997116,
+            999676
+          ],
+          "total_score": 1996792,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "幻影鬼魅 (PLEASE) [IN]"
+      ]
+    },
+    "起始组B": {
+      "players": {
+        "文轩猕猴桃": {
+          "player": {
+            "name": "文轩猕猴桃",
+            "id": "文文文文轩猕猴桃",
+            "uid": "1540079093",
+            "rank": 28
+          },
+          "scores": [
+            999044,
+            997167
+          ],
+          "total_score": 1996211,
+          "result": "T",
+          "status": "一胜"
+        },
+        "XietiaoC": {
+          "player": {
+            "name": "XietiaoC",
+            "id": "XietiaoC",
+            "uid": "1651522699",
+            "rank": 40
+          },
+          "scores": [
+            999044,
+            987854
+          ],
+          "total_score": 1986898,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "Ramification [IN]",
+        "DESTRUCTION 3,2,1 [AT]"
+      ]
+    },
+    "起始组C": {
+      "players": {
+        "calasline": {
+          "player": {
+            "name": "calasline",
+            "id": "Calasline",
+            "uid": "3546681547164257",
+            "rank": 9
+          },
+          "scores": [
+            998003,
+            999060
+          ],
+          "total_score": 1997063,
+          "result": "T",
+          "status": "一胜"
+        },
+        "awalineUwU": {
+          "player": {
+            "name": "awalineUwU",
+            "id": "awaline_UwU",
+            "uid": "3546721191725658",
+            "rank": 2
+          },
+          "scores": [
+            998511,
+            998165
+          ],
+          "total_score": 1996676,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "Re：End of a Dream [AT]",
+        "DevIAtiOn (short ver.) [IN]"
+      ]
+    },
+    "起始组D": {
+      "players": {
+        "HLStoria": {
+          "player": {
+            "name": "HLStoria",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 33
+          },
+          "scores": [
+            998538,
+            1000000
+          ],
+          "total_score": 1998538,
+          "result": "T",
+          "status": "一胜"
+        },
+        "233666": {
+          "player": {
+            "name": 233666,
+            "id": "XXQ_233666",
+            "uid": "669669803",
+            "rank": 54
+          },
+          "scores": [
+            1000000,
+            992445
+          ],
+          "total_score": 1992445,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "白と黒のバケモノ [IN]",
+        "幻影鬼魅 (PLEASE) [AT]"
+      ]
+    },
+    "起始组E": {
+      "players": {
+        "没有底力的菜": {
+          "player": {
+            "name": "没有底力的菜",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 12
+          },
+          "scores": [
+            998660,
+            1000000
+          ],
+          "total_score": 1998660,
+          "result": "T",
+          "status": "一胜"
+        },
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            998124,
+            999162
+          ],
+          "total_score": 1997286,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "Der Richter [AT]",
+        "Fixations Toward the Stars [IN]"
+      ]
+    },
+    "起始组F": {
+      "players": {
+        "bult_1519": {
+          "player": {
+            "name": "bult_1519",
+            "id": "bult_1519",
+            "uid": "291942700",
+            "rank": 6
+          },
+          "scores": [
+            996370,
+            997043
+          ],
+          "total_score": 1993413,
+          "result": "T",
+          "status": "一胜"
+        },
+        "LoliCatSusu": {
+          "player": {
+            "name": "LoliCatSusu",
+            "id": "LoliCat-溯溯",
+            "uid": "500124294",
+            "rank": 22
+          },
+          "scores": [
+            993901,
+            996435
+          ],
+          "total_score": 1990336,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "AbsoluTe disoRdeR [AT]",
+        "NO x [IN]"
+      ]
+    },
+    "起始组G": {
+      "players": {
+        "你打的太高了": {
+          "player": {
+            "name": "你打的太高了",
+            "id": "这还玩个滑稽啊",
+            "uid": "317116814",
+            "rank": 17
+          },
+          "scores": [
+            996497,
+            1000000
+          ],
+          "total_score": 1996497,
+          "result": "T",
+          "status": "一胜"
+        },
+        "青空": {
+          "player": {
+            "name": "青空",
+            "id": "bili_76931553942",
+            "uid": "522892321",
+            "rank": 38
+          },
+          "scores": [
+            993497,
+            999103
+          ],
+          "total_score": 1992600,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "祈 -我ら神祖と共に歩む者なり- [AT]",
+        "Brain Hacker [IN]"
+      ]
+    },
+    "起始组H": {
+      "players": {
+        "光反_GF": {
+          "player": {
+            "name": "光反_GF",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 34
+          },
+          "scores": [
+            996986,
+            996454
+          ],
+          "total_score": 1993440,
+          "result": "T",
+          "status": "一胜"
+        },
+        "OliverZ30": {
+          "player": {
+            "name": "OliverZ30",
+            "id": "一只张章鱼",
+            "uid": "594854866",
+            "rank": 16
+          },
+          "scores": [
+            991830,
+            993882
+          ],
+          "total_score": 1985712,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "Re：End of a Dream [AT]",
+        "Distorted Fate [AT]"
+      ]
+    },
+    "一胜者组A": {
+      "players": {
+        "Strrrffe": {
+          "player": {
+            "name": "Strrrffe",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            1000000,
+            999195
+          ],
+          "total_score": 1999195,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "文轩猕猴桃": {
+          "player": {
+            "name": "文轩猕猴桃",
+            "id": "文文文文轩猕猴桃",
+            "uid": "1540079093",
+            "rank": 28
+          },
+          "scores": [
+            998047,
+            998658
+          ],
+          "total_score": 1996705,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "DESTRUCTION 3,2,1 [AT]",
+        "青丘 [IN]"
+      ]
+    },
+    "一胜者组B": {
+      "players": {
+        "HLStoria": {
+          "player": {
+            "name": "HLStoria",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 33
+          },
+          "scores": [
+            998090,
+            1000000
+          ],
+          "total_score": 1998090,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "calasline": {
+          "player": {
+            "name": "calasline",
+            "id": "Calasline",
+            "uid": "3546681547164257",
+            "rank": 9
+          },
+          "scores": [
+            999454,
+            958875
+          ],
+          "total_score": 1958329,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "Shine After [IN]"
+      ]
+    },
+    "一胜者组C": {
+      "players": {
+        "没有底力的菜": {
+          "player": {
+            "name": "没有底力的菜",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 12
+          },
+          "scores": [
+            996541,
+            999125
+          ],
+          "total_score": 1995666,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "bult_1519": {
+          "player": {
+            "name": "bult_1519",
+            "id": "bult_1519",
+            "uid": "291942700",
+            "rank": 6
+          },
+          "scores": [
+            991576,
+            999563
+          ],
+          "total_score": 1991139,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "Re：End of a Dream [AT]",
+        "Shine After [IN]"
+      ]
+    },
+    "一胜者组D": {
+      "players": {
+        "你打的太高了": {
+          "player": {
+            "name": "你打的太高了",
+            "id": "这还玩个滑稽啊",
+            "uid": "317116814",
+            "rank": 17
+          },
+          "scores": [
+            997826,
+            999708
+          ],
+          "total_score": 1997534,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "光反_GF": {
+          "player": {
+            "name": "光反_GF",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 34
+          },
+          "scores": [
+            992391,
+            999417
+          ],
+          "total_score": 1991808,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "宇宙残骸少女 (Cosmic Dusty Girl) [HD]",
+        "Antithese [AT]"
+      ]
+    },
+    "一负者组A": {
+      "players": {
+        "Ex1stenS": {
+          "player": {
+            "name": "Ex1stenS",
+            "id": "Ex1stenS",
+            "uid": "508658816",
+            "rank": 3
+          },
+          "scores": [
+            999221,
+            997692
+          ],
+          "total_score": 1996913,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "XietiaoC": {
+          "player": {
+            "name": "XietiaoC",
+            "id": "XietiaoC",
+            "uid": "1651522699",
+            "rank": 40
+          },
+          "scores": [
+            980086,
+            999134
+          ],
+          "total_score": 1979220,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "Compute It With Some Devilish Alcoholic Steampunk Engines [IN]"
+      ]
+    },
+    "一负者组B": {
+      "players": {
+        "awalineUwU": {
+          "player": {
+            "name": "awalineUwU",
+            "id": "awaline_UwU",
+            "uid": "3546721191725658",
+            "rank": 2
+          },
+          "scores": [
+            999554,
+            998994
+          ],
+          "total_score": 1998548,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "233666": {
+          "player": {
+            "name": 233666,
+            "id": "XXQ_233666",
+            "uid": "669669803",
+            "rank": 54
+          },
+          "scores": [
+            987898,
+            998527
+          ],
+          "total_score": 1986425,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Stardust:RAY [AT]",
+        "Stardust:RAY [IN]"
+      ]
+    },
+    "一负者组C": {
+      "players": {
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            996992,
+            996872
+          ],
+          "total_score": 1993864,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "LoliCatSusu": {
+          "player": {
+            "name": "LoliCatSusu",
+            "id": "LoliCat-溯溯",
+            "uid": "500124294",
+            "rank": 22
+          },
+          "scores": [
+            996738,
+            995027
+          ],
+          "total_score": 1991765,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "+ERABY+E CONNEC+10N [AT]",
+        "祈 -我ら神祖と共に歩む者なり- [AT]"
+      ]
+    },
+    "一负者组D": {
+      "players": {
+        "OliverZ30": {
+          "player": {
+            "name": "OliverZ30",
+            "id": "一只张章鱼",
+            "uid": "594854866",
+            "rank": 16
+          },
+          "scores": [
+            1000000,
+            995752
+          ],
+          "total_score": 1995752,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "青空": {
+          "player": {
+            "name": "青空",
+            "id": "bili_76931553942",
+            "uid": "522892321",
+            "rank": 38
+          },
+          "scores": [
+            1000000,
+            987179
+          ],
+          "total_score": 1987179,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Triumph & Regret [IN]",
+        "Distorted Fate [AT]"
+      ]
+    },
+    "一胜一负者组A": {
+      "players": {
+        "calasline": {
+          "player": {
+            "name": "calasline",
+            "id": "Calasline",
+            "uid": "3546681547164257",
+            "rank": 9
+          },
+          "scores": [
+            997323,
+            1000000
+          ],
+          "total_score": 1997323,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "文轩猕猴桃": {
+          "player": {
+            "name": "文轩猕猴桃",
+            "id": "文文文文轩猕猴桃",
+            "uid": "1540079093",
+            "rank": 28
+          },
+          "scores": [
+            999665,
+            995970
+          ],
+          "total_score": 1995635,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Flutter Echo [IN]",
+        "Re：End of a Dream [AT]"
+      ]
+    },
+    "一胜一负者组B": {
+      "players": {
+        "Ex1stenS": {
+          "player": {
+            "name": "Ex1stenS",
+            "id": "Ex1stenS",
+            "uid": "508658816",
+            "rank": 3
+          },
+          "scores": [
+            998903,
+            997712
+          ],
+          "total_score": 1996615,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "awalineUwU": {
+          "player": {
+            "name": "awalineUwU",
+            "id": "awaline_UwU",
+            "uid": "3546721191725658",
+            "rank": 2
+          },
+          "scores": [
+            996160,
+            998983
+          ],
+          "total_score": 1995143,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Credits [AT]",
+        "Re：End of a Dream [AT]"
+      ]
+    },
+    "一胜一负者组C": {
+      "players": {
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            997550,
+            998832
+          ],
+          "total_score": 1996382,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "OliverZ30": {
+          "player": {
+            "name": "OliverZ30",
+            "id": "一只张章鱼",
+            "uid": "594854866",
+            "rank": 16
+          },
+          "scores": [
+            998227,
+            990787
+          ],
+          "total_score": 1989014,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Temporal Shifting [IN]",
+        "PRAGMATISM -RESURRECTION- [AT]"
+      ]
+    }
+  },
+  "决赛": {
+    "起始组A": {
+      "players": {
+        "Strrrffe": {
+          "player": {
+            "name": "Strrrffe",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            998402,
+            1000000
+          ],
+          "total_score": 1998402,
+          "result": "T",
+          "status": "一胜"
+        },
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            996220,
+            999312
+          ],
+          "total_score": 1995532,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "Ad astra per aspera [IN]"
+      ]
+    },
+    "起始组B": {
+      "players": {
+        "HLStoria": {
+          "player": {
+            "name": "HLStoria",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 33
+          },
+          "scores": [
+            1000000,
+            999577
+          ],
+          "total_score": 1999577,
+          "result": "T",
+          "status": "一胜"
+        },
+        "calasline": {
+          "player": {
+            "name": "calasline",
+            "id": "Calasline",
+            "uid": "3546681547164257",
+            "rank": 9
+          },
+          "scores": [
+            997283,
+            998370
+          ],
+          "total_score": 1995653,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "Secret Illumination [IN]",
+        "DevIAtiOn (short ver.) [HD]"
+      ]
+    },
+    "起始组C": {
+      "players": {
+        "没有底力的菜": {
+          "player": {
+            "name": "没有底力的菜",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 12
+          },
+          "scores": [
+            998311,
+            999342
+          ],
+          "total_score": 1997653,
+          "result": "T",
+          "status": "一胜"
+        },
+        "光反_GF": {
+          "player": {
+            "name": "光反_GF",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 34
+          },
+          "scores": [
+            998029,
+            996707
+          ],
+          "total_score": 1994736,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "ぱぴぷぴぷぴぱ [IN]",
+        "Antithese [IN]"
+      ]
+    },
+    "起始组D": {
+      "players": {
+        "bult_1519": {
+          "player": {
+            "name": "bult_1519",
+            "id": "bult_1519",
+            "uid": "291942700",
+            "rank": 6
+          },
+          "scores": [
+            994388,
+            999270
+          ],
+          "total_score": 1993658,
+          "result": "T",
+          "status": "一胜"
+        },
+        "你打的太高了": {
+          "player": {
+            "name": "你打的太高了",
+            "id": "这还玩个滑稽啊",
+            "uid": "317116814",
+            "rank": 17
+          },
+          "scores": [
+            990023,
+            997361
+          ],
+          "total_score": 1987384,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "DESTRUCTION 3,2,1 [AT]"
+      ]
+    },
+    "一胜者组A": {
+      "players": {
+        "Strrrffe": {
+          "player": {
+            "name": "Strrrffe",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            999249,
+            999480
+          ],
+          "total_score": 1998729,
+          "result": "T",
+          "status": "二胜"
+        },
+        "HLStoria": {
+          "player": {
+            "name": "HLStoria",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 33
+          },
+          "scores": [
+            999399,
+            998960
+          ],
+          "total_score": 1998359,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "DESTRUCTION 3,2,1 [AT]",
+        "Thrash force [HD]"
+      ]
+    },
+    "一胜者组B": {
+      "players": {
+        "没有底力的菜": {
+          "player": {
+            "name": "没有底力的菜",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 12
+          },
+          "scores": [
+            997918,
+            998003
+          ],
+          "total_score": 1995921,
+          "result": "T",
+          "status": "二胜"
+        },
+        "bult_1519": {
+          "player": {
+            "name": "bult_1519",
+            "id": "bult_1519",
+            "uid": "291942700",
+            "rank": 6
+          },
+          "scores": [
+            995043,
+            995243
+          ],
+          "total_score": 1990286,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "DESTRUCTION 3,2,1 [AT]",
+        "Re：End of a Dream [AT]"
+      ]
+    },
+    "一负者组C": {
+      "players": {
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            999726,
+            998129
+          ],
+          "total_score": 1997855,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "calasline": {
+          "player": {
+            "name": "calasline",
+            "id": "Calasline",
+            "uid": "3546681547164257",
+            "rank": 9
+          },
+          "scores": [
+            996208,
+            996259
+          ],
+          "total_score": 1992467,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "iL-Artifact [IN]",
+        "Distorted Fate [AT]"
+      ]
+    },
+    "一负者组D": {
+      "players": {
+        "你打的太高了": {
+          "player": {
+            "name": "你打的太高了",
+            "id": "这还玩个滑稽啊",
+            "uid": "317116814",
+            "rank": 17
+          },
+          "scores": [
+            992946,
+            998664
+          ],
+          "total_score": 1991610,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "光反_GF": {
+          "player": {
+            "name": "光反_GF",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 34
+          },
+          "scores": [
+            992712,
+            997774
+          ],
+          "total_score": 1990486,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "Helios [IN]"
+      ]
+    },
+    "一胜一负者组A": {
+      "players": {
+        "HLStoria": {
+          "player": {
+            "name": "HLStoria",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 33
+          },
+          "scores": [
+            997749,
+            1000000
+          ],
+          "total_score": 1997749,
+          "result": "T",
+          "status": "二胜一负"
+        },
+        "bult_1519": {
+          "player": {
+            "name": "bult_1519",
+            "id": "bult_1519",
+            "uid": "291942700",
+            "rank": 6
+          },
+          "scores": [
+            997240,
+            998475
+          ],
+          "total_score": 1995715,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "Re：End of a Dream [AT]",
+        "Broken Sky [IN]"
+      ]
+    },
+    "一胜一负者组B": {
+      "players": {
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            998190,
+            1000000
+          ],
+          "total_score": 1998190,
+          "result": "T",
+          "status": "二胜一负"
+        },
+        "你打的太高了": {
+          "player": {
+            "name": "你打的太高了",
+            "id": "这还玩个滑稽啊",
+            "uid": "317116814",
+            "rank": 17
+          },
+          "scores": [
+            997018,
+            996906
+          ],
+          "total_score": 1993924,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "Frozen Heart [IN]",
+        "Ποσειδών [AT]"
+      ]
+    },
+    "二胜一负者组": {
+      "players": {
+        "HLStoria": {
+          "player": {
+            "name": "HLStoria",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 33
+          },
+          "scores": [
+            998410,
+            1000000
+          ],
+          "total_score": 1998410,
+          "result": "T",
+          "status": "三胜一负"
+        },
+        "Rmy": {
+          "player": {
+            "name": "Rmy",
+            "id": "皓月-Rmy",
+            "uid": "283768168",
+            "rank": 21
+          },
+          "scores": [
+            995263,
+            999497
+          ],
+          "total_score": 1994760,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "G.V.N. (Glitter,Vomitus and Neon) [IN]",
+        "Shelter [IN]"
+      ]
+    },
+    "二胜者组": {
+      "players": {
+        "Strrrffe": {
+          "player": {
+            "name": "Strrrffe",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            999031,
+            998832,
+            999700
+          ],
+          "total_score": 2997563,
+          "result": "T",
+          "status": "三胜"
+        },
+        "没有底力的菜": {
+          "player": {
+            "name": "没有底力的菜",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 12
+          },
+          "scores": [
+            1000000,
+            1000000,
+            997468
+          ],
+          "total_score": 2997468,
+          "result": "F",
+          "status": "二胜一负"
+        }
+      },
+      "charts": [
+        "Fractured Angel [IN]",
+        "Pont des souvenirs [IN]",
+        "DESTRUCTION 3,2,1 [AT]"
+      ]
+    },
+    "半决赛组": {
+      "players": {
+        "没有底力的菜": {
+          "player": {
+            "name": "没有底力的菜",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 12
+          },
+          "scores": [
+            998632,
+            998531,
+            998158,
+            998069
+          ],
+          "total_score": 3993390,
+          "result": "T",
+          "status": "三胜一负"
+        },
+        "HLStoria": {
+          "player": {
+            "name": "HLStoria",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 33
+          },
+          "scores": [
+            998914,
+            997813,
+            996930,
+            996621
+          ],
+          "total_score": 3990278,
+          "result": "F",
+          "status": "季军"
+        }
+      },
+      "charts": [
+        "ぱぴぷぴぷぴぱ [IN]",
+        "AbsoluTe disoRdeR [IN]",
+        "Break Over [AT]",
+        "Bye [IN]"
+      ]
+    },
+    "决赛组": {
+      "players": {
+        "Strrrffe": {
+          "player": {
+            "name": "Strrrffe",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            999697,
+            998841,
+            998627,
+            1000000,
+            991533
+          ],
+          "total_score": 3997165,
+          "result": "T",
+          "status": "冠军"
+        },
+        "没有底力的菜": {
+          "player": {
+            "name": "没有底力的菜",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 12
+          },
+          "scores": [
+            994939,
+            998798,
+            995230,
+            994371,
+            993471
+          ],
+          "total_score": 3983338,
+          "result": "F",
+          "status": "亚军"
+        }
+      },
+      "charts": [
+        "PRAGMATISM -RESURRECTION- [AT]",
+        "DESTRUCTION 3,2,1 [AT]",
+        "祈 -我ら神祖と共に歩む者なり- [AT]",
+        "a truth seeker -Communication with Utopia will be lost- [IN]",
+        "BANGING STRIKE [AT]"
+      ]
+    }
+  }
+}
