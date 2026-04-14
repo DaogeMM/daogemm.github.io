@@ -27,6 +27,7 @@
                 "Demiurge.Rabpit.0"
             ],
             "x2": [
+                "AfterZABANIYAMUGEdit.Daily天利.0",
                 "GOODRAGE.EBIMAYO.0"
             ]
         }
@@ -182,7 +183,6 @@
         138.0,
         {
             "x1": [
-                "Introduction.姜米條ElousFZ.0",
                 "Introduction.姜米條ElousFZ.0"
             ]
         }
@@ -201,9 +201,9 @@
                 "MARENOL.LeaF.0",
                 "Protoflicker.Silentroom.0",
                 "RainyHeart.BelieverInYou阿卡姆巫师.0",
+                "テリトリーバトル.ツユ.0",
                 "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
-                "最高傑作.PYKAMIA.0",
-                "テリトリーバトル.ツユ.0"
+                "最高傑作.PYKAMIA.0"
             ],
             "x2": [
                 "ATHAZA.LeaF.0",
@@ -464,6 +464,7 @@
                 "ManifoldHypothesis.cybermisofeattigerlily.0",
                 "PRAGMATISMRESURRECTION.Laur.0",
                 "Realms.HinkikAHimitsu.0",
+                "Xenophobia.XinG.0",
                 "暗夜苏醒REANIMATE.Warak.0"
             ]
         }
@@ -588,7 +589,8 @@
                 "BreakOver.Kforest.0",
                 "FrozenHeart.A39沙包P.0",
                 "Reimei.影虎.0",
-                "彼方へ名もなき海辺より.打打だいず&月乃.0"
+                "彼方へ名もなき海辺より.打打だいず&月乃.0",
+                "OblivionPHIN.Daily天利vsEndCat终猫ftAiSSw夜輪.0"
             ]
         }
     ],
@@ -729,8 +731,10 @@
         200.0,
         {
             "x1": [
+                "Anomaly.姜米條RocketLant.0",
                 "CROSSSOUL.HyuNfeatSyepias.0",
                 "CrushBETA.shadow_bling.0",
+                "Destination.姜米條RocketLant.0",
                 "DiamondDust.MasahiroGodspeedAoki.0",
                 "HardcoreKwaya.EnFr.0",
                 "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0",
@@ -747,8 +751,6 @@
                 "萤火虫の怨.闫东炜.0",
                 "SigmaHaocoreMix105秒の伝説.Daily天利.0",
                 "SpasmodicHaocoreMix.姜米條天利.0",
-                "Destination.姜米條RocketLant.0",
-                "Anomaly.姜米條RocketLant.0",
                 "BurnHaocoreMix.NceSDaily天利.0"
             ]
         }
@@ -876,6 +878,7 @@
                 "Demiurge.Rabpit.0"
             ],
             "x1": [
+                "AfterZABANIYAMUGEdit.Daily天利.0",
                 "GOODRAGE.EBIMAYO.0"
             ]
         }
@@ -922,6 +925,14 @@
             "x1": [
                 "BANGINGSTRIKE.DewPleiades.0",
                 "今年も雪降りメリクリ目指して頑張ります.AiSSvs华牧狸w夜輪ft結月ゆかり.0"
+            ]
+        }
+    ],
+    [
+        238.0,
+        {
+            "x1": [
+                "Verruckt.Raimukun.0"
             ]
         }
     ],
@@ -1004,9 +1015,9 @@
                 "MARENOL.LeaF.0",
                 "Protoflicker.Silentroom.0",
                 "RainyHeart.BelieverInYou阿卡姆巫师.0",
+                "テリトリーバトル.ツユ.0",
                 "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
-                "最高傑作.PYKAMIA.0",
-                "テリトリーバトル.ツユ.0"
+                "最高傑作.PYKAMIA.0"
             ],
             "x1": [
                 "ATHAZA.LeaF.0",
