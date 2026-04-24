@@ -1,5 +1,13 @@
 {
     "Algax": {
+        "玩具狂奏曲終焉.きくお.0": {
+            "name": "玩具狂奏曲 -終焉-",
+            "IN": {
+                "lvl": "15.8",
+                "charter": "Self -the pAtchwork-",
+                "tcharter": "Simon_Axis & Algax"
+            }
+        },
         "百鬼夜行.SaladSavior.0": {
             "name": "百鬼֎夜行",
             "IN": {
@@ -2427,6 +2435,19 @@
                 "tcharter": "Magazet"
             }
         },
+        "下一秒.BobHouSherlock卓智媛feat兰音Reine.0": {
+            "name": "下一秒",
+            "EZ": {
+                "lvl": "4.0",
+                "charter": "Magazet",
+                "tcharter": "Magazet"
+            },
+            "HD": {
+                "lvl": "8.5",
+                "charter": "Magazet",
+                "tcharter": "Magazet"
+            }
+        },
         "百鬼夜行.SaladSavior.0": {
             "name": "百鬼֎夜行",
             "EZ": {
@@ -3512,6 +3533,14 @@
                 "tcharter": "Rikko"
             }
         },
+        "玩具狂奏曲終焉.きくお.0": {
+            "name": "玩具狂奏曲 -終焉-",
+            "EZ": {
+                "lvl": "8.4",
+                "charter": "//TAP to StaRt//",
+                "tcharter": "Su1fuR & Rikko"
+            }
+        },
         "白と黒のバケモノ.テヅカ.0": {
             "name": "白と黒のバケモノ",
             "HD": {
@@ -3857,6 +3886,14 @@
                 "tcharter": "Salt"
             }
         },
+        "下一秒.BobHouSherlock卓智媛feat兰音Reine.0": {
+            "name": "下一秒",
+            "IN": {
+                "lvl": "13.2",
+                "charter": "Salt",
+                "tcharter": "Salt"
+            }
+        },
         "千紫万紅.r0yvsWABI.0": {
             "name": "千紫万紅",
             "IN": {
@@ -4044,6 +4081,14 @@
                 "lvl": "16.4",
                 "charter": "OPCII_0584_X",
                 "tcharter": "Simon_Axis"
+            }
+        },
+        "玩具狂奏曲終焉.きくお.0": {
+            "name": "玩具狂奏曲 -終焉-",
+            "IN": {
+                "lvl": "15.8",
+                "charter": "Self -the pAtchwork-",
+                "tcharter": "Simon_Axis & Algax"
             }
         },
         "白と黒のバケモノ.テヅカ.0": {
@@ -5038,6 +5083,19 @@
                 "lvl": "11.1",
                 "charter": "COC  feat. Su1fuR",
                 "tcharter": "COC & Su1fuR"
+            }
+        },
+        "玩具狂奏曲終焉.きくお.0": {
+            "name": "玩具狂奏曲 -終焉-",
+            "EZ": {
+                "lvl": "8.4",
+                "charter": "//TAP to StaRt//",
+                "tcharter": "Su1fuR & Rikko"
+            },
+            "HD": {
+                "lvl": "13.1",
+                "charter": "Su1fuR: The Hanged Doll",
+                "tcharter": "Su1fuR"
             }
         },
         "瓷岁.茶鸣拾贰律.0": {
@@ -6040,6 +6098,14 @@
             "IN": {
                 "lvl": "14.8",
                 "charter": "XMT小咩兔",
+                "tcharter": "XMT小咩兔"
+            }
+        },
+        "玩具狂奏曲終焉.きくお.0": {
+            "name": "玩具狂奏曲 -終焉-",
+            "AT": {
+                "lvl": "17.0",
+                "charter": "XMT, the Abandoned Puppet",
                 "tcharter": "XMT小咩兔"
             }
         },

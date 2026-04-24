@@ -33,6 +33,40 @@
       }
     ]
   },
+  "awalineUwU": {
+    "player": {
+      "name": "awalineUwU",
+      "score": "51.7000",
+      "url": "https://b23.tv/EZF2t5a",
+      "id": "awaline_UwU",
+      "uid": "3546721191725658",
+      "rank": 2,
+      "bvid": "BV1WgdoBMEky"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 1000000,
+        "value": 17.4
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 1000000,
+        "value": 17.1
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 1000000,
+        "value": 17.2
+      }
+    ]
+  },
   "★来和我van游戏★": {
     "player": {
       "name": "★来和我van游戏★",
@@ -40,7 +74,7 @@
       "url": "https://www.bilibili.com/video/BV1RHDyBCEiA/",
       "id": "来和我van游戏",
       "uid": "1515137105",
-      "rank": 2,
+      "rank": 3,
       "bvid": "BV1RHDyBCEiA"
     },
     "charts": [
@@ -64,40 +98,6 @@
         "level": 17.1,
         "score": 1000000,
         "value": 17.1
-      }
-    ]
-  },
-  "awalineUwU": {
-    "player": {
-      "name": "awalineUwU",
-      "score": "51.6331",
-      "url": "https://b23.tv/igTwGMj",
-      "id": "awaline_UwU",
-      "uid": "3546721191725658",
-      "rank": 3,
-      "bvid": "BV115DDBkE5X"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 999797,
-        "value": 17.3843
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 999774,
-        "value": 17.08283
-      },
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 999554,
-        "value": 17.16592
       }
     ]
   },
@@ -237,6 +237,40 @@
       }
     ]
   },
+  "伊地知虹夏": {
+    "player": {
+      "name": "伊地知虹夏",
+      "score": "51.4880",
+      "url": "https://www.bilibili.com/video/BV1jtdsBiE3p",
+      "id": "幽蓝边鸠awa",
+      "uid": "2103588161",
+      "rank": 8,
+      "bvid": "BV1jtdsBiE3p"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 999140,
+        "value": 17.13432
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 999217,
+        "value": 17.3395
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 998869,
+        "value": 17.01415
+      }
+    ]
+  },
   "Ca12nia.": {
     "player": {
       "name": "Ca12nia.",
@@ -244,7 +278,7 @@
       "url": "https://b23.tv/XDx93Rc",
       "id": "kuiyue112",
       "uid": "527305348",
-      "rank": 8,
+      "rank": 9,
       "bvid": "BV1AZDDB5EVr"
     },
     "charts": [
@@ -278,7 +312,7 @@
       "url": "https://b23.tv/Av5sMJe",
       "id": "IsxI_",
       "uid": "294614878",
-      "rank": 9,
+      "rank": 10,
       "bvid": "BV1UJQhBhEw5"
     },
     "charts": [
@@ -287,21 +321,21 @@
         "name": "QZKago Requiem [AT]",
         "level": 17.4,
         "score": 999188,
-        "value": 17.065
+        "value": 17.33726
       },
       {
         "id": "",
         "name": "Stardust:RAY [AT]",
         "level": 17.2,
         "score": 998026,
-        "value": 17.06397
+        "value": 17.04943
       },
       {
         "id": "",
         "name": "Hydra [AT]",
         "level": 17.1,
         "score": 999774,
-        "value": 17.04843
+        "value": 17.08283
       }
     ]
   },
@@ -312,7 +346,7 @@
       "url": "https://b23.tv/a1Q8ujH",
       "id": "猎宝若叶睦",
       "uid": "1903349163",
-      "rank": 10,
+      "rank": 11,
       "bvid": "BV1JqQMBDEjt"
     },
     "charts": [
@@ -346,7 +380,7 @@
       "url": "https://b23.tv/y2gAdvA",
       "id": "没有底力的菜",
       "uid": "450918551",
-      "rank": 11,
+      "rank": 12,
       "bvid": "BV1SNDDBUEnQ"
     },
     "charts": [
@@ -380,7 +414,7 @@
       "url": "https://www.bilibili.com/video/BV1DiQuBgEL6",
       "id": "TSmK_X_X",
       "uid": "117037520",
-      "rank": 12,
+      "rank": 13,
       "bvid": "BV1DiQuBgEL6"
     },
     "charts": [
@@ -407,6 +441,40 @@
       }
     ]
   },
+  "三角初华": {
+    "player": {
+      "name": "三角初华",
+      "score": "51.4039",
+      "url": "https://b23.tv/0BEmmwZ",
+      "id": "bult_0509",
+      "uid": "291942700",
+      "rank": 14,
+      "bvid": "BV1D4DkBaEJA"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 999321,
+        "value": 17.04843
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 998440,
+        "value": 17.08095
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 998375,
+        "value": 17.27456
+      }
+    ]
+  },
   "抑伤小指酱音游人": {
     "player": {
       "name": "抑伤小指酱音游人",
@@ -414,7 +482,7 @@
       "url": "https://b23.tv/9bRUWLV",
       "id": "抑伤小指酱音游人",
       "uid": "520510968",
-      "rank": 13,
+      "rank": 15,
       "bvid": "BV1TnD1BPEZY"
     },
     "charts": [
@@ -448,7 +516,7 @@
       "url": "https://b23.tv/4g4wZWW",
       "id": "ST_TLEY",
       "uid": "1355655161",
-      "rank": 14,
+      "rank": 16,
       "bvid": "BV1xeQGBuEty"
     },
     "charts": [
@@ -475,15 +543,83 @@
       }
     ]
   },
-  "海选第三关之HL_st0509绝不认输": {
+  "Kevinotch": {
     "player": {
-      "name": "海选第三关之HL_st0509绝不认输",
-      "score": "51.3215",
-      "url": "https://www.bilibili.com/video/BV1D4DkBaEJA",
-      "id": "bult_0509",
-      "uid": "291942700",
-      "rank": 15,
-      "bvid": "BV1D4DkBaEJA"
+      "name": "Kevinotch",
+      "score": "51.3501",
+      "url": "https://b23.tv/bZbVhGF",
+      "id": "Kevinotch",
+      "uid": "455940514",
+      "rank": 17,
+      "bvid": "BV1uUoABiEXB"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 999797,
+        "value": 17.3843
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997803,
+        "value": 17.03246
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 997802,
+        "value": 16.93336
+      }
+    ]
+  },
+  "red红": {
+    "player": {
+      "name": "red红",
+      "score": "51.3323",
+      "url": "https://b23.tv/oGyv9b4",
+      "id": "neko1o1",
+      "uid": "1628761591",
+      "rank": 18,
+      "bvid": "BV189d9B3Ejs"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 997417,
+        "value": 17.20082
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 998885,
+        "value": 17.11487
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 998901,
+        "value": 17.01658
+      }
+    ]
+  },
+  "rs乱跑的种子": {
+    "player": {
+      "name": "rs乱跑的种子",
+      "score": "51.3212",
+      "url": "https://m.bilibili.com/video/BV1CuQnBtEBB",
+      "id": "RS乱跑的种子_",
+      "uid": "3461563952400826",
+      "rank": 19,
+      "bvid": "BV1CuQnBtEBB"
     },
     "charts": [
       {
@@ -497,15 +633,15 @@
         "id": "",
         "name": "Stardust:RAY [AT]",
         "level": 17.2,
-        "score": 997357,
-        "value": 16.99855
+        "score": 997803,
+        "value": 17.03246
       },
       {
         "id": "",
         "name": "Hydra [AT]",
         "level": 17.1,
-        "score": 999321,
-        "value": 17.04843
+        "score": 998869,
+        "value": 17.01415
       }
     ]
   },
@@ -516,7 +652,7 @@
       "url": "https://b23.tv/QFReXlt",
       "id": "GT_rks16的fw",
       "uid": "457018229",
-      "rank": 16,
+      "rank": 20,
       "bvid": "BV1PgQuBFE5A"
     },
     "charts": [
@@ -550,7 +686,7 @@
       "url": "https://b23.tv/5FqydrY",
       "id": "文文文文轩猕猴桃",
       "uid": "1540079093",
-      "rank": 17,
+      "rank": 21,
       "bvid": "BV17CQMB2En6"
     },
     "charts": [
@@ -584,7 +720,7 @@
       "url": "https://b23.tv/hCKHpf5",
       "id": "RE_HoShiNO",
       "uid": "3546581011794054",
-      "rank": 18,
+      "rank": 22,
       "bvid": "BV1pND9BjErm"
     },
     "charts": [
@@ -618,7 +754,7 @@
       "url": "https://b23.tv/Xnq1C4N",
       "id": "Icerd-ToT",
       "uid": "1892892131",
-      "rank": 19,
+      "rank": 23,
       "bvid": "BV14wQuBeEUH"
     },
     "charts": [
@@ -652,7 +788,7 @@
       "url": "https://b23.tv/WdyGTQ9",
       "id": "光反_GF",
       "uid": "1760753545",
-      "rank": 20,
+      "rank": 24,
       "bvid": "BV1UVDCBcEyg"
     },
     "charts": [
@@ -686,7 +822,7 @@
       "url": "https://m.bilibili.com/video/BV1EzQMBJEe7/",
       "id": "执笔写墨丶",
       "uid": "2031688666",
-      "rank": 21,
+      "rank": 25,
       "bvid": "BV1EzQMBJEe7"
     },
     "charts": [
@@ -713,6 +849,40 @@
       }
     ]
   },
+  "果林": {
+    "player": {
+      "name": "果林",
+      "score": "51.2471",
+      "url": "https://m.bilibili.com/video/BV1mqoKB6EiS",
+      "id": "Fruit_forest",
+      "uid": "366486509",
+      "rank": 26,
+      "bvid": "BV1mqoKB6EiS"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 998781,
+        "value": 17.30586
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997994,
+        "value": 17.04699
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 997285,
+        "value": 16.89428
+      }
+    ]
+  },
   "S9iHen9_No？": {
     "player": {
       "name": "S9iHen9_No？",
@@ -720,7 +890,7 @@
       "url": "https://b23.tv/vm3NqWH",
       "id": "S9iHen9_No2",
       "uid": "693180112",
-      "rank": 22,
+      "rank": 27,
       "bvid": "BV1DkDDBWEsS"
     },
     "charts": [
@@ -754,7 +924,7 @@
       "url": "https://b23.tv/s2MoY0m",
       "id": "xeqonb",
       "uid": "458164176",
-      "rank": 23,
+      "rank": 28,
       "bvid": "BV1TYDQBJEUq"
     },
     "charts": [
@@ -781,6 +951,74 @@
       }
     ]
   },
+  "Nameless1058": {
+    "player": {
+      "name": "Nameless1058",
+      "score": "51.2195",
+      "url": "https://www.bilibili.com/video/BV1qEdCBsEFk/",
+      "id": "Nameless1058",
+      "uid": "614671629",
+      "rank": 29,
+      "bvid": "BV1qEdCBsEFk"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 998201,
+        "value": 17.26116
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997994,
+        "value": 17.04699
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 997511,
+        "value": 16.91136
+      }
+    ]
+  },
+  "好哥哥哦耶": {
+    "player": {
+      "name": "好哥哥哦耶",
+      "score": "51.2172",
+      "url": "https://b23.tv/G9O2fcs",
+      "id": "好哥哥哦耶",
+      "uid": "424711854",
+      "rank": 30,
+      "bvid": "BV15tdpBZE8R"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 997964,
+        "value": 16.94561
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997102,
+        "value": 16.97918
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 998607,
+        "value": 17.29244
+      }
+    ]
+  },
   "蛋黄芝士春晖": {
     "player": {
       "name": "蛋黄芝士春晖",
@@ -788,7 +1026,7 @@
       "url": "https://www.bilibili.com/video/BV1J2DQB6Evd/",
       "id": "春晖awa",
       "uid": "9436905",
-      "rank": 24,
+      "rank": 31,
       "bvid": "BV1J2DQB6Evd"
     },
     "charts": [
@@ -815,6 +1053,40 @@
       }
     ]
   },
+  "QuietusRay": {
+    "player": {
+      "name": "QuietusRay",
+      "score": "51.1866",
+      "url": "https://b23.tv/z1xGGZc",
+      "id": "QuietusRay",
+      "uid": "3494358191966767",
+      "rank": 32,
+      "bvid": "BV1MkdoBjEb9"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996433,
+        "value": 16.9284
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 998643,
+        "value": 16.99702
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 998201,
+        "value": 17.26116
+      }
+    ]
+  },
   "MOYK_28": {
     "player": {
       "name": "MOYK_28",
@@ -822,7 +1094,7 @@
       "url": "https://b23.tv/X1jJftj",
       "id": "MOYK_28",
       "uid": "505652638",
-      "rank": 25,
+      "rank": 33,
       "bvid": "BV163DyBnEJ4"
     },
     "charts": [
@@ -856,7 +1128,7 @@
       "url": "https://www.bilibili.com/video/BV13sDQBRENN/",
       "id": "err4089",
       "uid": "1713842476",
-      "rank": 26,
+      "rank": 34,
       "bvid": "BV13sDQBRENN"
     },
     "charts": [
@@ -883,6 +1155,40 @@
       }
     ]
   },
+  "Cuheng": {
+    "player": {
+      "name": "Cuheng",
+      "score": "51.1064",
+      "url": "https://www.bilibili.com/video/BV19MddBSEKp/",
+      "id": "殂珩",
+      "uid": "2094886780",
+      "rank": 35,
+      "bvid": "BV19MddBSEKp"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 998222,
+        "value": 16.96514
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995382,
+        "value": 16.84879
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 998607,
+        "value": 17.29244
+      }
+    ]
+  },
   "ptrb": {
     "player": {
       "name": "ptrb",
@@ -890,7 +1196,7 @@
       "url": "https://bilibili.com/video/BV1zoDyBSEPa",
       "id": "_p0tato-",
       "uid": "616636798",
-      "rank": 27,
+      "rank": 36,
       "bvid": "BV1zoDyBSEPa"
     },
     "charts": [
@@ -924,7 +1230,7 @@
       "url": "https://www.bilibili.com/video/BV18SDXB4E9K/",
       "id": "协调不好的XTDY",
       "uid": "1649879774",
-      "rank": 28,
+      "rank": 37,
       "bvid": "BV18SDXB4E9K"
     },
     "charts": [
@@ -958,7 +1264,7 @@
       "url": "https://b23.tv/02N1zn4",
       "id": "GT_DelovomENT",
       "uid": "2049561291",
-      "rank": 29,
+      "rank": 38,
       "bvid": "BV1fPDSBhEX6"
     },
     "charts": [
@@ -985,6 +1291,40 @@
       }
     ]
   },
+  "FiXCLE": {
+    "player": {
+      "name": "FiXCLE",
+      "score": "51.0594",
+      "url": "https://b23.tv/IDJUWh6",
+      "id": "FiXCLE",
+      "uid": "2142018287",
+      "rank": 39,
+      "bvid": "BV1g2dSBhEPk"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 995850,
+        "value": 17.08055
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996911,
+        "value": 16.96467
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 998869,
+        "value": 17.01415
+      }
+    ]
+  },
   "1ssuE*": {
     "player": {
       "name": "1ssuE*",
@@ -992,7 +1332,7 @@
       "url": "https://b23.tv/8tU7jZI",
       "id": "Detronis_Jr",
       "uid": "1621159351",
-      "rank": 30,
+      "rank": 40,
       "bvid": "BV1g5D1BMEfB"
     },
     "charts": [
@@ -1026,7 +1366,7 @@
       "url": "https://b23.tv/Wn96gB0",
       "id": "烟茶猫猫",
       "uid": "694652560",
-      "rank": 31,
+      "rank": 41,
       "bvid": "BV1aGD1BzEFw"
     },
     "charts": [
@@ -1053,6 +1393,74 @@
       }
     ]
   },
+  "白雷切享受者ReAlms_zwz": {
+    "player": {
+      "name": "白雷切享受者ReAlms_zwz",
+      "score": "51.0343",
+      "url": "https://b23.tv/WPrAOfG",
+      "id": "ReAlms_zwz",
+      "uid": "3493126404573865",
+      "rank": 42,
+      "bvid": "BV1yYdqBDEbb"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997102,
+        "value": 16.97918
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 996228,
+        "value": 17.10952
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 997964,
+        "value": 16.94561
+      }
+    ]
+  },
+  "Hullabaloo": {
+    "player": {
+      "name": "Hullabaloo",
+      "score": "51.0226",
+      "url": "https://b23.tv/yoSHtir",
+      "id": "N_neo霓欧",
+      "uid": "3546385458661580",
+      "rank": 43,
+      "bvid": "BV19WQjBaEdw"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 996808,
+        "value": 17.15403
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997166,
+        "value": 16.98404
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 997156,
+        "value": 16.88454
+      }
+    ]
+  },
   "4648315": {
     "player": {
       "name": "4648315",
@@ -1060,7 +1468,7 @@
       "url": "https://www.bilibili.com/video/BV1x4QMBtEPd/",
       "id": "4648315",
       "uid": "544159282",
-      "rank": 32,
+      "rank": 44,
       "bvid": "BV1x4QMBtEPd"
     },
     "charts": [
@@ -1087,37 +1495,207 @@
       }
     ]
   },
-  "233666": {
+  "Mika_XBR": {
     "player": {
-      "name": "233666",
-      "score": "50.9307",
-      "url": "https://b23.tv/hr8QGCZ",
+      "name": "Mika_XBR",
+      "score": "50.9693",
+      "url": "https://b23.tv/K3INF82",
+      "id": "Mika_XBR",
+      "uid": "1393724798",
+      "rank": 45,
+      "bvid": "BV1FZdpBMEok"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995541,
+        "value": 16.86082
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 997591,
+        "value": 17.2142
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 997285,
+        "value": 16.89428
+      }
+    ]
+  },
+  "后藤一里": {
+    "player": {
+      "name": "后藤一里",
+      "score": "50.9610",
+      "url": "https://b23.tv/opBogZI",
       "id": "XXQ_233666",
       "uid": "669669803",
-      "rank": 33,
-      "bvid": "BV1efDQBaEny"
+      "rank": 46,
+      "bvid": "BV1ZkdWBTEPp"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 997185,
+        "value": 17.18299
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 994713,
+        "value": 16.79821
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 998416,
+        "value": 16.97983
+      }
+    ]
+  },
+  "菜哥": {
+    "player": {
+      "name": "菜哥",
+      "score": "50.9499",
+      "url": "https://www.bilibili.com/video/BV1rtdJBcEfp/",
+      "id": "Cabbageix白菜",
+      "uid": "411613266",
+      "rank": 47,
+      "bvid": "BV1rtdJBcEfp"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996879,
+        "value": 16.96224
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 996431,
+        "value": 17.12509
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 996865,
+        "value": 16.86257
+      }
+    ]
+  },
+  "肥皂泡哦": {
+    "player": {
+      "name": "肥皂泡哦",
+      "score": "50.9368",
+      "url": "https://www.bilibili.com/video/BV17uowB5ED7/",
+      "id": "肥皂泡哦",
+      "uid": "608799006",
+      "rank": 48,
+      "bvid": "BV17uowB5ED7"
     },
     "charts": [
       {
         "id": "",
         "name": "Hydra [AT]",
         "level": 17.1,
-        "score": 998190,
-        "value": 16.96272
-      },
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 996982,
-        "value": 17.16739
+        "score": 995798,
+        "value": 16.78214
       },
       {
         "id": "",
         "name": "Stardust:RAY [AT]",
         "level": 17.2,
-        "score": 994745,
-        "value": 16.80063
+        "score": 995796,
+        "value": 16.88013
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 998375,
+        "value": 17.27456
+      }
+    ]
+  },
+  "ly07": {
+    "player": {
+      "name": "ly07",
+      "score": "50.9215",
+      "url": "https://b23.tv/QCG9tRn",
+      "id": "_ly07_",
+      "uid": "485440443",
+      "rank": 49,
+      "bvid": "BV1X5oFBwEBq"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 997185,
+        "value": 17.18299
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995096,
+        "value": 16.82716
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 997511,
+        "value": 16.91136
+      }
+    ]
+  },
+  "APaTaSuYuE": {
+    "player": {
+      "name": "APaTaSuYuE",
+      "score": "50.9122",
+      "url": "https://b23.tv/FJpCGPQ",
+      "id": "APaTaSuYuE",
+      "uid": "386065883",
+      "rank": 50,
+      "bvid": "BV1Cxd9B8Ese"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 999774,
+        "value": 17.08283
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 996460,
+        "value": 17.12732
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 993439,
+        "value": 16.7021
       }
     ]
   },
@@ -1128,7 +1706,7 @@
       "url": "https://b23.tv/GnB4JMp",
       "id": "63a9h23p1",
       "uid": "3546695180748820",
-      "rank": 34,
+      "rank": 51,
       "bvid": "BV1wZDUBiEMa"
     },
     "charts": [
@@ -1155,58 +1733,17 @@
       }
     ]
   },
-  "Nameless1058": {
+  "此次拆除": {
     "player": {
-      "name": "Nameless1058",
-      "score": "50.8261",
-      "url": "https://www.bilibili.com/video/BV1vgQGBREGw/",
-      "id": "Nameless1058",
-      "uid": "614671629",
-      "rank": 35,
-      "bvid": "BV1vgQGBREGw"
+      "name": "此次拆除",
+      "score": "50.9037",
+      "url": "https://b23.tv/l4oCV0N",
+      "id": "此次拆除",
+      "uid": "646407064",
+      "rank": 52,
+      "bvid": "BV1FRdRB8Efs"
     },
     "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 997359,
-        "value": 17.19636
-      },
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 994076,
-        "value": 16.75012
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 997091,
-        "value": 16.87963
-      }
-    ]
-  },
-  "QuietusRay": {
-    "player": {
-      "name": "QuietusRay",
-      "score": "50.8055",
-      "url": "https://b23.tv/vvgD5Ru",
-      "id": "QuietusRay",
-      "uid": "3494358191966767",
-      "rank": 36,
-      "bvid": "BV1JTDQBTEUT"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 994268,
-        "value": 16.76461
-      },
       {
         "id": "",
         "name": "Hydra [AT]",
@@ -1218,42 +1755,117 @@
         "id": "",
         "name": "QZKago Requiem [AT]",
         "level": 17.4,
-        "score": 997156,
-        "value": 17.18076
+        "score": 998578,
+        "value": 17.29021
+      },
+      {
+        "id": "",
+        "name": "BANGING STRIKE [AT]",
+        "level": 16.8,
+        "score": 999374,
+        "value": 16.75329
       }
     ]
   },
-  "ly07": {
+  "Come on，0.01": {
     "player": {
-      "name": "ly07",
-      "score": "50.7790",
-      "url": "https://b23.tv/GlvOyRp",
-      "id": "_ly07_",
-      "uid": "485440443",
-      "rank": 37,
-      "bvid": "BV1U2DDBDE86"
+      "name": "Come on，0.01",
+      "score": "50.8849",
+      "url": "https://b23.tv/AFCHog8",
+      "id": "ComeOn0丶01",
+      "uid": "515809495",
+      "rank": 53,
+      "bvid": "BV1F6dZBqEQd"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 996671,
+        "value": 16.84793
+      },
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996656,
+        "value": 16.94532
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 995995,
+        "value": 17.09166
+      }
+    ]
+  },
+  "d10c26": {
+    "player": {
+      "name": "d10c26",
+      "score": "50.8843",
+      "url": "https://b23.tv/qjP1bXV",
+      "id": "d10c26",
+      "uid": "3546959396735531",
+      "rank": 54,
+      "bvid": "BV1redZB6Em1"
     },
     "charts": [
       {
         "id": "",
         "name": "Stardust:RAY [AT]",
         "level": 17.2,
-        "score": 994013,
-        "value": 16.74537
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 997091,
-        "value": 16.87963
+        "score": 994873,
+        "value": 16.8103
       },
       {
         "id": "",
         "name": "QZKago Requiem [AT]",
         "level": 17.4,
-        "score": 996808,
-        "value": 17.15403
+        "score": 995995,
+        "value": 17.09166
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 998449,
+        "value": 16.98233
+      }
+    ]
+  },
+  "shenmegui11": {
+    "player": {
+      "name": "shenmegui11",
+      "score": "50.8792",
+      "url": "https://www.bilibili.com/video/BV1KZd6BwEeC/?p=2",
+      "id": "呆呆一点也不笨",
+      "uid": "1542284656",
+      "rank": 55,
+      "bvid": "BV1KZd6BwEeC"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996879,
+        "value": 16.96224
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 996779,
+        "value": 17.1518
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 995572,
+        "value": 16.76513
       }
     ]
   },
@@ -1264,7 +1876,7 @@
       "url": "https://b23.tv/CHtVgep",
       "id": "霜刃-Frost",
       "uid": "1756879948",
-      "rank": 38,
+      "rank": 56,
       "bvid": "BV1RdDQBYEkv"
     },
     "charts": [
@@ -1291,6 +1903,40 @@
       }
     ]
   },
+  "iE8vErd8sE": {
+    "player": {
+      "name": "iE8vErd8sE",
+      "score": "50.7403",
+      "url": "https://b23.tv/MSET4LX",
+      "id": "钳yq",
+      "uid": "3546621524576903",
+      "rank": 57,
+      "bvid": "BV1pnd6B4E1K"
+    },
+    "charts": [
+      {
+        "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 995191,
+        "value": 16.83434
+      },
+      {
+        "id": "",
+        "name": "QZKago Requiem [AT]",
+        "level": 17.4,
+        "score": 996605,
+        "value": 17.13844
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 995604,
+        "value": 16.76754
+      }
+    ]
+  },
   "浦东杨高": {
     "player": {
       "name": "浦东杨高",
@@ -1298,7 +1944,7 @@
       "url": "https://b23.tv/ayFK70n",
       "id": "Y0_Essence778",
       "uid": "541460803",
-      "rank": 39,
+      "rank": 58,
       "bvid": "BV13WDQBxEK7"
     },
     "charts": [
@@ -1332,7 +1978,7 @@
       "url": "https://www.bilibili.com/video/BV1C7DDB6E6A/",
       "id": "不哈bh",
       "uid": "480825955",
-      "rank": 40,
+      "rank": 59,
       "bvid": "BV1C7DDB6E6A"
     },
     "charts": [
@@ -1366,7 +2012,7 @@
       "url": "https://b23.tv/ERnPzzv",
       "id": "MSTdyzqYZQ",
       "uid": "327565434",
-      "rank": 41,
+      "rank": 60,
       "bvid": "BV1QRDmBmEad"
     },
     "charts": [
@@ -1393,40 +2039,6 @@
       }
     ]
   },
-  "APaTaSuYuE": {
-    "player": {
-      "name": "APaTaSuYuE",
-      "score": "50.7035",
-      "url": "https://b23.tv/ufDlZbi",
-      "id": "APaTaSuYuE",
-      "uid": "386065883",
-      "rank": 42,
-      "bvid": "BV1ckDSBvEKV"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 996634,
-        "value": 17.14067
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 997973,
-        "value": 16.64899
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 997544,
-        "value": 16.91385
-      }
-    ]
-  },
   "15岁发际线五千米": {
     "player": {
       "name": "15岁发际线五千米",
@@ -1434,7 +2046,7 @@
       "url": "https://b23.tv/AjpotOw",
       "id": "15岁发际线五千米_",
       "uid": "520995307",
-      "rank": 43,
+      "rank": 61,
       "bvid": "BV1DGD1BzEWZ"
     },
     "charts": [
@@ -1461,159 +2073,64 @@
       }
     ]
   },
-  "Mika_XBR": {
+  "若叶睦": {
     "player": {
-      "name": "Mika_XBR",
-      "score": "50.6735",
-      "url": "https://b23.tv/PDBlsie",
-      "id": "Mika_XBR",
-      "uid": "1393724798",
-      "rank": 44,
-      "bvid": "BV151QKBqELn"
+      "name": "若叶睦",
+      "score": "50.6567",
+      "url": "https://b23.tv/dw0Zvd5",
+      "id": "bili_20919415536",
+      "uid": "1139876490",
+      "rank": 62,
+      "bvid": "BV1JKdjBUELZ"
     },
     "charts": [
       {
         "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 996808,
-        "value": 17.15403
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 996656,
+        "value": 16.94532
       },
       {
         "id": "",
         "name": "Hydra [AT]",
         "level": 17.1,
-        "score": 996412,
-        "value": 16.8284
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 998539,
-        "value": 16.69109
-      }
-    ]
-  },
-  "Cuheng": {
-    "player": {
-      "name": "Cuheng",
-      "score": "50.6495",
-      "url": "https://www.bilibili.com/video/BV1SxDSBjEVT/",
-      "id": "殂珩",
-      "uid": "2094886780",
-      "rank": 45,
-      "bvid": "BV1SxDSBjEVT"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 999195,
-        "value": 16.73995
+        "score": 993665,
+        "value": 16.62193
       },
       {
         "id": "",
         "name": "QZKago Requiem [AT]",
         "level": 17.4,
-        "score": 996808,
-        "value": 17.15403
-      },
-      {
-        "id": "",
-        "name": "sølips [AT]",
-        "level": 16.8,
-        "score": 999404,
-        "value": 16.75553
+        "score": 995966,
+        "value": 17.08944
       }
     ]
   },
-  "FiXCLE": {
+  "fyqyw准备3穿1": {
     "player": {
-      "name": "FiXCLE",
-      "score": "50.6112",
-      "url": "https://b23.tv/ooBFSSB",
-      "id": "FiXCLE",
-      "uid": "2142018287",
-      "rank": 46,
-      "bvid": "BV1XLDmBLEc4"
+      "name": "fyqyw准备3穿1",
+      "score": "50.6374",
+      "url": "https://b23.tv/EctaCFz",
+      "id": "风扬轻语w",
+      "uid": "1706048294",
+      "rank": 63,
+      "bvid": "BV1tcdoB5EdE"
     },
     "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 999188,
-        "value": 17.33726
-      },
       {
         "id": "",
         "name": "Hydra [AT]",
         "level": 17.1,
-        "score": 996219,
-        "value": 16.81385
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 995498,
-        "value": 16.46553
-      }
-    ]
-  },
-  "ZENITH_UZQueen": {
-    "player": {
-      "name": "ZENITH_UZQueen",
-      "score": "50.6085",
-      "url": "https://b23.tv/EYcpbP3",
-      "id": "UZQueen_Rakio",
-      "uid": "1603027758",
-      "rank": 47,
-      "bvid": "BV14yD2BiEDy"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 997185,
-        "value": 17.18299
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 996639,
-        "value": 16.84552
+        "score": 994893,
+        "value": 16.71407
       },
       {
         "id": "",
         "name": "Stardust:RAY [AT]",
         "level": 17.2,
-        "score": 991816,
-        "value": 16.58007
-      }
-    ]
-  },
-  "凉皮clefairable": {
-    "player": {
-      "name": "凉皮clefairable",
-      "score": "50.5921",
-      "url": "https://www.bilibili.com/video/BV1a4DyBgEs2/",
-      "id": "凉皮clefairable",
-      "uid": "2080126848",
-      "rank": 48,
-      "bvid": "BV1a4DyBgEs2"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 995508,
-        "value": 16.76031
+        "score": 994713,
+        "value": 16.79821
       },
       {
         "id": "",
@@ -1621,557 +2138,40 @@
         "level": 17.4,
         "score": 996431,
         "value": 17.12509
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 998748,
-        "value": 16.70665
-      }
-    ]
-  },
-  "imshoucan": {
-    "player": {
-      "name": "imshoucan",
-      "score": "50.4803",
-      "url": "https://www.bilibili.com/video/BV1eNQMBkEXJ/",
-      "id": "我是手残我很手残",
-      "uid": "34717142",
-      "rank": 49,
-      "bvid": "BV1eNQMBkEXJ"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 994544,
-        "value": 16.98063
-      },
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 997548,
-        "value": 17.01307
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 991855,
-        "value": 16.48658
       }
     ]
   },
   "HFDXZ": {
     "player": {
       "name": "HFDXZ",
-      "score": "50.4684",
-      "url": "https://b23.tv/wLcuwlf",
+      "score": "50.6252",
+      "url": "https://www.bilibili.com/video/BV1E1dZBPEbA",
       "id": "哈佛的拖鞋",
       "uid": "288201669",
-      "rank": 50,
-      "bvid": "BV1PvDSBgEEb"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 998172,
-        "value": 17.25892
-      },
-      {
-        "id": "",
-        "name": "sølips [AT]",
-        "level": 16.8,
-        "score": 996213,
-        "value": 16.51843
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 998539,
-        "value": 16.69109
-      }
-    ]
-  },
-  "PhigrosHaoge": {
-    "player": {
-      "name": "PhigrosHaoge",
-      "score": "50.4556",
-      "url": "https://b23.tv/MmeBTYE",
-      "id": "PhigrosHaoge",
-      "uid": "3461575268632856",
-      "rank": 51,
-      "bvid": "BV1KiDQB7ENU"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 994022,
-        "value": 16.94077
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 995701,
-        "value": 16.77484
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 999195,
-        "value": 16.73995
-      }
-    ]
-  },
-  "有时间打pmt不如多做俩题": {
-    "player": {
-      "name": "有时间打pmt不如多做俩题",
-      "score": "50.4503",
-      "url": "https://b23.tv/dArxwm8",
-      "id": "空宛水瑑",
-      "uid": "600202454",
-      "rank": 52,
-      "bvid": "BV1veDDBfEC1"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 993988,
-        "value": 16.64614
-      },
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 994490,
-        "value": 16.78137
-      },
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 995096,
-        "value": 17.02282
-      }
-    ]
-  },
-  "Mx Dream": {
-    "player": {
-      "name": "Mx Dream",
-      "score": "50.4473",
-      "url": "https://b23.tv/T5zZmUl",
-      "id": "鱼不惊_",
-      "uid": "368880368",
-      "rank": 53,
-      "bvid": "BV1CYQhBQEwE"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 998152,
-        "value": 16.6623
-      },
-      {
-        "id": "",
-        "name": "sølips [AT]",
-        "level": 16.8,
-        "score": 999404,
-        "value": 16.75553
-      },
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 995183,
-        "value": 17.02948
-      }
-    ]
-  },
-  "有时间多做俩题不如玩pmt": {
-    "player": {
-      "name": "有时间多做俩题不如玩pmt",
-      "score": "50.4361",
-      "url": "https://www.bilibili.com/video/BV1ELDdB7Egs/",
-      "id": "肥皂泡哦",
-      "uid": "608799006",
-      "rank": 54,
-      "bvid": "BV1ELDdB7Egs"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 996380,
-        "value": 16.82599
-      },
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 994236,
-        "value": 16.7622
-      },
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 992803,
-        "value": 16.84788
-      }
-    ]
-  },
-  "WHQ-E3": {
-    "player": {
-      "name": "WHQ-E3",
-      "score": "50.4256",
-      "url": "https://b23.tv/Nmhxe04",
-      "id": "WHQ-E3",
-      "uid": "435344470",
-      "rank": 55,
-      "bvid": "BV1xfDXBnEVo"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 996953,
-        "value": 17.16516
-      },
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 992293,
-        "value": 16.61589
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 997913,
-        "value": 16.64453
-      }
-    ]
-  },
-  "dwtperfect": {
-    "player": {
-      "name": "dwtperfect",
-      "score": "50.3805",
-      "url": "https://b23.tv/XkAESWU",
-      "id": "Defender-Max",
-      "uid": "3461565720300230",
-      "rank": 56,
-      "bvid": "BV1xUDUBrE8B"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 997620,
-        "value": 17.21643
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 991047,
-        "value": 16.42634
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 999165,
-        "value": 16.73771
-      }
-    ]
-  },
-  "Red红": {
-    "player": {
-      "name": "Red红",
-      "score": "50.3704",
-      "url": "https://b23.tv/QBx12Sq",
-      "id": "neko1o1",
-      "uid": "1628761591",
-      "rank": 57,
-      "bvid": "BV1eKQbBYEH9"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 996210,
-        "value": 16.9115
-      },
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 990163,
-        "value": 16.64759
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 996186,
-        "value": 16.81136
-      }
-    ]
-  },
-  "阳光少书": {
-    "player": {
-      "name": "阳光少书",
-      "score": "50.3600",
-      "url": "https://b23.tv/dpOywrb",
-      "id": "SSChara21",
-      "uid": "433844341",
-      "rank": 58,
-      "bvid": "BV16vQhBnEeD"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 994667,
-        "value": 16.69709
-      },
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 994980,
-        "value": 17.01395
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 997973,
-        "value": 16.64899
-      }
-    ]
-  },
-  "wave": {
-    "player": {
-      "name": "wave",
-      "score": "50.3478",
-      "url": "https://b23.tv/3T52t7u",
-      "id": "waveSW_",
-      "uid": "1973212120",
-      "rank": 59,
-      "bvid": "BV1ifDyBEEmh"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 995386,
-        "value": 17.04501
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 994150,
-        "value": 16.65829
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 997913,
-        "value": 16.64453
-      }
-    ]
-  },
-  "Distorted_Fate": {
-    "player": {
-      "name": "Distorted_Fate",
-      "score": "50.3397",
-      "url": "https://www.bilibili.com/video/BV1UTDDB7EyY/",
-      "id": "-Distorted_Fate-",
-      "uid": "1990706889",
-      "rank": 60,
-      "bvid": "BV1UTDDB7EyY"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 997214,
-        "value": 17.18522
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 993794,
-        "value": 16.6316
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 996273,
-        "value": 16.52287
-      }
-    ]
-  },
-  "此次拆除": {
-    "player": {
-      "name": "此次拆除",
-      "score": "50.3273",
-      "url": "https://b23.tv/5knuUkX",
-      "id": "此次拆除",
-      "uid": "646407064",
-      "rank": 61,
-      "bvid": "BV1crDSBKEU9"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "Verrückt [IN]",
-        "level": 16.5,
-        "score": 100000,
-        "value": 16.5
-      },
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 996779,
-        "value": 17.1518
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 998330,
-        "value": 16.67554
-      }
-    ]
-  },
-  "HP9": {
-    "player": {
-      "name": "HP9",
-      "score": "50.2538",
-      "url": "https://www.bilibili.com/video/BV1vwDCBBET9",
-      "id": "-HP9-",
-      "uid": "32494974",
-      "rank": 62,
-      "bvid": "BV1vwDCBBET9"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 991817,
-        "value": 16.77294
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 995346,
-        "value": 16.74813
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 996691,
-        "value": 16.55384
-      }
-    ]
-  },
-  "氷激凌雪糕": {
-    "player": {
-      "name": "氷激凌雪糕",
-      "score": "50.2408",
-      "url": "https://b23.tv/B2gY1Vl",
-      "id": "氷激凌雪糕",
-      "uid": "648838017",
-      "rank": 63,
-      "bvid": "BV1xXQsByEoU"
-    },
-    "charts": [
-      {
-        "id": "",
-        "name": "Stardust:RAY [AT]",
-        "level": 17.2,
-        "score": 992643,
-        "value": 16.6422
-      },
-      {
-        "id": "",
-        "name": "Hydra [AT]",
-        "level": 17.1,
-        "score": 996639,
-        "value": 16.84552
-      },
-      {
-        "id": "",
-        "name": "QZKago Requiem [AT]",
-        "level": 17.4,
-        "score": 991555,
-        "value": 16.75305
-      }
-    ]
-  },
-  "Fallsnight": {
-    "player": {
-      "name": "Fallsnight",
-      "score": "50.2138",
-      "url": "https://b23.tv/OiMakiM",
-      "id": "-Q5U4EX7YY2E9N-",
-      "uid": "1362956753",
       "rank": 64,
-      "bvid": "BV1oMDSBZEaX"
+      "bvid": "BV1E1dZBPEbA"
     },
     "charts": [
       {
         "id": "",
+        "name": "Stardust:RAY [AT]",
+        "level": 17.2,
+        "score": 997357,
+        "value": 16.99855
+      },
+      {
+        "id": "",
+        "name": "Hydra [AT]",
+        "level": 17.1,
+        "score": 989205,
+        "value": 16.28942
+      },
+      {
+        "id": "",
         "name": "QZKago Requiem [AT]",
         "level": 17.4,
-        "score": 996634,
-        "value": 17.14067
-      },
-      {
-        "id": "",
-        "name": "sølips [AT]",
-        "level": 16.8,
-        "score": 993915,
-        "value": 16.34873
-      },
-      {
-        "id": "",
-        "name": "BANGING STRIKE [AT]",
-        "level": 16.8,
-        "score": 998986,
-        "value": 16.72437
+        "score": 999188,
+        "value": 17.33726
       }
     ]
   }
