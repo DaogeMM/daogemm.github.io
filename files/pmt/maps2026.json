@@ -1,4 +1,21 @@
 {
+  "DistortedFate.Sakuzyo.0": {
+    "songName": "Distorted Fate",
+    "Composer": "Sakuzyo",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.3
+    },
+    "AT": {
+      "Level": 17.4
+    }
+  },
   "QZKagoRequiem.tpazolite.0": {
     "songName": "QZKago Requiem",
     "Composer": "t+pazolite",
@@ -14,6 +31,57 @@
     },
     "AT": {
       "Level": 17.4
+    }
+  },
+  "DESTRUCTION321.Normal1zervsBrokenNerdz.0": {
+    "songName": "DESTRUCTION 3,2,1",
+    "Composer": "Normal1zer vs. Broken Nerdz",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.3
+    },
+    "AT": {
+      "Level": 17.3
+    }
+  },
+  "ERABYECONNEC10N.かめりあ.0": {
+    "songName": "+ERABY+E CONNEC+10N",
+    "Composer": "かめりあ",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.3
+    },
+    "AT": {
+      "Level": 17.3
+    }
+  },
+  "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0": {
+    "songName": "祈 -我ら神祖と共に歩む者なり-",
+    "Composer": "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.4
+    },
+    "AT": {
+      "Level": 17.3
     }
   },
   "StardustRAY.kanonevsBlackY.0": {
@@ -50,6 +118,57 @@
       "Level": 17.1
     }
   },
+  "幻影鬼魅PLEASE.R300K.0": {
+    "songName": "幻影鬼魅 (PLEASE)",
+    "Composer": "R300K",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.2
+    },
+    "AT": {
+      "Level": 17
+    }
+  },
+  "ReEndofaDream.umavsモリモリあつし.0": {
+    "songName": "Re：End of a Dream",
+    "Composer": "uma vs. モリモリあつし",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.9
+    },
+    "AT": {
+      "Level": 16.9
+    }
+  },
+  "DerRichter.Ωμεγα.0": {
+    "songName": "Der Richter",
+    "Composer": "Ωμεγα",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.6
+    },
+    "AT": {
+      "Level": 16.9
+    }
+  },
   "slips.rintarosoma.0": {
     "songName": "sølips",
     "Composer": "rintaro soma",
@@ -84,6 +203,23 @@
       "Level": 16.8
     }
   },
+  "Cuvism.Fl00tvsHalv.0": {
+    "songName": "Cuvism³",
+    "Composer": "Fl00t vs Halv",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.9
+    },
+    "AT": {
+      "Level": 16.7
+    }
+  },
   "DiamondDust.MasahiroGodspeedAoki.0": {
     "songName": "Diamond Dust",
     "Composer": "Masahiro “Godspeed” Aoki",
@@ -99,6 +235,40 @@
     },
     "AT": {
       "Level": 16.7
+    }
+  },
+  "PRAGMATISMRESURRECTION.Laur.0": {
+    "songName": "PRAGMATISM -RESURRECTION-",
+    "Composer": "Laur",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16
+    },
+    "AT": {
+      "Level": 16.6
+    }
+  },
+  "ATHAZA.LeaF.0": {
+    "songName": "ATHAZA",
+    "Composer": "LeaF",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.7
+    },
+    "AT": {
+      "Level": 16.6
     }
   },
   "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0": {
@@ -118,6 +288,57 @@
       "Level": 16.6
     }
   },
+  "IndelibleScar.Noah.0": {
+    "songName": "Indelible Scar",
+    "Composer": "Noah",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.3
+    },
+    "AT": {
+      "Level": 16.5
+    }
+  },
+  "PANICPARADISE.DJSHIONY.0": {
+    "songName": "PANIC PARADISE",
+    "Composer": "DJ SHION.Y",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.4
+    },
+    "AT": {
+      "Level": 16.5
+    }
+  },
+  "Ark.kanoryo.0": {
+    "songName": "Ark",
+    "Composer": "kanoryo",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 0
+    },
+    "AT": {
+      "Level": 16.5
+    }
+  },
   "Verruckt.Raimukun.0": {
     "songName": "Verrückt",
     "Composer": "Raimukun",
@@ -135,6 +356,23 @@
       "Level": 0
     }
   },
+  "Antithese.Blacklolita.0": {
+    "songName": "Antithese",
+    "Composer": "Blacklolita",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.4
+    },
+    "AT": {
+      "Level": 16.4
+    }
+  },
   "彩.MisoilePunch.0": {
     "songName": "彩",
     "Composer": "MisoilePunch♪",
@@ -150,6 +388,108 @@
     },
     "AT": {
       "Level": 0
+    }
+  },
+  "Adastraperaspera.RabbitHouse.0": {
+    "songName": "Ad astra per aspera",
+    "Composer": "Rabbit House",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "FracturedAngel.DJRaisei.0": {
+    "songName": "Fractured Angel",
+    "Composer": "DJ Raisei",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Retribution.nmyKryexe.0": {
+    "songName": "Retribution",
+    "Composer": "nm-y & Kry.exe",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "BoundedQuietude.FiniteLimitvsSiLiS.0": {
+    "songName": "Bounded Quietude",
+    "Composer": "Finite Limit vs SiLiS",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "SATELLITE.かめりあ.0": {
+    "songName": "S.A.T.E.L.L.I.T.E.",
+    "Composer": "かめりあ",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.3
+    },
+    "AT": {
+      "Level": 16.2
+    }
+  },
+  "Poseidon.1112vsStar.0": {
+    "songName": "Ποσειδών",
+    "Composer": "1112 vs. Star＊",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 0
+    },
+    "AT": {
+      "Level": 16.2
     }
   },
   "Incyde.YbeLL.0": {
@@ -203,6 +543,159 @@
       "Level": 0
     }
   },
+  "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0": {
+    "songName": "ぱぴぷぴぷぴぱ",
+    "Composer": "ころねぽち With 立秋",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.9
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "KMoeVIP.ZxNX.0": {
+    "songName": "K.Moe (VIP)",
+    "Composer": "ZxNX",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.9
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "明鏡烈火.MUEvsRekuMochizuki.0": {
+    "songName": "明鏡烈火",
+    "Composer": "M-UE vs. Reku Mochizuki",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.9
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "白と黒のバケモノ.テヅカ.0": {
+    "songName": "白と黒のバケモノ",
+    "Composer": "テヅカ",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.9
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0": {
+    "songName": "TECHNOPOLIS 2085",
+    "Composer": "PRASTIK DANCEFLOOR",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.1
+    },
+    "AT": {
+      "Level": 15.9
+    }
+  },
+  "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0": {
+    "songName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+    "Composer": "かめりあ",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0": {
+    "songName": "G.V.N. (Glitter,Vomitus and Neon)",
+    "Composer": "Salty Salt & Unfold33",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "atruthseekerCommunicationwithUtopiawillbelost.kuro.0": {
+    "songName": "a truth seeker -Communication with Utopia will be lost-",
+    "Composer": "kuro",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "valorstarcross.LundyvsWyvren.0": {
+    "songName": "valor/starcross",
+    "Composer": "Lundy vs. Wyvren",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "Aliceinaxxxxxxxx.Nagiha.0": {
     "songName": "Alice in a xxxxxxxx",
     "Composer": "Nagiha ",
@@ -237,6 +730,57 @@
       "Level": 0
     }
   },
+  "iLArtifact.Link0.0": {
+    "songName": "iL-Artifact",
+    "Composer": "Link''0",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "双重间谍DoubleAgent.WAVAV.0": {
+    "songName": "双重间谍 (Double Agent)",
+    "Composer": "Wav.AV",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "月詠に鳴る.Feryquitousfeat藍月なくる.0": {
+    "songName": "月詠に鳴る",
+    "Composer": "Feryquitous feat.藍月なくる",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.5
+    },
+    "AT": {
+      "Level": 15.7
+    }
+  },
   "DevIAtiOnshortver.polysha.0": {
     "songName": "DevIAtiOn (short ver.)",
     "Composer": "polysha",
@@ -249,6 +793,57 @@
     },
     "IN": {
       "Level": 15.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Credits.Frums.0": {
+    "songName": "Credits",
+    "Composer": "Frums",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 0
+    },
+    "AT": {
+      "Level": 15.7
+    }
+  },
+  "LabyrinthinKowloonWalledWorld.かめりあ.0": {
+    "songName": "Labyrinth in Kowloon: Walled World",
+    "Composer": "かめりあ",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.6
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "SilenceisGoldenSpeechisGolden.NIWASHI.0": {
+    "songName": "Silence is Golden, Speech is Golden",
+    "Composer": "NIWASHI",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.6
     },
     "AT": {
       "Level": 0
@@ -305,6 +900,74 @@
       "Level": 15.6
     }
   },
+  "InvertedWorld.ARForest.0": {
+    "songName": "Inverted World",
+    "Composer": "ARForest",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "千紫万紅.r0yvsWABI.0": {
+    "songName": "千紫万紅",
+    "Composer": "r0y vs. WABI",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "蝎虎天体Lacertid.CreamvsDaily天利.0": {
+    "songName": "蝎虎天体 -Lacertid-",
+    "Composer": "Cream vs. Daily天利",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "SwingSkipDrop.ミハイル.0": {
+    "songName": "Swing Skip Drop",
+    "Composer": "ミハイル",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "Rebirth.ああああ.0": {
     "songName": "Re：birth",
     "Composer": "ああああ",
@@ -317,6 +980,244 @@
     },
     "IN": {
       "Level": 15.4
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0": {
+    "songName": "Freaky Undulations ~Noble Knights of Tune~",
+    "Composer": "Jehezukiel + KURORAK",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "暗夜苏醒REANIMATE.Warak.0": {
+    "songName": "暗夜苏醒 (REANIMATE)",
+    "Composer": "Warak",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Thrashforce.KAHvsE0ri4.0": {
+    "songName": "Thrash force",
+    "Composer": "KAH vs. E0ri4",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "TemporalShifting.LureRabbitVC.0": {
+    "songName": "Temporal Shifting",
+    "Composer": "Lure Rabbit & V!C",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "DancewithSilence.かめりあ.0": {
+    "songName": "Dance with Silence",
+    "Composer": "かめりあ",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "聖夜讃歌.A39沙包P.0": {
+    "songName": "聖夜讃歌",
+    "Composer": "A-39/沙包P",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "CrushBETA.shadow_bling.0": {
+    "songName": "Crush BETA",
+    "Composer": "shadow_bling",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.1
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Schadenfreude.ZxNX.0": {
+    "songName": "Schadenfreude",
+    "Composer": "ZxNX",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15.1
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "风屿.闫东炜.0": {
+    "songName": "风屿",
+    "Composer": "闫东炜",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 0
+    },
+    "AT": {
+      "Level": 15.1
+    }
+  },
+  "Trojan.litmus.0": {
+    "songName": "Trojan",
+    "Composer": "litmus*",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "TriumphRegret.typeMARS.0": {
+    "songName": "Triumph & Regret",
+    "Composer": "typeMARS",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "QuantumHyperspace.D_AAN.0": {
+    "songName": "Quantum Hyperspace",
+    "Composer": "D_AAN",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "贝多芬祝福BeethovenBlessing.Nauts.0": {
+    "songName": "贝多芬祝福 (Beethoven Blessing)",
+    "Composer": "Nauts",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 15
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Bloom.targ麻团qwq.0": {
+    "songName": "Bloom",
+    "Composer": "targ & 麻团qwq",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.9
     },
     "AT": {
       "Level": 0
@@ -356,6 +1257,74 @@
       "Level": 0
     }
   },
+  "bye.DingerBox.0": {
+    "songName": "bye",
+    "Composer": "DingerBox",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "BRAINHACKER.SOMON.0": {
+    "songName": "BRAIN HACKER",
+    "Composer": "SOMON",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "幽世桔梗.Capchiifeatまるもこ.0": {
+    "songName": "幽世桔梗",
+    "Composer": "Capchii feat. まるもこ",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Ramification.rareguyReina.0": {
+    "songName": "Ramification",
+    "Composer": "rareguy & Reina",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "Xepion.Acotto.0": {
     "songName": "Xep+ion",
     "Composer": "Acotto",
@@ -368,6 +1337,57 @@
     },
     "IN": {
       "Level": 14.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "SecretIllumination.Yooh.0": {
+    "songName": "Secret Illumination",
+    "Composer": "Yooh",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "ArtificialExistence.JunKuroda.0": {
+    "songName": "Artificial Existence",
+    "Composer": "Jun Kuroda",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "黄金之城GOLDTOWN.Memme.0": {
+    "songName": "黄金之城 (GOLD TOWN)",
+    "Composer": "MEMME",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.7
     },
     "AT": {
       "Level": 0
@@ -407,6 +1427,40 @@
       "Level": 0
     }
   },
+  "ManifoldHypothesis.cybermisofeattigerlily.0": {
+    "songName": "Manifold Hypothesis",
+    "Composer": "cybermiso feat. tigerlily",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.6
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "ShineAfter.ADeanJocularACE.0": {
+    "songName": "Shine After",
+    "Composer": "ADean & JocularACE",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.6
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "FrozenHeart.A39沙包P.0": {
     "songName": "Frozen Heart",
     "Composer": "A-39 / 沙包P",
@@ -441,6 +1495,74 @@
       "Level": 0
     }
   },
+  "Luminescence.米虾Fomiki初云CLoudie.0": {
+    "songName": "Luminescence",
+    "Composer": "米虾Fomiki & 初云CLoudie",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Ajourneytothemoonlight.Yesod.0": {
+    "songName": "A journey to the moonlight",
+    "Composer": "Yesod",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Originally.SNKSMizku.0": {
+    "songName": "Originally",
+    "Composer": "SNKS & Mizku",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "FixationsTowardtheStars.Foodbot.0": {
+    "songName": "Fixations Toward the Stars",
+    "Composer": "Foodbot",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "彼方へ名もなき海辺より.打打だいず&月乃.0": {
     "songName": "彼方へ、名もなき海辺より",
     "Composer": "打打だいず&月乃",
@@ -453,6 +1575,23 @@
     },
     "IN": {
       "Level": 14.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Spotlight.Ardolf.0": {
+    "songName": "Spotlight",
+    "Composer": "Ardolf",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.4
     },
     "AT": {
       "Level": 0
@@ -492,6 +1631,57 @@
       "Level": 0
     }
   },
+  "NowIsTheTimeDoIt.RoyMikelate.0": {
+    "songName": "Now Is The Time, Do It",
+    "Composer": "Roy Mikelate",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "ストレイソウルアラウンド.みーに.0": {
+    "songName": "ストレイソウル・アラウンド",
+    "Composer": "みーに",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "NightTheater.わかどり.0": {
+    "songName": "NightTheater",
+    "Composer": "わかどり",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "Komplexe.雄之助featSennzai.0": {
     "songName": "Komplexe",
     "Composer": "雄之助 feat. Sennzai",
@@ -504,6 +1694,40 @@
     },
     "IN": {
       "Level": 14.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Xenolith.Tatsh.0": {
+    "songName": "Xenolith",
+    "Composer": "Tatsh",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "KirakiraNoelStory.RekuMochizuki.0": {
+    "songName": "Kirakira Noel Story!!",
+    "Composer": "Reku Mochizuki",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.2
     },
     "AT": {
       "Level": 0
@@ -526,6 +1750,40 @@
       "Level": 0
     }
   },
+  "Elúltimobaile.Θ.0": {
+    "songName": "El último baile",
+    "Composer": "Θ",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.1
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "君往何处QuoVadis.M2U.0": {
+    "songName": "君往何处 (Quo Vadis)",
+    "Composer": "M2U",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14.1
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "アンビバレンス.すりぃ相沢.0": {
     "songName": "アンビバレンス",
     "Composer": "すりぃ×相沢",
@@ -538,6 +1796,23 @@
     },
     "IN": {
       "Level": 14.1
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "TheChariotREVIIVAL.Attoclef.0": {
+    "songName": "The Chariot ~REVIIVAL~",
+    "Composer": "Attoclef",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 14
     },
     "AT": {
       "Level": 0
@@ -577,6 +1852,125 @@
       "Level": 0
     }
   },
+  "Realms.HinkikAHimitsu.0": {
+    "songName": "Realms",
+    "Composer": "Hinkik & A Himitsu",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Grimheart.Puru.0": {
+    "songName": "Grimheart",
+    "Composer": "Puru",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.8
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "CraveWave.LandRoot.0": {
+    "songName": "Crave Wave",
+    "Composer": "LandRoot",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "JourneywithYou.Iris.0": {
+    "songName": "Journey with You",
+    "Composer": "Iris",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "CometFeat符白牙.CNHKSS.0": {
+    "songName": "Comet",
+    "Composer": "CNHKSS feat. 符白牙",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Devotion.Connexio.0": {
+    "songName": "Devotion",
+    "Composer": "Connexio",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "宇宙残骸少女CosmicDustyGirl.辻原一郎.0": {
+    "songName": "宇宙残骸少女 (Cosmic Dusty Girl)",
+    "Composer": "辻原一郎",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.7
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "TheWholeRest.KIVΛ.0": {
     "songName": "The Whole Rest",
     "Composer": "KIVΛ",
@@ -589,6 +1983,57 @@
     },
     "IN": {
       "Level": 13.6
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "神話.PicaM2U.0": {
+    "songName": "神話",
+    "Composer": "Pica & M2U",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Bitterblossom.imvi.0": {
+    "songName": "Bitterblossom",
+    "Composer": "imvi",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "ニライカナイNiraicA_naiMix.roopfromSTR.0": {
+    "songName": "ニライカナイ (NiraicA_nai Mix)",
+    "Composer": "roop from STR",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.5
     },
     "AT": {
       "Level": 0
@@ -611,6 +2056,57 @@
       "Level": 0
     }
   },
+  "DiamondEyes.SYNTHETIC.0": {
+    "songName": "Diamond Eyes",
+    "Composer": "SYNTHETIC",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.4
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "今天不是明天.PIKASONICfeat兰音Reine.0": {
+    "songName": "今天不是明天",
+    "Composer": "PIKASONIC feat. 兰音Reine",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.4
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "心の記憶.A39沙包P.0": {
+    "songName": "心の記憶",
+    "Composer": "A-39/沙包P",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "AphroditesChildshortver.RUQOA.0": {
     "songName": "Aphrodite's Child (short ver.)",
     "Composer": "RUQOA",
@@ -623,6 +2119,125 @@
     },
     "IN": {
       "Level": 13.3
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Bougainvillea.Jade.0": {
+    "songName": "Bougainvillea",
+    "Composer": "Jade",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0": {
+    "songName": "Broken Sky",
+    "Composer": "Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Shelter.MeatyRabbitNceS.0": {
+    "songName": "Shelter",
+    "Composer": "MeatyRabbit & NceS",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Khalid.Dolphin.0": {
+    "songName": "Khalid",
+    "Composer": "Dolphin",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 13.1
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "RainyHeart.BelieverInYou阿卡姆巫师.0": {
+    "songName": "Rainy Heart",
+    "Composer": "BelieverInYou(阿卡姆巫师)",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 12.9
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Letempsperdu.Daison.0": {
+    "songName": "Le temps perdu",
+    "Composer": "Daison",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 12.5
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "インマイマインド.レシオP.0": {
+    "songName": "インマイマインド",
+    "Composer": "レシオP",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 12.2
     },
     "AT": {
       "Level": 0
