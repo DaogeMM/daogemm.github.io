@@ -1,0 +1,786 @@
+{
+  "淘汰赛-64进32": {
+    "常规组A": {
+      "players": {
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            1000000,
+            1000000,
+            999727,
+            1000000
+          ],
+          "total_score": 3999727,
+          "result": "T",
+          "status": "晋级"
+        },
+        "九段不合格": {
+          "player": {
+            "name": "九段不合格",
+            "id": "九段不合格",
+            "uid": "1633653929",
+            "rank": 46
+          },
+          "scores": [
+            996030,
+            996631,
+            994154,
+            1000000
+          ],
+          "total_score": 3986815,
+          "result": "T",
+          "status": "晋级"
+        },
+        "MSTd已无敌": {
+          "player": {
+            "name": "MSTd已无敌",
+            "id": "执笔写墨丶",
+            "uid": "2031688666",
+            "rank": 32
+          },
+          "scores": [
+            998391,
+            985018,
+            998636,
+            1000000
+          ],
+          "total_score": 3982045,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "MOYK_28": {
+          "player": {
+            "name": "MOYK_28",
+            "id": "MOYK_28",
+            "uid": "505652638",
+            "rank": 42
+          },
+          "scores": [
+            994635,
+            991002,
+            992128,
+            998447
+          ],
+          "total_score": 3976212,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "DESTRUCTION 3,2,1 [AT]",
+        "sølips [IN]",
+        "Distorted Fate [AT]",
+        "BANGING STRIKE [HD]"
+      ]
+    },
+    "常规组B": {
+      "players": {
+        "RainPromise": {
+          "player": {
+            "name": "RainPromise",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 31
+          },
+          "scores": [
+            1000000,
+            999183,
+            998269,
+            998610
+          ],
+          "total_score": 3996062,
+          "result": "T",
+          "status": "晋级"
+        },
+        "XietiaoC": {
+          "player": {
+            "name": "XietiaoC",
+            "id": "XietiaoC",
+            "uid": "1651522699",
+            "rank": 6
+          },
+          "scores": [
+            993652,
+            997082,
+            999423,
+            999206
+          ],
+          "total_score": 3989363,
+          "result": "T",
+          "status": "晋级"
+        },
+        "抑伤小指酱音游人": {
+          "player": {
+            "name": "抑伤小指酱音游人",
+            "id": "抑伤小指酱音游人",
+            "uid": "520510968",
+            "rank": 21
+          },
+          "scores": [
+            990125,
+            999455,
+            992828,
+            1000000
+          ],
+          "total_score": 3982408,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "GT_奖牌被偷的不哈": {
+          "player": {
+            "name": "GT_奖牌被偷的不哈",
+            "id": "不哈bh",
+            "uid": "480825955",
+            "rank": 40
+          },
+          "scores": [
+            992006,
+            998638,
+            993529,
+            994877
+          ],
+          "total_score": 3979050,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Credits [AT]",
+        "Verrückt [IN]",
+        "Compute It With Some Devilish Alcoholic Steampunk Engines [IN]",
+        "QZKago Requiem [IN]"
+      ]
+    },
+    "常规组C": {
+      "players": {
+        "Cuheng": {
+          "player": {
+            "name": "Cuheng",
+            "id": "殂珩",
+            "uid": "2094886780",
+            "rank": 44
+          },
+          "scores": [
+            996019,
+            993642,
+            998617,
+            999694
+          ],
+          "total_score": 3987972,
+          "result": "T",
+          "status": "晋级"
+        },
+        "Ca12nia.": {
+          "player": {
+            "name": "Ca12nia.",
+            "id": "kuiyue112",
+            "uid": "527305348",
+            "rank": 12
+          },
+          "scores": [
+            992739,
+            999331,
+            997497,
+            995240
+          ],
+          "total_score": 3984807,
+          "result": "T",
+          "status": "晋级"
+        },
+        "-DESTRUCTION-": {
+          "player": {
+            "name": "-DESTRUCTION-",
+            "id": "一只DESTRUCTIONowo",
+            "uid": "1913595780",
+            "rank": 35
+          },
+          "scores": [
+            992134,
+            999665,
+            998847,
+            990262
+          ],
+          "total_score": 3980908,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "白雷切享受者ReAlms_zwz": {
+          "player": {
+            "name": "白雷切享受者ReAlms_zwz",
+            "id": "ReAlms_zwz",
+            "uid": "3493126404573865",
+            "rank": 57
+          },
+          "scores": [
+            991561,
+            995316,
+            998155,
+            994279
+          ],
+          "total_score": 3979311,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Stardust:RAY [AT]",
+        "Flutter Echo [IN]",
+        "Diamond Dust [AT]",
+        "幻影鬼魅 (PLEASE) [AT]"
+      ]
+    },
+    "常规组D": {
+      "players": {
+        "TempestE324": {
+          "player": {
+            "name": "TempestE324",
+            "id": "TempestE324",
+            "uid": "1420029232",
+            "rank": 60
+          },
+          "scores": [
+            1000000,
+            998354,
+            999527,
+            996232
+          ],
+          "total_score": 3994113,
+          "result": "T",
+          "status": "晋级"
+        },
+        "苦笔中学牲": {
+          "player": {
+            "name": "苦笔中学牲",
+            "id": "bili_7466QAQ",
+            "uid": "1730002806",
+            "rank": 39
+          },
+          "scores": [
+            1000000,
+            997806,
+            996895,
+            996770
+          ],
+          "total_score": 3991471,
+          "result": "T",
+          "status": "晋级"
+        },
+        "伊地知虹夏": {
+          "player": {
+            "name": "伊地知虹夏",
+            "id": "幽蓝边鸠awa",
+            "uid": "2103588161",
+            "rank": 9
+          },
+          "scores": [
+            993694,
+            996709,
+            996962,
+            1000000
+          ],
+          "total_score": 3987365,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "FiXCLE": {
+          "player": {
+            "name": "FiXCLE",
+            "id": "FiXCLE",
+            "uid": "2142018287",
+            "rank": 52
+          },
+          "scores": [
+            1000000,
+            993417,
+            992484,
+            993477
+          ],
+          "total_score": 3979378,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "雪降り ~雪が降っている~ [EZ]",
+        "Credits [AT]",
+        "祈 -我ら神祖と共に歩む者なり- [AT]",
+        "+ERABY+E CONNEC+10N [AT]"
+      ]
+    },
+    "常规组E": {
+      "players": {
+        "IsxI": {
+          "player": {
+            "name": "IsxI",
+            "id": "IsxI_",
+            "uid": "294614878",
+            "rank": 14
+          },
+          "scores": [
+            1000000,
+            997904,
+            998501,
+            1000000
+          ],
+          "total_score": 3996405,
+          "result": "T",
+          "status": "晋级"
+        },
+        "Ling-578": {
+          "player": {
+            "name": "Ling-578",
+            "id": "Ling_578",
+            "uid": "1284748241",
+            "rank": 56
+          },
+          "scores": [
+            994592,
+            998821,
+            997901,
+            994539
+          ],
+          "total_score": 3985853,
+          "result": "T",
+          "status": "晋级"
+        },
+        "Nameless1058": {
+          "player": {
+            "name": "Nameless1058",
+            "id": "Nameless1058",
+            "uid": "614671629",
+            "rank": 34
+          },
+          "scores": [
+            994013,
+            990175,
+            1000000,
+            991137
+          ],
+          "total_score": 3975325,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "4648315": {
+          "player": {
+            "name": 4648315,
+            "id": 4648315,
+            "uid": 544159282,
+            "rank": 63
+          },
+          "scores": [
+            997167,
+            994498,
+            979835,
+            996867
+          ],
+          "total_score": 3968367,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "DESTRUCTION 3,2,1 [AT]",
+        "幻影鬼魅 (PLEASE) [AT]",
+        "Radiance [IN]",
+        "DevIAtiOn (short ver.) [IN]"
+      ]
+    },
+    "常规组F": {
+      "players": {
+        "丰川祥子": {
+          "player": {
+            "name": "丰川祥子",
+            "id": "猎宝若叶睦",
+            "uid": "1903349163",
+            "rank": 15
+          },
+          "scores": [
+            999687,
+            995752,
+            1000000,
+            1000000
+          ],
+          "total_score": 3995439,
+          "result": "T",
+          "status": "晋级"
+        },
+        "潇洒雨落April": {
+          "player": {
+            "name": "潇洒雨落April",
+            "id": "潇洒雨落April",
+            "uid": "345050958",
+            "rank": 19
+          },
+          "scores": [
+            993509,
+            999727,
+            999694,
+            1000000
+          ],
+          "total_score": 3992930,
+          "result": "T",
+          "status": "晋级"
+        },
+        "三角初华": {
+          "player": {
+            "name": "三角初华",
+            "id": "bult_0509",
+            "uid": "291942700",
+            "rank": 18
+          },
+          "scores": [
+            995748,
+            996025,
+            998210,
+            1000000
+          ],
+          "total_score": 3989983,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "ptrb": {
+          "player": {
+            "name": "ptrb",
+            "id": "_p0tato-",
+            "uid": "616636798",
+            "rank": 45
+          },
+          "scores": [
+            997851,
+            995986,
+            995808,
+            998232
+          ],
+          "total_score": 3987877,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "DevIAtiOn (short ver.) [IN]",
+        "Distorted Fate [AT]",
+        "幻影鬼魅 (PLEASE) [AT]",
+        "NO x [EZ]"
+      ]
+    }
+  },
+  "淘汰赛-32进16": {
+    "常规组A": {
+      "players": {
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            1000000,
+            999497,
+            998441,
+            999195
+          ],
+          "total_score": 3997133,
+          "result": "T",
+          "status": "晋级"
+        },
+        "TempestE324": {
+          "player": {
+            "name": "TempestE324",
+            "id": "TempestE324",
+            "uid": "1420029232",
+            "rank": 60
+          },
+          "scores": [
+            996911,
+            999497,
+            997818,
+            1000000
+          ],
+          "total_score": 3994226,
+          "result": "T",
+          "status": "晋级"
+        },
+        "MT_Flow心流": {
+          "player": {
+            "name": "MT_Flow心流",
+            "id": "MT_Flow_心流",
+            "uid": "3493291555293765",
+            "rank": 38
+          },
+          "scores": [
+            999099,
+            1000000,
+            995362,
+            997525
+          ],
+          "total_score": 3991986,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "rks16的fw": {
+          "player": {
+            "name": "rks16的fw",
+            "id": "GT_rks17的fw",
+            "uid": "457018229",
+            "rank": 27
+          },
+          "scores": [
+            999550,
+            998563,
+            997545,
+            995349
+          ],
+          "total_score": 3991007,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Spotlight [IN]",
+        "Shelter [IN]",
+        "Distorted Fate [AT]",
+        "BANGING STRIKE [AT]"
+      ]
+    },
+    "常规组B": {
+      "players": {
+        "Star71": {
+          "player": {
+            "name": "Star71",
+            "id": "MondayStar71",
+            "uid": "418265973",
+            "rank": 5
+          },
+          "scores": [
+            999620,
+            999077,
+            1000000,
+            1000000
+          ],
+          "total_score": 3998697,
+          "result": "T",
+          "status": "晋级"
+        },
+        "henry_in_out": {
+          "player": {
+            "name": "henry_in_out",
+            "id": "RinFall",
+            "uid": "432254889",
+            "rank": 13
+          },
+          "scores": [
+            1000000,
+            998942,
+            998029,
+            999069
+          ],
+          "total_score": 3996040,
+          "result": "T",
+          "status": "晋级"
+        },
+        "九段不合格": {
+          "player": {
+            "name": "九段不合格",
+            "id": "九段不合格",
+            "uid": "1633653929",
+            "rank": 46
+          },
+          "scores": [
+            995553,
+            997187,
+            998632,
+            999690
+          ],
+          "total_score": 3991062,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "苦笔中学牲": {
+          "player": {
+            "name": "苦笔中学牲",
+            "id": "bili_7466QAQ",
+            "uid": "1730002806",
+            "rank": 39
+          },
+          "scores": [
+            993059,
+            995230,
+            998311,
+            993573
+          ],
+          "total_score": 3980173,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Alice in a xxxxxxxx [IN]",
+        "祈 -我ら神祖と共に歩む者なり- [AT]",
+        "ぱぴぷぴぷぴぱ [IN]",
+        "sølips [IN]"
+      ]
+    },
+    "常规组C": {
+      "players": {
+        "IsxI": {
+          "player": {
+            "name": "IsxI",
+            "id": "IsxI_",
+            "uid": "294614878",
+            "rank": 14
+          },
+          "scores": [
+            999454,
+            998997,
+            1000000,
+            1000000
+          ],
+          "total_score": 3998451,
+          "result": "T",
+          "status": "晋级"
+        },
+        "666js已无敌": {
+          "player": {
+            "name": "666js已无敌",
+            "id": "MSTdyzqYZQ",
+            "uid": "327565434",
+            "rank": 10
+          },
+          "scores": [
+            999454,
+            998997,
+            998513,
+            997497
+          ],
+          "total_score": 3994461,
+          "result": "T",
+          "status": "晋级"
+        },
+        "xeqonb": {
+          "player": {
+            "name": "xeqonb",
+            "id": "xxxeqonb",
+            "uid": "3690992639150317",
+            "rank": 7
+          },
+          "scores": [
+            997311,
+            997564,
+            996390,
+            998175
+          ],
+          "total_score": 3989440,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "肥皂泡哦": {
+          "player": {
+            "name": "肥皂泡哦",
+            "id": "肥皂泡哦",
+            "uid": "608799006",
+            "rank": 48
+          },
+          "scores": [
+            991076,
+            997564,
+            996663,
+            997810
+          ],
+          "total_score": 3983113,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "Xep+ion [IN]",
+        "Incyde [IN]",
+        "Temporal Shifting [IN]"
+      ]
+    },
+    "常规组D": {
+      "players": {
+        "awalineUwU": {
+          "player": {
+            "name": "awalineUwU",
+            "id": "awaline_UwU",
+            "uid": "3546721191725658",
+            "rank": 2
+          },
+          "scores": [
+            1000000,
+            994207,
+            998423,
+            999615
+          ],
+          "total_score": 3992245,
+          "result": "T",
+          "status": "晋级"
+        },
+        "小刘子": {
+          "player": {
+            "name": "小刘子",
+            "id": "有个人叫小刘子",
+            "uid": "330428020",
+            "rank": 55
+          },
+          "scores": [
+            993848,
+            998720,
+            1000000,
+            998073
+          ],
+          "total_score": 3990641,
+          "result": "T",
+          "status": "晋级"
+        },
+        "Ling-578": {
+          "player": {
+            "name": "Ling-578",
+            "id": "Ling_578",
+            "uid": "1284748241",
+            "rank": 56
+          },
+          "scores": [
+            992803,
+            999573,
+            1000000,
+            995485
+          ],
+          "total_score": 3987861,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "菜哥": {
+          "player": {
+            "name": "菜哥",
+            "id": "Cabbageix白菜",
+            "uid": "411613266",
+            "rank": 20
+          },
+          "scores": [
+            991410,
+            993598,
+            998423,
+            998513
+          ],
+          "total_score": 3981944,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "QZKago Requiem [AT]",
+        "Inverted World [IN]",
+        "DevIAtiOn (short ver.) [EZ]",
+        "ストレイソウル・アラウンド [IN]"
+      ]
+    }
+  }
+}
