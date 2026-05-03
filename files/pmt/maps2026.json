@@ -101,6 +101,23 @@
       "Level": 17.2
     }
   },
+  "AbsoluTedisoRdeR.AcuteDisarray.0": {
+    "songName": "AbsoluTe disoRdeR",
+    "Composer": "Acute Disarray",
+    "Type": 0,
+    "EZ": {
+      "Level": 6.5
+    },
+    "HD": {
+      "Level": 12.4
+    },
+    "IN": {
+      "Level": 16.3
+    },
+    "AT": {
+      "Level": 17.2
+    }
+  },
   "Hydra.JamesLandinoXAkiraComplex.0": {
     "songName": "Hydra",
     "Composer": "James Landino X Akira Complex",
@@ -390,6 +407,23 @@
       "Level": 0
     }
   },
+  "KIZUNAResolution.TAG.0": {
+    "songName": "KIZUNA Resolution",
+    "Composer": "TAG",
+    "Type": 0,
+    "EZ": {
+      "Level": 8
+    },
+    "HD": {
+      "Level": 13.4
+    },
+    "IN": {
+      "Level": 16.4
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "Adastraperaspera.RabbitHouse.0": {
     "songName": "Ad astra per aspera",
     "Composer": "Rabbit House",
@@ -535,6 +569,23 @@
     },
     "HD": {
       "Level": 10.3
+    },
+    "IN": {
+      "Level": 16.1
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Lyrith迷宮リリス.ユメミド.0": {
+    "songName": "Lyrith -迷宮リリス-",
+    "Composer": "ユメミド",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
     },
     "IN": {
       "Level": 16.1
@@ -1087,6 +1138,23 @@
       "Level": 0
     }
   },
+  "LuminousEntitiesLostHeart.NormalMfeatUsagiDenki.0": {
+    "songName": "Luminous Entities Lost Heart",
+    "Composer": "NormalM feat. Usagi Denki",
+    "Type": 0,
+    "EZ": {
+      "Level": 5
+    },
+    "HD": {
+      "Level": 10.7
+    },
+    "IN": {
+      "Level": 15.2
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
   "CrushBETA.shadow_bling.0": {
     "songName": "Crush BETA",
     "Composer": "shadow_bling",
@@ -1623,6 +1691,23 @@
     },
     "HD": {
       "Level": 10.4
+    },
+    "IN": {
+      "Level": 14.4
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "Resolver.Gomadare.0": {
+    "songName": "Resolver",
+    "Composer": "Gomadare",
+    "Type": 0,
+    "EZ": {
+      "Level": 3
+    },
+    "HD": {
+      "Level": 8.4
     },
     "IN": {
       "Level": 14.4

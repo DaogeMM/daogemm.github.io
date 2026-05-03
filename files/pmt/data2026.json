@@ -1,24 +1,9 @@
 {
-  "16强": [
+  "8强": [
     {
       "name": "Xtrrrffusion",
       "id": "Strrrffe",
       "uid": "1264077976"
-    },
-    {
-      "name": "awalineUwU",
-      "id": "awaline_UwU",
-      "uid": "3546721191725658"
-    },
-    {
-      "name": "★来和我van游戏★",
-      "id": "来和我van游戏",
-      "uid": "1515137105"
-    },
-    {
-      "name": "PX_C₈H₁₀",
-      "id": "PX_C8H10",
-      "uid": "574078807"
     },
     {
       "name": "Star71",
@@ -41,6 +26,38 @@
       "uid": "2038753414"
     },
     {
+      "name": "喜多郁代",
+      "id": "没有底力的菜",
+      "uid": "450918551"
+    },
+    {
+      "name": "Teri0nse",
+      "id": "EG_KS",
+      "uid": "511029893"
+    },
+    {
+      "name": "TempestE324",
+      "id": "TempestE324",
+      "uid": "1420029232"
+    }
+  ],
+  "16强": [
+    {
+      "name": "awalineUwU",
+      "id": "awaline_UwU",
+      "uid": "3546721191725658"
+    },
+    {
+      "name": "★来和我van游戏★",
+      "id": "来和我van游戏",
+      "uid": "1515137105"
+    },
+    {
+      "name": "PX_C₈H₁₀",
+      "id": "PX_C8H10",
+      "uid": "574078807"
+    },
+    {
       "name": "henry_in_out",
       "id": "RinFall",
       "uid": "432254889"
@@ -56,16 +73,6 @@
       "uid": "1903349163"
     },
     {
-      "name": "喜多郁代",
-      "id": "没有底力的菜",
-      "uid": "450918551"
-    },
-    {
-      "name": "Teri0nse",
-      "id": "EG_KS",
-      "uid": "511029893"
-    },
-    {
       "name": "RainPromise",
       "id": "光反_GF",
       "uid": "1760753545"
@@ -74,11 +81,6 @@
       "name": "小刘子",
       "id": "有个人叫小刘子",
       "uid": "330428020"
-    },
-    {
-      "name": "TempestE324",
-      "id": "TempestE324",
-      "uid": "1420029232"
     }
   ],
   "32强": [

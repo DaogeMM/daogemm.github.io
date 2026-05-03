@@ -662,23 +662,6 @@
           "result": "T",
           "status": "晋级"
         },
-        "xeqonb": {
-          "player": {
-            "name": "xeqonb",
-            "id": "xxxeqonb",
-            "uid": "3690992639150317",
-            "rank": 7
-          },
-          "scores": [
-            997311,
-            997564,
-            996390,
-            998175
-          ],
-          "total_score": 3989440,
-          "result": "F",
-          "status": "淘汰"
-        },
         "肥皂泡哦": {
           "player": {
             "name": "肥皂泡哦",
@@ -693,6 +676,33 @@
             997810
           ],
           "total_score": 3983113,
+          "result": "F",
+          "status": "淘汰"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "Xep+ion [IN]",
+        "Incyde [IN]",
+        "Temporal Shifting [IN]"
+      ]
+    },
+    "fatkunC": {
+      "players": {
+        "xeqonb": {
+          "player": {
+            "name": "xeqonb",
+            "id": "xxxeqonb",
+            "uid": "3690992639150317",
+            "rank": 7
+          },
+          "scores": [
+            997311,
+            997564,
+            996390,
+            998175
+          ],
+          "total_score": 3989440,
           "result": "F",
           "status": "淘汰"
         }
@@ -780,6 +790,730 @@
         "Inverted World [IN]",
         "DevIAtiOn (short ver.) [EZ]",
         "ストレイソウル・アラウンド [IN]"
+      ]
+    }
+  },
+  "淘汰赛-16进8": {
+    "起始组A": {
+      "players": {
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            1000000,
+            1000000
+          ],
+          "total_score": 2000000,
+          "result": "T",
+          "status": "一胜"
+        },
+        "★来和我van游戏★": {
+          "player": {
+            "name": "★来和我van游戏★",
+            "id": "来和我van游戏",
+            "uid": "1515137105",
+            "rank": 3
+          },
+          "scores": [
+            997934,
+            998307
+          ],
+          "total_score": 1996241,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "The Whole Rest [HD]",
+        "DevIAtiOn (short ver.) [HD]"
+      ]
+    },
+    "起始组B": {
+      "players": {
+        "nf_9": {
+          "player": {
+            "name": "nf_9",
+            "id": "rrrOmuH",
+            "uid": "2038753414",
+            "rank": 11
+          },
+          "scores": [
+            999700,
+            999575
+          ],
+          "total_score": 1999275,
+          "result": "T",
+          "status": "一胜"
+        },
+        "PX_C₈H₁₀": {
+          "player": {
+            "name": "PX_C₈H₁₀",
+            "id": "PX_C8H10",
+            "uid": "574078807",
+            "rank": 4
+          },
+          "scores": [
+            998949,
+            1000000
+          ],
+          "total_score": 1998949,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "DESTRUCTION 3,2,1 [AT]",
+        "Incyde [IN]"
+      ]
+    },
+    "起始组C": {
+      "players": {
+        "TempestE324": {
+          "player": {
+            "name": "TempestE324",
+            "id": "TempestE324",
+            "uid": "1420029232",
+            "rank": 60
+          },
+          "scores": [
+            1000000,
+            999238
+          ],
+          "total_score": 1999238,
+          "result": "T",
+          "status": "一胜"
+        },
+        "awalineUwU": {
+          "player": {
+            "name": "awalineUwU",
+            "id": "awaline_UwU",
+            "uid": "3546721191725658",
+            "rank": 2
+          },
+          "scores": [
+            999124,
+            1000000
+          ],
+          "total_score": 1999124,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "A journey to the moonlight [IN]",
+        "Broken Sky [IN]"
+      ]
+    },
+    "起始组D": {
+      "players": {
+        "IsxI": {
+          "player": {
+            "name": "IsxI",
+            "id": "IsxI_",
+            "uid": "294614878",
+            "rank": 14
+          },
+          "scores": [
+            1000000,
+            998901
+          ],
+          "total_score": 1998901,
+          "result": "T",
+          "status": "一胜"
+        },
+        "RainPromise": {
+          "player": {
+            "name": "RainPromise",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 31
+          },
+          "scores": [
+            999555,
+            998901
+          ],
+          "total_score": 1998456,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "Helios [IN]",
+        "Hydra [AT]"
+      ]
+    },
+    "起始组E": {
+      "players": {
+        "CN_115": {
+          "player": {
+            "name": "CN_115",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 8
+          },
+          "scores": [
+            1000000,
+            999546
+          ],
+          "total_score": 1999546,
+          "result": "T",
+          "status": "一胜"
+        },
+        "Star71": {
+          "player": {
+            "name": "Star71",
+            "id": "MondayStar71",
+            "uid": "418265973",
+            "rank": 5
+          },
+          "scores": [
+            999034,
+            1000000
+          ],
+          "total_score": 1999034,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "bye [IN]",
+        "G.V.N. (Glitter,Vomitus and Neon) [IN]"
+      ]
+    },
+    "起始组F": {
+      "players": {
+        "丰川祥子": {
+          "player": {
+            "name": "丰川祥子",
+            "id": "猎宝若叶睦",
+            "uid": "1903349163",
+            "rank": 15
+          },
+          "scores": [
+            1000000,
+            999556
+          ],
+          "total_score": 1999556,
+          "result": "T",
+          "status": "一胜"
+        },
+        "666js已无敌": {
+          "player": {
+            "name": "666js已无敌",
+            "id": "MSTdyzqYZQ",
+            "uid": "327565434",
+            "rank": 10
+          },
+          "scores": [
+            999739,
+            999556
+          ],
+          "total_score": 1999295,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "聖夜讃歌 [IN]",
+        "Xenolith [IN]"
+      ]
+    },
+    "起始组G": {
+      "players": {
+        "Teri0nse": {
+          "player": {
+            "name": "Teri0nse",
+            "id": "EG_KS",
+            "uid": "511029893",
+            "rank": 22
+          },
+          "scores": [
+            999130,
+            998401
+          ],
+          "total_score": 1997531,
+          "result": "T",
+          "status": "一胜"
+        },
+        "小刘子": {
+          "player": {
+            "name": "小刘子",
+            "id": "有个人叫小刘子",
+            "uid": "330428020",
+            "rank": 55
+          },
+          "scores": [
+            998217,
+            998341
+          ],
+          "total_score": 1996558,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "NO x [IN]",
+        "Indelible Scar [IN]"
+      ]
+    },
+    "起始组H": {
+      "players": {
+        "喜多郁代": {
+          "player": {
+            "name": "喜多郁代",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 16
+          },
+          "scores": [
+            998748,
+            999454
+          ],
+          "total_score": 1998202,
+          "result": "T",
+          "status": "一胜"
+        },
+        "henry_in_out": {
+          "player": {
+            "name": "henry_in_out",
+            "id": "RinFall",
+            "uid": "432254889",
+            "rank": 13
+          },
+          "scores": [
+            996907,
+            999454
+          ],
+          "total_score": 1996361,
+          "result": "F",
+          "status": "一负"
+        }
+      },
+      "charts": [
+        "Retribution [IN]",
+        "Distorted Fate [AT]"
+      ]
+    },
+    "一胜者组A": {
+      "players": {
+        "喜多郁代": {
+          "player": {
+            "name": "喜多郁代",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 16
+          },
+          "scores": [
+            998675,
+            999448
+          ],
+          "total_score": 1998123,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            999727,
+            997593
+          ],
+          "total_score": 1997320,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "Lyrith -迷宮リリス- [IN]"
+      ]
+    },
+    "一胜者组B": {
+      "players": {
+        "Teri0nse": {
+          "player": {
+            "name": "Teri0nse",
+            "id": "EG_KS",
+            "uid": "511029893",
+            "rank": 22
+          },
+          "scores": [
+            1000000,
+            999550
+          ],
+          "total_score": 1999550,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "nf_9": {
+          "player": {
+            "name": "nf_9",
+            "id": "rrrOmuH",
+            "uid": "2038753414",
+            "rank": 11
+          },
+          "scores": [
+            999270,
+            998110
+          ],
+          "total_score": 1997380,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "DESTRUCTION 3,2,1 [AT]",
+        "祈 -我ら神祖と共に歩む者なり- [AT]"
+      ]
+    },
+    "一胜者组C": {
+      "players": {
+        "TempestE324": {
+          "player": {
+            "name": "TempestE324",
+            "id": "TempestE324",
+            "uid": "1420029232",
+            "rank": 60
+          },
+          "scores": [
+            1000000,
+            999741
+          ],
+          "total_score": 1999741,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "丰川祥子": {
+          "player": {
+            "name": "丰川祥子",
+            "id": "猎宝若叶睦",
+            "uid": "1903349163",
+            "rank": 15
+          },
+          "scores": [
+            999610,
+            999741
+          ],
+          "total_score": 1999351,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "Alb [IN]",
+        "双重间谍 (Double Agent) [IN]"
+      ]
+    },
+    "一胜者组D": {
+      "players": {
+        "CN_115": {
+          "player": {
+            "name": "CN_115",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 8
+          },
+          "scores": [
+            1000000,
+            1000000
+          ],
+          "total_score": 2000000,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "IsxI": {
+          "player": {
+            "name": "IsxI",
+            "id": "IsxI_",
+            "uid": "294614878",
+            "rank": 14
+          },
+          "scores": [
+            999154,
+            1000000
+          ],
+          "total_score": 1999154,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "DevIAtiOn (short ver.) [HD]",
+        "TECHNOPOLIS 2085 [IN]"
+      ]
+    },
+    "一负者组A": {
+      "players": {
+        "henry_in_out": {
+          "player": {
+            "name": "henry_in_out",
+            "id": "RinFall",
+            "uid": "432254889",
+            "rank": 13
+          },
+          "scores": [
+            998290,
+            1000000
+          ],
+          "total_score": 1998290,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "★来和我van游戏★": {
+          "player": {
+            "name": "★来和我van游戏★",
+            "id": "来和我van游戏",
+            "uid": "1515137105",
+            "rank": 3
+          },
+          "scores": [
+            997435,
+            1000000
+          ],
+          "total_score": 1997435,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "祈 -我ら神祖と共に歩む者なり- [AT]",
+        "valor/starcross [IN]"
+      ]
+    },
+    "一负者组B": {
+      "players": {
+        "PX_C₈H₁₀": {
+          "player": {
+            "name": "PX_C₈H₁₀",
+            "id": "PX_C8H10",
+            "uid": "574078807",
+            "rank": 4
+          },
+          "scores": [
+            1000000,
+            1000000
+          ],
+          "total_score": 2000000,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "小刘子": {
+          "player": {
+            "name": "小刘子",
+            "id": "有个人叫小刘子",
+            "uid": "330428020",
+            "rank": 55
+          },
+          "scores": [
+            1000000,
+            995000
+          ],
+          "total_score": 1995000,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Helios [HD]",
+        "NO x [IN]"
+      ]
+    },
+    "一负者组C": {
+      "players": {
+        "Star71": {
+          "player": {
+            "name": "Star71",
+            "id": "MondayStar71",
+            "uid": "418265973",
+            "rank": 5
+          },
+          "scores": [
+            999539,
+            999746
+          ],
+          "total_score": 1999285,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "RainPromise": {
+          "player": {
+            "name": "RainPromise",
+            "id": "光反_GF",
+            "uid": "1760753545",
+            "rank": 31
+          },
+          "scores": [
+            1000000,
+            997240
+          ],
+          "total_score": 1997240,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Diamond Dust [AT]",
+        "Re：End of a Dream [AT]"
+      ]
+    },
+    "一胜一负者组A": {
+      "players": {
+        "666js已无敌": {
+          "player": {
+            "name": "666js已无敌",
+            "id": "MSTdyzqYZQ",
+            "uid": "327565434",
+            "rank": 10
+          },
+          "scores": [
+            999842,
+            1000000
+          ],
+          "total_score": 1999842,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "PX_C₈H₁₀": {
+          "player": {
+            "name": "PX_C₈H₁₀",
+            "id": "PX_C8H10",
+            "uid": "574078807",
+            "rank": 4
+          },
+          "scores": [
+            999370,
+            1000000
+          ],
+          "total_score": 1999370,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "祈 -我ら神祖と共に歩む者なり- [AT]",
+        "Quantum Hyperspace [IN]"
+      ]
+    },
+    "一胜一负者组B": {
+      "players": {
+        "Star71": {
+          "player": {
+            "name": "Star71",
+            "id": "MondayStar71",
+            "uid": "418265973",
+            "rank": 5
+          },
+          "scores": [
+            1000000,
+            998948
+          ],
+          "total_score": 1998948,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "henry_in_out": {
+          "player": {
+            "name": "henry_in_out",
+            "id": "RinFall",
+            "uid": "432254889",
+            "rank": 13
+          },
+          "scores": [
+            999326,
+            998909
+          ],
+          "total_score": 1998235,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "KIZUNA Resolution [IN]",
+        "Distorted Fate [AT]"
+      ]
+    },
+    "一胜一负者组C": {
+      "players": {
+        "nf_9": {
+          "player": {
+            "name": "nf_9",
+            "id": "rrrOmuH",
+            "uid": "2038753414",
+            "rank": 11
+          },
+          "scores": [
+            999430,
+            999774
+          ],
+          "total_score": 1999204,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "丰川祥子": {
+          "player": {
+            "name": "丰川祥子",
+            "id": "猎宝若叶睦",
+            "uid": "1903349163",
+            "rank": 15
+          },
+          "scores": [
+            1000000,
+            996509
+          ],
+          "total_score": 1996509,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Ποσειδών [AT]",
+        "Hydra [AT]"
+      ]
+    },
+    "一胜一负者组D": {
+      "players": {
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            1000000,
+            999454
+          ],
+          "total_score": 1999454,
+          "result": "T",
+          "status": "二胜晋级"
+        },
+        "IsxI": {
+          "player": {
+            "name": "IsxI",
+            "id": "IsxI_",
+            "uid": "294614878",
+            "rank": 14
+          },
+          "scores": [
+            999363,
+            998909
+          ],
+          "total_score": 1998272,
+          "result": "F",
+          "status": "二败淘汰"
+        }
+      },
+      "charts": [
+        "Incyde [IN]",
+        "Distorted Fate [AT]"
       ]
     }
   }
