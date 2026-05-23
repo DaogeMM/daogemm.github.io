@@ -1,4 +1,14 @@
 {
+    "Akko": {
+        "SnowDance.悠叶いのり.0": {
+            "name": "Snow Dance",
+            "EZ": {
+                "lvl": "4.0",
+                "charter": "Akko",
+                "tcharter": "Akko"
+            }
+        }
+    },
     "Algax": {
         "玩具狂奏曲終焉.きくお.0": {
             "name": "玩具狂奏曲 -終焉-",
@@ -2448,6 +2458,19 @@
                 "tcharter": "Magazet"
             }
         },
+        "亂舞.NekockLK.0": {
+            "name": "亂★舞",
+            "EZ": {
+                "lvl": "2.0",
+                "charter": "Magazet",
+                "tcharter": "Magazet"
+            },
+            "HD": {
+                "lvl": "7.5",
+                "charter": "Magazet",
+                "tcharter": "Magazet"
+            }
+        },
         "百鬼夜行.SaladSavior.0": {
             "name": "百鬼֎夜行",
             "EZ": {
@@ -3245,7 +3268,7 @@
             "name": "Demiurge",
             "EZ": {
                 "lvl": "1.5",
-                "charter": "Manufacturer ~ Rikko",
+                "charter": "\"Manufacturer\" ~ Rikko",
                 "tcharter": "Rikko"
             }
         },
@@ -4356,6 +4379,14 @@
                 "tcharter": "StR-1"
             }
         },
+        "亂舞.NekockLK.0": {
+            "name": "亂★舞",
+            "IN": {
+                "lvl": "13.0",
+                "charter": "StR☆1",
+                "tcharter": "StR-1"
+            }
+        },
         "双重间谍DoubleAgent.WAVAV.0": {
             "name": "双重间谍 (Double Agent)",
             "EZ": {
@@ -4475,7 +4506,7 @@
             "name": "Demiurge",
             "HD": {
                 "lvl": "7.5",
-                "charter": "Creator ~ StupiGGy",
+                "charter": "\"Creator\" ~ StupiGGy",
                 "tcharter": "StupiGGy"
             }
         },
@@ -6354,6 +6385,14 @@
                 "charter": "StR-1 & 右果_Ary",
                 "tcharter": "StR-1 & 右果_Ary"
             }
+        },
+        "SnowDance.悠叶いのり.0": {
+            "name": "Snow Dance",
+            "IN": {
+                "lvl": "12.4",
+                "charter": "The Waltz of Snow",
+                "tcharter": "右果_Ary"
+            }
         }
     },
     "啊哒咔哟": {
@@ -6444,7 +6483,7 @@
             "name": "Demiurge",
             "IN": {
                 "lvl": "11.8",
-                "charter": "Demiurge ~ Dawn",
+                "charter": "\"Demiurge\" ~ Dawn",
                 "tcharter": "晨"
             }
         },
@@ -6969,6 +7008,14 @@
                 "lvl": "7.0",
                 "charter": "【梦之起始】爬爬 vs. 盐",
                 "tcharter": "爬爬 & Salt"
+            }
+        },
+        "SnowDance.悠叶いのり.0": {
+            "name": "Snow Dance",
+            "HD": {
+                "lvl": "8.3",
+                "charter": "爬爬",
+                "tcharter": "爬爬"
             }
         },
         "彩.MisoilePunch.0": {

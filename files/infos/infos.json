@@ -16586,7 +16586,7 @@
             "line": 24
         },
         "AT": {
-            "charter": "1",
+            "charter": "",
             "dif": "",
             "lvl": "",
             "notecount": "",
@@ -23274,7 +23274,7 @@
             "line": 12
         },
         "AT": {
-            "charter": "1",
+            "charter": "",
             "dif": "",
             "lvl": "",
             "notecount": "",
@@ -23417,10 +23417,10 @@
             "charter": "adky",
             "dif": "5",
             "lvl": "5.0",
-            "notecount": 371,
+            "notecount": 382,
             "tcharter": "啊哒咔哟",
             "tap": 253,
-            "drag": 68,
+            "drag": 79,
             "hold": 39,
             "flick": 11,
             "line": 18
@@ -23431,8 +23431,8 @@
             "lvl": "10.2",
             "notecount": 644,
             "tcharter": "啊哒咔哟",
-            "tap": 397,
-            "drag": 143,
+            "tap": 393,
+            "drag": 147,
             "hold": 38,
             "flick": 66,
             "line": 18
@@ -24815,6 +24815,182 @@
         },
         "display": true
     },
+    "SnowDance.悠叶いのり.0": {
+        "name": "Snow Dance",
+        "composer": "悠叶いのり",
+        "illustrator": "群青kurara",
+        "previews": "81.00",
+        "previewe": "97.00",
+        "EZ": {
+            "charter": "Akko",
+            "dif": "4",
+            "lvl": "4.0",
+            "notecount": 170,
+            "tcharter": "Akko",
+            "tap": 25,
+            "drag": 2,
+            "hold": 53,
+            "flick": 90,
+            "line": 15
+        },
+        "HD": {
+            "charter": "爬爬",
+            "dif": "8",
+            "lvl": "8.3",
+            "notecount": 341,
+            "tcharter": "爬爬",
+            "tap": 139,
+            "drag": 110,
+            "hold": 79,
+            "flick": 13,
+            "line": 18
+        },
+        "IN": {
+            "charter": "The Waltz of Snow",
+            "dif": "12",
+            "lvl": "12.4",
+            "notecount": 558,
+            "tcharter": "右果_Ary",
+            "tap": 278,
+            "drag": 170,
+            "hold": 81,
+            "flick": 29,
+            "line": 20
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "relation": "",
+        "date": "2026/5/22",
+        "competition": "",
+        "chapter": "Single Collection 单曲 精选集",
+        "version": "3.19.2",
+        "translate": "雪之舞",
+        "BPM": 188,
+        "duration": "118.43",
+        "LY": {
+            "notecount": "",
+            "tcharter": "",
+            "dif": "",
+            "lvl": "",
+            "charter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "SP": {
+            "notecount": "",
+            "tcharter": "",
+            "dif": "",
+            "lvl": "",
+            "charter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "display": true
+    },
+    "亂舞.NekockLK.0": {
+        "name": "亂★舞",
+        "composer": "Nekock·LK",
+        "illustrator": "鲸弑",
+        "previews": "68.50",
+        "previewe": "91.00",
+        "EZ": {
+            "charter": "Magazet",
+            "dif": "2",
+            "lvl": "2.0",
+            "notecount": 119,
+            "tcharter": "Magazet",
+            "tap": 52,
+            "drag": 34,
+            "hold": 16,
+            "flick": 17,
+            "line": 3
+        },
+        "HD": {
+            "charter": "Magazet",
+            "dif": "7",
+            "lvl": "7.5",
+            "notecount": 327,
+            "tcharter": "Magazet",
+            "tap": 138,
+            "drag": 125,
+            "hold": 41,
+            "flick": 23,
+            "line": 9
+        },
+        "IN": {
+            "charter": "StR☆1",
+            "dif": "13",
+            "lvl": "13.0",
+            "notecount": 548,
+            "tcharter": "StR-1",
+            "tap": 273,
+            "drag": 164,
+            "hold": 70,
+            "flick": 41,
+            "line": 18
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "relation": "",
+        "date": "2026/5/22",
+        "competition": "",
+        "chapter": "Single Collection 单曲 精选集",
+        "version": "3.19.2",
+        "translate": "乱★舞",
+        "BPM": 196,
+        "duration": "128.15",
+        "LY": {
+            "notecount": "",
+            "tcharter": "",
+            "dif": "",
+            "lvl": "",
+            "charter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "SP": {
+            "notecount": "",
+            "tcharter": "",
+            "dif": "",
+            "lvl": "",
+            "charter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
+        "display": true
+    },
     "Poseidon.1112vsStar.0": {
         "name": "Ποσειδών",
         "composer": "1112 vs. Star＊",
@@ -25262,7 +25438,7 @@
         "previews": "89.73",
         "previewe": "107.03",
         "EZ": {
-            "charter": "Manufacturer ~ Rikko",
+            "charter": "\"Manufacturer\" ~ Rikko",
             "dif": "1",
             "lvl": "1.5",
             "notecount": 100,
@@ -25274,7 +25450,7 @@
             "line": 18
         },
         "HD": {
-            "charter": "Creator ~ StupiGGy",
+            "charter": "\"Creator\" ~ StupiGGy",
             "dif": "7",
             "lvl": "7.5",
             "notecount": 445,
@@ -25286,7 +25462,7 @@
             "line": 3
         },
         "IN": {
-            "charter": "Demiurge ~ Dawn",
+            "charter": "\"Demiurge\" ~ Dawn",
             "dif": "11",
             "lvl": "11.8",
             "notecount": 520,
@@ -26752,23 +26928,6 @@
         "display": true
     },
     "Introduction.姜米條ElousFZ.0": {
-        "name": "Introduction",
-        "composer": "姜米條 & ElousΛ.-FZ",
-        "illustrator": "L-sp4",
-        "previews": "0.00",
-        "previewe": "0.00",
-        "EZ": {
-            "charter": "野从",
-            "dif": "1",
-            "lvl": "1.0",
-            "notecount": 93,
-            "tcharter": "野从",
-            "tap": 9,
-            "drag": 60,
-            "hold": 14,
-            "flick": 10,
-            "line": 11
-        },
         "relation": "Phigros Original",
         "date": "2019/8/31",
         "competition": "",
@@ -26777,6 +26936,18 @@
         "translate": "序曲",
         "BPM": 138,
         "duration": "150.02",
+        "EZ": {
+            "notecount": 93,
+            "tcharter": "野从",
+            "tap": 9,
+            "drag": 60,
+            "hold": 14,
+            "flick": 10,
+            "line": 11,
+            "charter": "野从",
+            "dif": "1",
+            "lvl": "1.0"
+        },
         "HD": {
             "notecount": "",
             "tcharter": "",
@@ -26784,7 +26955,10 @@
             "drag": "",
             "hold": "",
             "flick": "",
-            "line": ""
+            "line": "",
+            "charter": "",
+            "dif": "",
+            "lvl": ""
         },
         "IN": {
             "notecount": "",
@@ -26793,7 +26967,10 @@
             "drag": "",
             "hold": "",
             "flick": "",
-            "line": ""
+            "line": "",
+            "charter": "",
+            "dif": "",
+            "lvl": ""
         },
         "AT": {
             "notecount": "",
@@ -26802,7 +26979,10 @@
             "drag": "",
             "hold": "",
             "flick": "",
-            "line": ""
+            "line": "",
+            "charter": "",
+            "dif": "",
+            "lvl": ""
         },
         "LY": {
             "notecount": "",
@@ -26828,7 +27008,12 @@
             "flick": "",
             "line": ""
         },
-        "display": false
+        "display": false,
+        "name": "Introduction",
+        "composer": "姜米條 & ElousΛ.-FZ",
+        "illustrator": "L-sp4",
+        "previews": "0.00",
+        "previewe": "0.00"
     },
     "Christmas.姜米條.0": {
         "relation": "Special & Original",
