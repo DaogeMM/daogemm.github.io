@@ -3725,6 +3725,14 @@
                 "tcharter": "Salt & 野从"
             }
         },
+        "Cleyera.Riya.0": {
+            "name": "Cleyera",
+            "IN": {
+                "lvl": "15.6",
+                "charter": "Salt",
+                "tcharter": "Salt"
+            }
+        },
         "Cristalisia.onoken.0": {
             "name": "Cristalisia",
             "IN": {
@@ -4817,6 +4825,14 @@
                 "tcharter": "Su1fuR"
             }
         },
+        "Cleyera.Riya.0": {
+            "name": "Cleyera",
+            "HD": {
+                "lvl": "11.0",
+                "charter": "Su2023fuR",
+                "tcharter": "Su1fuR"
+            }
+        },
         "DESTRUCTION321.Normal1zervsBrokenNerdz.0": {
             "name": "DESTRUCTION 3,2,1",
             "EZ": {
@@ -5747,6 +5763,14 @@
                 "tcharter": "XMT小咩兔 & 阿爽 & Rikko & 百九十八"
             }
         },
+        "70MinutesFighters.かたぎり.0": {
+            "name": "70 Minutes Fighters",
+            "IN": {
+                "lvl": "16.5",
+                "charter": "XMT小咩兔 >w<",
+                "tcharter": "XMT小咩兔"
+            }
+        },
         "Adastraperaspera.RabbitHouse.0": {
             "name": "Ad astra per aspera",
             "HD": {
@@ -6401,6 +6425,19 @@
             "IN": {
                 "lvl": "14.4",
                 "charter": "啊0哒0咔0哟 & Dilated",
+                "tcharter": "啊哒咔哟"
+            }
+        },
+        "70MinutesFighters.かたぎり.0": {
+            "name": "70 Minutes Fighters",
+            "EZ": {
+                "lvl": "7.5",
+                "charter": "ADKY",
+                "tcharter": "啊哒咔哟"
+            },
+            "HD": {
+                "lvl": "12.5",
+                "charter": "ADKY",
                 "tcharter": "啊哒咔哟"
             }
         },
@@ -7805,6 +7842,14 @@
                 "lvl": "14.4",
                 "charter": "Barbarianerman feat. Gausbon",
                 "tcharter": "野从 & Gausbon"
+            }
+        },
+        "Cleyera.Riya.0": {
+            "name": "Cleyera",
+            "EZ": {
+                "lvl": "5.0",
+                "charter": "--The Last of Barbarianerman--",
+                "tcharter": "野从"
             }
         },
         "ClockParadox.WyvernP.0": {
