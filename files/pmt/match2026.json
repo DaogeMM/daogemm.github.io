@@ -1516,5 +1516,604 @@
         "Distorted Fate [AT]"
       ]
     }
+  },
+  "决赛": {
+    "起始组A": {
+      "players": {
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            998578,
+            999333
+          ],
+          "total_score": 1997911,
+          "result": "T",
+          "status": "一胜"
+        },
+        "TempestE324": {
+          "player": {
+            "name": "TempestE324",
+            "id": "TempestE324",
+            "uid": "1420029232",
+            "rank": 60
+          },
+          "scores": [
+            998201,
+            999481
+          ],
+          "total_score": 1997682,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "QZKago Requiem [AT]",
+        "AbsoluTe disoRdeR [AT]"
+      ]
+    },
+    "起始组B": {
+      "players": {
+        "666js已无敌": {
+          "player": {
+            "name": "666js已无敌",
+            "id": "MSTdyzqYZQ",
+            "uid": "327565434",
+            "rank": 10
+          },
+          "scores": [
+            991904,
+            999309
+          ],
+          "total_score": 1991213,
+          "result": "T",
+          "status": "一胜"
+        },
+        "nf_9": {
+          "player": {
+            "name": "nf_9",
+            "id": "rrrOmuH",
+            "uid": "2038753414",
+            "rank": 11
+          },
+          "scores": [
+            988968,
+            999309
+          ],
+          "total_score": 1988277,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "インマイマインド [IN]",
+        "AbsoluTe disoRdeR [AT]"
+      ]
+    },
+    "起始组C": {
+      "players": {
+        "PX_C₈H₁₀": {
+          "player": {
+            "name": "PX_C₈H₁₀",
+            "id": "PX_C8H10",
+            "uid": "574078807",
+            "rank": 4
+          },
+          "scores": [
+            994934,
+            996143
+          ],
+          "total_score": 1991077,
+          "result": "T",
+          "status": "一胜"
+        },
+        "CN_115": {
+          "player": {
+            "name": "CN_115",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 8
+          },
+          "scores": [
+            992358,
+            996178
+          ],
+          "total_score": 1988536,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "幻影鬼魅 (PLEASE) [AT]",
+        "彩 [IN]"
+      ]
+    },
+    "起始组D": {
+      "players": {
+        "Star71": {
+          "player": {
+            "name": "Star71",
+            "id": "MondayStar71",
+            "uid": "418265973",
+            "rank": 5
+          },
+          "scores": [
+            998636,
+            999584
+          ],
+          "total_score": 1998220,
+          "result": "T",
+          "status": "一胜"
+        },
+        "喜多郁代": {
+          "player": {
+            "name": "喜多郁代",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 16
+          },
+          "scores": [
+            997623,
+            998335
+          ],
+          "total_score": 1995958,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "Distorted Fate [AT]",
+        "彼方へ、名もなき海辺より [IN]"
+      ]
+    },
+    "起始组C (重赛)": {
+      "players": {
+        "CN_115": {
+          "player": {
+            "name": "CN_115",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 8
+          },
+          "scores": [
+            998777,
+            996456
+          ],
+          "total_score": 1995233,
+          "result": "T",
+          "status": "一胜"
+        },
+        "PX_C₈H₁₀": {
+          "player": {
+            "name": "PX_C₈H₁₀",
+            "id": "PX_C8H10",
+            "uid": "574078807",
+            "rank": 4
+          },
+          "scores": [
+            993799,
+            999062
+          ],
+          "total_score": 1992861,
+          "result": "F",
+          "status": "一败"
+        }
+      },
+      "charts": [
+        "幻影鬼魅 (PLEASE) [AT]",
+        "彩 [IN]"
+      ]
+    },
+    "一胜者组A": {
+      "players": {
+        "666js已无敌": {
+          "player": {
+            "name": "666js已无敌",
+            "id": "MSTdyzqYZQ",
+            "uid": "327565434",
+            "rank": 10
+          },
+          "scores": [
+            999099,
+            997545
+          ],
+          "total_score": 1996644,
+          "result": "T",
+          "status": "二胜"
+        },
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            996738,
+            998636
+          ],
+          "total_score": 1995374,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "DESTRUCTION 3,2,1 [AT]",
+        "Distorted Fate [AT]"
+      ]
+    },
+    "一胜者组B": {
+      "players": {
+        "Star71": {
+          "player": {
+            "name": "Star71",
+            "id": "MondayStar71",
+            "uid": "418265973",
+            "rank": 5
+          },
+          "scores": [
+            1000000,
+            1000000
+          ],
+          "total_score": 2000000,
+          "result": "T",
+          "status": "二胜"
+        },
+        "CN_115": {
+          "player": {
+            "name": "CN_115",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 8
+          },
+          "scores": [
+            996732,
+            993063
+          ],
+          "total_score": 1989795,
+          "result": "F",
+          "status": "一胜一负"
+        }
+      },
+      "charts": [
+        "Re：End of a Dream [AT]",
+        "Secret Illumination [IN]"
+      ]
+    },
+    "一负者组C": {
+      "players": {
+        "nf_9": {
+          "player": {
+            "name": "nf_9",
+            "id": "rrrOmuH",
+            "uid": "2038753414",
+            "rank": 11
+          },
+          "scores": [
+            999321,
+            998970
+          ],
+          "total_score": 1998291,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "TempestE324": {
+          "player": {
+            "name": "TempestE324",
+            "id": "TempestE324",
+            "uid": "1420029232",
+            "rank": 60
+          },
+          "scores": [
+            997317,
+            999850
+          ],
+          "total_score": 1997167,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "Hydra [AT]",
+        "DESTRUCTION 3,2,1 [AT]"
+      ]
+    },
+    "一负者组D": {
+      "players": {
+        "喜多郁代": {
+          "player": {
+            "name": "喜多郁代",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 16
+          },
+          "scores": [
+            998881,
+            994957
+          ],
+          "total_score": 1993838,
+          "result": "T",
+          "status": "一胜一负"
+        },
+        "PX_C₈H₁₀": {
+          "player": {
+            "name": "PX_C₈H₁₀",
+            "id": "PX_C8H10",
+            "uid": "574078807",
+            "rank": 4
+          },
+          "scores": [
+            994190,
+            998217
+          ],
+          "total_score": 1992407,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "Archidoxen [IN]",
+        "NO x [IN]"
+      ]
+    },
+    "一胜一负者组A": {
+      "players": {
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            997172,
+            999379
+          ],
+          "total_score": 1996551,
+          "result": "T",
+          "status": "二胜一负"
+        },
+        "CN_115": {
+          "player": {
+            "name": "CN_115",
+            "id": "沉默-_-微笑",
+            "uid": "406599529",
+            "rank": 8
+          },
+          "scores": [
+            999517,
+            996365
+          ],
+          "total_score": 1995882,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "bye [IN]",
+        "sølips [IN]"
+      ]
+    },
+    "一胜一负者组B": {
+      "players": {
+        "喜多郁代": {
+          "player": {
+            "name": "喜多郁代",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 16
+          },
+          "scores": [
+            999154,
+            997770
+          ],
+          "total_score": 1996924,
+          "result": "T",
+          "status": "二胜一负"
+        },
+        "nf_9": {
+          "player": {
+            "name": "nf_9",
+            "id": "rrrOmuH",
+            "uid": "2038753414",
+            "rank": 11
+          },
+          "scores": [
+            996614,
+            998222
+          ],
+          "total_score": 1994836,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "DevIAtiOn (short ver.) [HD]",
+        "Hydra [AT]"
+      ]
+    },
+    "二胜一负者组": {
+      "players": {
+        "喜多郁代": {
+          "player": {
+            "name": "喜多郁代",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 16
+          },
+          "scores": [
+            998358,
+            999454
+          ],
+          "total_score": 1997812,
+          "result": "T",
+          "status": "三胜一负"
+        },
+        "Xtrrrffusion": {
+          "player": {
+            "name": "Xtrrrffusion",
+            "id": "Strrrffe",
+            "uid": "1264077976",
+            "rank": 1
+          },
+          "scores": [
+            999218,
+            996337
+          ],
+          "total_score": 1995555,
+          "result": "F",
+          "status": "二负淘汰"
+        }
+      },
+      "charts": [
+        "iL-Artifact [IN]",
+        "Distorted Fate [AT]"
+      ]
+    },
+    "二胜者组": {
+      "players": {
+        "Star71": {
+          "player": {
+            "name": "Star71",
+            "id": "MondayStar71",
+            "uid": "418265973",
+            "rank": 5
+          },
+          "scores": [
+            999363,
+            999331,
+            1000000,
+            997657,
+            993629
+          ],
+          "total_score": 4989980,
+          "result": "T",
+          "status": "三胜"
+        },
+        "666js已无敌": {
+          "player": {
+            "name": "666js已无敌",
+            "id": "MSTdyzqYZQ",
+            "uid": "327565434",
+            "rank": 10
+          },
+          "scores": [
+            998119,
+            998440,
+            998619,
+            998480,
+            989578
+          ],
+          "total_score": 4983236,
+          "result": "F",
+          "status": "二胜一负"
+        }
+      },
+      "charts": [
+        "Incyde [IN]",
+        "Stardust:RAY [AT]",
+        "Lyrith -迷宮リリス- [IN]",
+        "+ERABY+E CONNEC+10N [AT]",
+        "Gungnir Fracture [IN]"
+      ]
+    },
+    "半决赛组": {
+      "players": {
+        "喜多郁代": {
+          "player": {
+            "name": "喜多郁代",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 16
+          },
+          "scores": [
+            999154,
+            997345,
+            999592,
+            999727,
+            997184
+          ],
+          "total_score": 4993002,
+          "result": "T",
+          "status": "三胜一负"
+        },
+        "666js已无敌": {
+          "player": {
+            "name": "666js已无敌",
+            "id": "MSTdyzqYZQ",
+            "uid": "327565434",
+            "rank": 10
+          },
+          "scores": [
+            996191,
+            998425,
+            995333,
+            998090,
+            999747
+          ],
+          "total_score": 4987786,
+          "result": "F",
+          "status": "季军"
+        }
+      },
+      "charts": [
+        "DevIAtiOn (short ver.) [HD]",
+        "祈 -我ら神祖と共に歩む者なり- [AT]",
+        "黄金之城 (GOLD TOWN) [IN]",
+        "Distorted Fate [AT]",
+        "夢の降る日に [IN]"
+      ]
+    },
+    "决赛组": {
+      "players": {
+        "Star71": {
+          "player": {
+            "name": "Star71",
+            "id": "MondayStar71",
+            "uid": "418265973",
+            "rank": 5
+          },
+          "scores": [
+            1000000,
+            1000000,
+            997135,
+            999437,
+            990707
+          ],
+          "total_score": 4987279,
+          "result": "T",
+          "status": "冠军"
+        },
+        "喜多郁代": {
+          "player": {
+            "name": "喜多郁代",
+            "id": "没有底力的菜",
+            "uid": "450918551",
+            "rank": 16
+          },
+          "scores": [
+            998720,
+            999031,
+            1000000,
+            999437,
+            980868
+          ],
+          "total_score": 4978056,
+          "result": "F",
+          "status": "亚军"
+        }
+      },
+      "charts": [
+        "Inverted World [IN]",
+        "Fractured Angel [IN]",
+        "Re：birth [HD]",
+        "ぱぴぷぴぷぴぱ [IN]",
+        "Der Schneid [AT]"
+      ]
+    }
   }
 }

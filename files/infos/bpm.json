@@ -28,6 +28,7 @@
             ],
             "x2": [
                 "AfterZABANIYAMUGEdit.Daily天利.0",
+                "DerSchneid.Ωμεγα.0",
                 "GOODRAGE.EBIMAYO.0"
             ]
         }
@@ -54,6 +55,7 @@
                 "華灯爱.闫东炜.0"
             ],
             "x2": [
+                "GungnirFracture.Kryexe.0",
                 "KIZUNAResolution.TAG.0",
                 "零號車輛.seatrus.0"
             ]
@@ -130,6 +132,9 @@
                 "ニライカナイNiraicA_naiMix.roopfromSTR.0",
                 "玩具狂奏曲終焉.きくお.0",
                 "神話.PicaM2U.0"
+            ],
+            "x2": [
+                "夢の降る日に.seatrus.0"
             ]
         }
     ],
@@ -883,6 +888,7 @@
             ],
             "x1": [
                 "AfterZABANIYAMUGEdit.Daily天利.0",
+                "DerSchneid.Ωμεγα.0",
                 "GOODRAGE.EBIMAYO.0"
             ]
         }
@@ -954,6 +960,7 @@
                 "華灯爱.闫东炜.0"
             ],
             "x1": [
+                "GungnirFracture.Kryexe.0",
                 "KIZUNAResolution.TAG.0",
                 "零號車輛.seatrus.0"
             ]
@@ -1002,6 +1009,20 @@
         {
             "x1": [
                 "QZKagoRequiem.tpazolite.0"
+            ]
+        }
+    ],
+    [
+        260.0,
+        {
+            "x0.5": [
+                "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0",
+                "ニライカナイNiraicA_naiMix.roopfromSTR.0",
+                "玩具狂奏曲終焉.きくお.0",
+                "神話.PicaM2U.0"
+            ],
+            "x1": [
+                "夢の降る日に.seatrus.0"
             ]
         }
     ],

@@ -1,5 +1,13 @@
 {
     "Akko": {
+        "GungnirFracture.Kryexe.0": {
+            "name": "Gungnir Fracture",
+            "HD": {
+                "lvl": "11.5",
+                "charter": "Akko",
+                "tcharter": "Akko"
+            }
+        },
         "SnowDance.悠叶いのり.0": {
             "name": "Snow Dance",
             "EZ": {
@@ -7,9 +15,30 @@
                 "charter": "Akko",
                 "tcharter": "Akko"
             }
+        },
+        "夢の降る日に.seatrus.0": {
+            "name": "夢の降る日に",
+            "EZ": {
+                "lvl": "2.5",
+                "charter": "Akko",
+                "tcharter": "Akko"
+            },
+            "HD": {
+                "lvl": "9.8",
+                "charter": "Akko",
+                "tcharter": "Akko"
+            }
         }
     },
     "Algax": {
+        "DerSchneid.Ωμεγα.0": {
+            "name": "Der Schneid",
+            "AT": {
+                "lvl": "17.5",
+                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
+            }
+        },
         "玩具狂奏曲終焉.きくお.0": {
             "name": "玩具狂奏曲 -終焉-",
             "IN": {
@@ -1884,6 +1913,14 @@
                 "lvl": "13.7",
                 "charter": "Likey feat. 198",
                 "tcharter": "Likey & 百九十八"
+            }
+        },
+        "DerSchneid.Ωμεγα.0": {
+            "name": "Der Schneid",
+            "AT": {
+                "lvl": "17.5",
+                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
         "Elúltimobaile.Θ.0": {
@@ -3775,6 +3812,14 @@
                 "tcharter": "Salt"
             }
         },
+        "GungnirFracture.Kryexe.0": {
+            "name": "Gungnir Fracture",
+            "EZ": {
+                "lvl": "6.0",
+                "charter": "Salt",
+                "tcharter": "Salt"
+            }
+        },
         "Incyde.YbeLL.0": {
             "name": "Incyde",
             "EZ": {
@@ -4030,6 +4075,14 @@
                 "tcharter": "StR-1 & 騎士Knight & Simon_Axis & Rikko"
             }
         },
+        "DerSchneid.Ωμεγα.0": {
+            "name": "Der Schneid",
+            "AT": {
+                "lvl": "17.5",
+                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
+            }
+        },
         "Grimheart.Puru.0": {
             "name": "Grimheart",
             "EZ": {
@@ -4210,6 +4263,14 @@
                 "lvl": "16.9",
                 "charter": "Concat(Ramification,Richter)",
                 "tcharter": "StR-1 & 騎士Knight & Simon_Axis & Rikko"
+            }
+        },
+        "DerSchneid.Ωμεγα.0": {
+            "name": "Der Schneid",
+            "AT": {
+                "lvl": "17.5",
+                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
         "FrozenHeart.A39沙包P.0": {
@@ -4857,6 +4918,14 @@
                 "lvl": "10.9",
                 "charter": "Su1fuR",
                 "tcharter": "Su1fuR"
+            }
+        },
+        "DerSchneid.Ωμεγα.0": {
+            "name": "Der Schneid",
+            "AT": {
+                "lvl": "17.5",
+                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
         "DiamondEyes.SYNTHETIC.0": {
@@ -8089,6 +8158,14 @@
                 "tcharter": "野从 & NerSAN"
             }
         },
+        "GungnirFracture.Kryexe.0": {
+            "name": "Gungnir Fracture",
+            "IN": {
+                "lvl": "16.6",
+                "charter": "野从",
+                "tcharter": "野从"
+            }
+        },
         "HardcoreKwaya.EnFr.0": {
             "name": "Hardcore Kwaya",
             "HD": {
@@ -9469,6 +9546,14 @@
                 "lvl": "16.9",
                 "charter": "Concat(Ramification,Richter)",
                 "tcharter": "StR-1 & 騎士Knight & Simon_Axis & Rikko"
+            }
+        },
+        "DerSchneid.Ωμεγα.0": {
+            "name": "Der Schneid",
+            "AT": {
+                "lvl": "17.5",
+                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
         "FULiAUTOSHOOTER.MYUKKE.0": {
