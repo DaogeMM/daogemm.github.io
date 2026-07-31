@@ -20,13 +20,21 @@
             "name": "夢の降る日に",
             "EZ": {
                 "lvl": "2.5",
-                "charter": "Akko",
+                "charter": "初の赤る澪に",
                 "tcharter": "Akko"
             },
             "HD": {
                 "lvl": "9.8",
-                "charter": "Akko",
+                "charter": "初の赤る澪に",
                 "tcharter": "Akko"
+            }
+        },
+        "星拂云锦featkoi.S9ryne.0": {
+            "name": "星拂云锦 feat. koi",
+            "IN": {
+                "lvl": "15.5",
+                "charter": "灵琶弄月",
+                "tcharter": "Akko & 爬爬"
             }
         }
     },
@@ -35,7 +43,7 @@
             "name": "Der Schneid",
             "AT": {
                 "lvl": "17.5",
-                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "charter": "Gegenmacht der Lords",
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
@@ -502,6 +510,14 @@
                 "lvl": "7.5",
                 "charter": "Catcats & 百九十八 fixed by Clutter",
                 "tcharter": "無極 & 百九十八 & Clutter"
+            }
+        },
+        "夢の降る日に.seatrus.0": {
+            "name": "夢の降る日に",
+            "IN": {
+                "lvl": "16.6",
+                "charter": "浪の降る日に",
+                "tcharter": "Clutter"
             }
         },
         "心之所向.姜米條.0": {
@@ -1919,7 +1935,7 @@
             "name": "Der Schneid",
             "AT": {
                 "lvl": "17.5",
-                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "charter": "Gegenmacht der Lords",
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
@@ -2393,6 +2409,14 @@
                 "charter": "M3d1uM",
                 "tcharter": "M3d1uM"
             }
+        },
+        "星拂云锦featkoi.S9ryne.0": {
+            "name": "星拂云锦 feat. koi",
+            "EZ": {
+                "lvl": "4.0",
+                "charter": "华星秋月",
+                "tcharter": "M3d1uM"
+            }
         }
     },
     "Magazet": {
@@ -2433,6 +2457,24 @@
                 "lvl": "15.6",
                 "charter": "After CHARTERS",
                 "tcharter": "Magazet"
+            }
+        },
+        "DerSchneid.Ωμεγα.0": {
+            "name": "Der Schneid",
+            "EZ": {
+                "lvl": "7.0",
+                "charter": "Der Mut und der Richter",
+                "tcharter": "Magazet & Rikko"
+            },
+            "HD": {
+                "lvl": "11.9",
+                "charter": "Der Mut und der Richter",
+                "tcharter": "Magazet & Rikko"
+            },
+            "IN": {
+                "lvl": "16.1",
+                "charter": "Der Mut und der Richter",
+                "tcharter": "Magazet & Rikko"
             }
         },
         "Incyde.YbeLL.0": {
@@ -3322,6 +3364,24 @@
                 "tcharter": "StR-1 & 騎士Knight & Simon_Axis & Rikko"
             }
         },
+        "DerSchneid.Ωμεγα.0": {
+            "name": "Der Schneid",
+            "EZ": {
+                "lvl": "7.0",
+                "charter": "Der Mut und der Richter",
+                "tcharter": "Magazet & Rikko"
+            },
+            "HD": {
+                "lvl": "11.9",
+                "charter": "Der Mut und der Richter",
+                "tcharter": "Magazet & Rikko"
+            },
+            "IN": {
+                "lvl": "16.1",
+                "charter": "Der Mut und der Richter",
+                "tcharter": "Magazet & Rikko"
+            }
+        },
         "DistortedFate.Sakuzyo.0": {
             "name": "Distorted Fate",
             "AT": {
@@ -4079,7 +4139,7 @@
             "name": "Der Schneid",
             "AT": {
                 "lvl": "17.5",
-                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "charter": "Gegenmacht der Lords",
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
@@ -4269,7 +4329,7 @@
             "name": "Der Schneid",
             "AT": {
                 "lvl": "17.5",
-                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "charter": "Gegenmacht der Lords",
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
@@ -4924,7 +4984,7 @@
             "name": "Der Schneid",
             "AT": {
                 "lvl": "17.5",
-                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "charter": "Gegenmacht der Lords",
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
@@ -5820,6 +5880,16 @@
                 "lvl": "13.4",
                 "charter": "VikingNexus",
                 "tcharter": "VikingNexus"
+            }
+        }
+    },
+    "WinterProtecter": {
+        "星拂云锦featkoi.S9ryne.0": {
+            "name": "星拂云锦 feat. koi",
+            "HD": {
+                "lvl": "9.0",
+                "charter": "帷畔托星",
+                "tcharter": "WinterProtecter"
             }
         }
     },
@@ -7131,6 +7201,14 @@
                 "charter": "爬爬",
                 "tcharter": "爬爬"
             }
+        },
+        "星拂云锦featkoi.S9ryne.0": {
+            "name": "星拂云锦 feat. koi",
+            "IN": {
+                "lvl": "15.5",
+                "charter": "灵琶弄月",
+                "tcharter": "Akko & 爬爬"
+            }
         }
     },
     "百九十八": {
@@ -8162,7 +8240,7 @@
             "name": "Gungnir Fracture",
             "IN": {
                 "lvl": "16.6",
-                "charter": "野从",
+                "charter": "「Barbarianerman AKA. Alloces」Revive",
                 "tcharter": "野从"
             }
         },
@@ -9552,7 +9630,7 @@
             "name": "Der Schneid",
             "AT": {
                 "lvl": "17.5",
-                "charter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey",
+                "charter": "Gegenmacht der Lords",
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
