@@ -1,11 +1,53 @@
 {
     "Akko": {
+        "Ametrine.GRYSCLMIssionary.0": {
+            "name": "Ametrine",
+            "IN": {
+                "lvl": "15.0",
+                "charter": "Indigolite",
+                "tcharter": "Akko & 爬爬 & Algax"
+            },
+            "AT": {
+                "lvl": "16.2",
+                "charter": "Ametrine",
+                "tcharter": "Rikko & WinterPT & Su1fuR & Akko & XMT小咩兔"
+            }
+        },
+        "Cryogenic.CamelliaftPetraGurin.0": {
+            "name": "Cryogenic",
+            "EZ": {
+                "lvl": "5.0",
+                "charter": "「EZ」 Falsus",
+                "tcharter": "Akko"
+            },
+            "HD": {
+                "lvl": "11.8",
+                "charter": "「HD」 Falsus",
+                "tcharter": "Akko & 爬爬"
+            }
+        },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "AT": {
+                "lvl": "18.0",
+                "charter": "Ceaseless Signal \"不息的信号\"",
+                "tcharter": "StR-1 & XMT小咩兔 & Likey & 啊哒咔哟 & WinterPT & Akko"
+            }
+        },
         "GungnirFracture.Kryexe.0": {
             "name": "Gungnir Fracture",
             "HD": {
                 "lvl": "11.5",
                 "charter": "Akko",
                 "tcharter": "Akko"
+            }
+        },
+        "Petrichor.voidMournfinale.0": {
+            "name": "Petrichor",
+            "IN": {
+                "lvl": "16.5",
+                "charter": "Silence | Us",
+                "tcharter": "Akko & Algax & Magazet & 爬爬 & Clutter"
             }
         },
         "SnowDance.悠叶いのり.0": {
@@ -39,6 +81,14 @@
         }
     },
     "Algax": {
+        "Ametrine.GRYSCLMIssionary.0": {
+            "name": "Ametrine",
+            "IN": {
+                "lvl": "15.0",
+                "charter": "Indigolite",
+                "tcharter": "Akko & 爬爬 & Algax"
+            }
+        },
         "DerSchneid.Ωμεγα.0": {
             "name": "Der Schneid",
             "AT": {
@@ -47,10 +97,31 @@
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
+        "DevastatingHistory.NAMV.0": {
+            "name": "Devastating History",
+            "EZ": {
+                "lvl": "6.0",
+                "charter": "Algax",
+                "tcharter": "Algax"
+            },
+            "HD": {
+                "lvl": "11.8",
+                "charter": "Algax",
+                "tcharter": "Algax"
+            }
+        },
+        "Petrichor.voidMournfinale.0": {
+            "name": "Petrichor",
+            "IN": {
+                "lvl": "16.5",
+                "charter": "Silence | Us",
+                "tcharter": "Akko & Algax & Magazet & 爬爬 & Clutter"
+            }
+        },
         "玩具狂奏曲終焉.きくお.0": {
             "name": "玩具狂奏曲 -終焉-",
             "IN": {
-                "lvl": "15.8",
+                "lvl": "16.0",
                 "charter": "Self -the pAtchwork-",
                 "tcharter": "Simon_Axis & Algax"
             }
@@ -260,6 +331,24 @@
                 "tcharter": "Clutter"
             }
         },
+        "AboutTheUniverse.SOTUIMIssionary.0": {
+            "name": "About The Universe",
+            "EZ": {
+                "lvl": "4.5",
+                "charter": "普朗克波长",
+                "tcharter": "Clutter"
+            },
+            "HD": {
+                "lvl": "9.7",
+                "charter": "普朗克波长",
+                "tcharter": "Clutter"
+            },
+            "IN": {
+                "lvl": "14.4",
+                "charter": "波硫二象性",
+                "tcharter": "Clutter & Su1fuR"
+            }
+        },
         "Aleph0.LeaF.0": {
             "name": "Aleph-0",
             "EZ": {
@@ -286,7 +375,7 @@
                 "tcharter": "Clutter"
             },
             "HD": {
-                "lvl": "9.5",
+                "lvl": "9.3",
                 "charter": "Clutter",
                 "tcharter": "Clutter"
             }
@@ -412,6 +501,14 @@
                 "tcharter": "Clutter"
             }
         },
+        "Message.くるぶっこちゃん.0": {
+            "name": "Message",
+            "IN": {
+                "lvl": "15.6",
+                "charter": "Geo■elia's lov",
+                "tcharter": "XMT小咩兔 & Clutter"
+            }
+        },
         "NonMelodicRagezMUGEdit.Normal1zer.0": {
             "name": "Non-Melodic Ragez (MUG Edit)",
             "EZ": {
@@ -423,6 +520,14 @@
                 "lvl": "11.6",
                 "charter": "Clutter",
                 "tcharter": "Clutter"
+            }
+        },
+        "Petrichor.voidMournfinale.0": {
+            "name": "Petrichor",
+            "IN": {
+                "lvl": "16.5",
+                "charter": "Silence | Us",
+                "tcharter": "Akko & Algax & Magazet & 爬爬 & Clutter"
             }
         },
         "Random.SobremSilentroom.4": {
@@ -467,6 +572,14 @@
             "IN": {
                 "lvl": "14.2",
                 "charter": "Xlutter guided by three Oaths",
+                "tcharter": "Clutter"
+            }
+        },
+        "NWAD.Knighthood.0": {
+            "name": "[NWAD]",
+            "EZ": {
+                "lvl": "5.5",
+                "charter": "[RETTULC]",
                 "tcharter": "Clutter"
             }
         },
@@ -971,7 +1084,7 @@
         "アンビバレンス.すりぃ相沢.0": {
             "name": "アンビバレンス",
             "IN": {
-                "lvl": "14.1",
+                "lvl": "14.2",
                 "charter": "弧光 With Opposition",
                 "tcharter": "Ctymax & Rikko & 阿爽"
             }
@@ -1114,7 +1227,7 @@
         "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0": {
             "name": "Compute It With Some Devilish Alcoholic Steampunk Engines",
             "IN": {
-                "lvl": "15.8",
+                "lvl": "15.7",
                 "charter": "Gausbon vs. XMT小咩兔",
                 "tcharter": "Gausbon & XMT小咩兔"
             }
@@ -1293,6 +1406,14 @@
                 "tcharter": "Gausbon & 阿爽"
             }
         },
+        "ハテ.rNFrums.0": {
+            "name": "ハテ",
+            "IN": {
+                "lvl": "16.7",
+                "charter": "the end of this.",
+                "tcharter": "Magazet & Simon_Axis & Su1fuR & Gausbon"
+            }
+        },
         "聖夜讃歌.A39沙包P.0": {
             "name": "聖夜讃歌",
             "IN": {
@@ -1348,7 +1469,7 @@
         "SilenceisGoldenSpeechisGolden.NIWASHI.0": {
             "name": "Silence is Golden, Speech is Golden",
             "IN": {
-                "lvl": "15.6",
+                "lvl": "15.7",
                 "charter": "Hara is golden, Kuma is golden",
                 "tcharter": "HaraKuma"
             }
@@ -1402,10 +1523,23 @@
         }
     },
     "Helabot": {
+        "Implexrough.Silentroommommy.0": {
+            "name": "Implexrough",
+            "EZ": {
+                "lvl": "5.5",
+                "charter": "Fractwist  - Helabot",
+                "tcharter": "Helabot"
+            },
+            "HD": {
+                "lvl": "10.2",
+                "charter": "Fractwist  - Helabot",
+                "tcharter": "Helabot"
+            }
+        },
         "Komplexe.雄之助featSennzai.0": {
             "name": "Komplexe",
             "EZ": {
-                "lvl": "3.5",
+                "lvl": "4.0",
                 "charter": "Helabot",
                 "tcharter": "Helabot"
             }
@@ -1462,7 +1596,7 @@
         "NOx.Juggernaut.0": {
             "name": "NO x",
             "HD": {
-                "lvl": "10.3",
+                "lvl": "10.1",
                 "charter": "IUIsauce",
                 "tcharter": "IUIsauce"
             }
@@ -1663,6 +1797,14 @@
                 "tcharter": "JKy"
             }
         },
+        "Implexrough.Silentroommommy.0": {
+            "name": "Implexrough",
+            "IN": {
+                "lvl": "15.3",
+                "charter": "Turbulax - Simon_Axis & Stray_Cat",
+                "tcharter": "Simon_Axis & JKy"
+            }
+        },
         "Originally.SNKSMizku.0": {
             "name": "Originally",
             "IN": {
@@ -1828,7 +1970,7 @@
                 "tcharter": "Jeitie"
             },
             "HD": {
-                "lvl": "9.0",
+                "lvl": "9.1",
                 "charter": "jeitie touches grass",
                 "tcharter": "Jeitie"
             },
@@ -1931,6 +2073,14 @@
                 "tcharter": "Likey & 百九十八"
             }
         },
+        "Cryogenic.CamelliaftPetraGurin.0": {
+            "name": "Cryogenic",
+            "IN": {
+                "lvl": "15.1",
+                "charter": "「IN」 Falsus",
+                "tcharter": "Likey & Magazet & WinterPT"
+            }
+        },
         "DerSchneid.Ωμεγα.0": {
             "name": "Der Schneid",
             "AT": {
@@ -1939,12 +2089,43 @@
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "AT": {
+                "lvl": "18.0",
+                "charter": "Ceaseless Signal \"不息的信号\"",
+                "tcharter": "StR-1 & XMT小咩兔 & Likey & 啊哒咔哟 & WinterPT & Akko"
+            }
+        },
         "Elúltimobaile.Θ.0": {
             "name": "El último baile",
             "IN": {
                 "lvl": "14.1",
                 "charter": "百九十八 feat. Likey",
                 "tcharter": "百九十八 & Likey"
+            }
+        },
+        "EntrancetotheChaos.打打だいずvssiromaru.0": {
+            "name": "Entrance to the Chaos",
+            "EZ": {
+                "lvl": "8.8",
+                "charter": "Approaching the Gates",
+                "tcharter": "Likey"
+            },
+            "HD": {
+                "lvl": "13.7",
+                "charter": "Crossing the Threshold",
+                "tcharter": "Likey"
+            },
+            "IN": {
+                "lvl": "16.8",
+                "charter": "Descending the Abyss",
+                "tcharter": "Likey"
+            },
+            "AT": {
+                "lvl": "17.6",
+                "charter": "Embracing the Madness",
+                "tcharter": "Likey & 百九十八"
             }
         },
         "FracturedAngel.DJRaisei.0": {
@@ -2019,7 +2200,7 @@
         "Letempsperdu.Daison.0": {
             "name": "Le temps perdu",
             "IN": {
-                "lvl": "12.5",
+                "lvl": "12.3",
                 "charter": "Likey -For an old friend-",
                 "tcharter": "Likey"
             }
@@ -2037,6 +2218,19 @@
                 "tcharter": "Likey"
             }
         },
+        "Message.くるぶっこちゃん.0": {
+            "name": "Message",
+            "HD": {
+                "lvl": "13.2",
+                "charter": "■■o■elia's l",
+                "tcharter": "Likey"
+            },
+            "SP": {
+                "lvl": "?",
+                "charter": "Likey & Junesnow",
+                "tcharter": "Likey & 满天星"
+            }
+        },
         "PRAGMATISMRESURRECTION.Laur.0": {
             "name": "PRAGMATISM -RESURRECTION-",
             "EZ": {
@@ -2047,6 +2241,14 @@
             "HD": {
                 "lvl": "12.9",
                 "charter": "完璧 × 北星",
+                "tcharter": "Likey"
+            }
+        },
+        "Petrichor.voidMournfinale.0": {
+            "name": "Petrichor",
+            "HD": {
+                "lvl": "13.8",
+                "charter": "Rain | Rewrites",
                 "tcharter": "Likey"
             }
         },
@@ -2143,6 +2345,19 @@
                 "lvl": "13.6",
                 "charter": "Likey & 198ar",
                 "tcharter": "Likey & 百九十八 & 野从"
+            }
+        },
+        "TrueHomeTrueWorldRework.816ThreeNumbers.0": {
+            "name": "True Home, True World (Rework)",
+            "IN": {
+                "lvl": "15.8",
+                "charter": "go back to the -",
+                "tcharter": "Likey & 野从"
+            },
+            "SP": {
+                "lvl": "?",
+                "charter": "Likey",
+                "tcharter": "Likey"
             }
         },
         "PRAW.Bluewind.0": {
@@ -2449,14 +2664,22 @@
                 "tcharter": "Magazet"
             },
             "HD": {
-                "lvl": "10.2",
+                "lvl": "10.6",
                 "charter": "After CHARTER",
                 "tcharter": "Magazet"
             },
             "IN": {
-                "lvl": "15.6",
+                "lvl": "15.8",
                 "charter": "After CHARTERS",
                 "tcharter": "Magazet"
+            }
+        },
+        "Cryogenic.CamelliaftPetraGurin.0": {
+            "name": "Cryogenic",
+            "IN": {
+                "lvl": "15.1",
+                "charter": "「IN」 Falsus",
+                "tcharter": "Likey & Magazet & WinterPT"
             }
         },
         "DerSchneid.Ωμεγα.0": {
@@ -2467,7 +2690,7 @@
                 "tcharter": "Magazet & Rikko"
             },
             "HD": {
-                "lvl": "11.9",
+                "lvl": "12.0",
                 "charter": "Der Mut und der Richter",
                 "tcharter": "Magazet & Rikko"
             },
@@ -2475,6 +2698,22 @@
                 "lvl": "16.1",
                 "charter": "Der Mut und der Richter",
                 "tcharter": "Magazet & Rikko"
+            }
+        },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "EZ": {
+                "lvl": "10.0",
+                "charter": "Hesitating Trepidation \"踌躇的惶恐\"",
+                "tcharter": "Magazet"
+            }
+        },
+        "ExoplanetaryMirage.かめりあ.0": {
+            "name": "Exoplanetary Mirage",
+            "HD": {
+                "lvl": "13.4",
+                "charter": "Orbital Velocity: 11.200 km/s",
+                "tcharter": "Magazet"
             }
         },
         "Incyde.YbeLL.0": {
@@ -2511,6 +2750,27 @@
                 "tcharter": "Magazet & StR-1 & Su1fuR"
             }
         },
+        "Petrichor.voidMournfinale.0": {
+            "name": "Petrichor",
+            "EZ": {
+                "lvl": "7.5",
+                "charter": "Seed | Promise",
+                "tcharter": "Magazet"
+            },
+            "IN": {
+                "lvl": "16.5",
+                "charter": "Silence | Us",
+                "tcharter": "Akko & Algax & Magazet & 爬爬 & Clutter"
+            }
+        },
+        "TrueHomeTrueWorldRework.816ThreeNumbers.0": {
+            "name": "True Home, True World (Rework)",
+            "HD": {
+                "lvl": "11.9",
+                "charter": "turn back to the antemundane realm,",
+                "tcharter": "Magazet"
+            }
+        },
         "Verruckt.Raimukun.0": {
             "name": "Verrückt",
             "EZ": {
@@ -2519,9 +2779,35 @@
                 "tcharter": "Magazet"
             },
             "HD": {
-                "lvl": "12.6",
+                "lvl": "12.7",
                 "charter": "Magazet",
                 "tcharter": "Magazet"
+            }
+        },
+        "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい.0": {
+            "name": "What do you want more than a Happy ending?",
+            "EZ": {
+                "lvl": "0.5",
+                "charter": "欢迎回到 Phigros！",
+                "tcharter": "Magazet"
+            },
+            "AT": {
+                "lvl": "17.1",
+                "charter": "欢迎回到 Phigros！",
+                "tcharter": "Magazet & XMT小咩兔 & Salt & 野从"
+            }
+        },
+        "ハテ.rNFrums.0": {
+            "name": "ハテ",
+            "EZ": {
+                "lvl": "9.0",
+                "charter": "the end of hope.",
+                "tcharter": "Magazet"
+            },
+            "IN": {
+                "lvl": "16.7",
+                "charter": "the end of this.",
+                "tcharter": "Magazet & Simon_Axis & Su1fuR & Gausbon"
             }
         },
         "下一秒.BobHouSherlock卓智媛feat兰音Reine.0": {
@@ -2667,7 +2953,7 @@
                 "tcharter": "NerSAN"
             },
             "IN": {
-                "lvl": "13.8",
+                "lvl": "14.1",
                 "charter": "NerSAN vs. 阿爽",
                 "tcharter": "NerSAN & 阿爽"
             }
@@ -2720,7 +3006,7 @@
         "DevIAtiOnshortver.polysha.0": {
             "name": "DevIAtiOn (short ver.)",
             "IN": {
-                "lvl": "15.7",
+                "lvl": "15.8",
                 "charter": "Nr3_Official",
                 "tcharter": "NerSAN"
             }
@@ -2747,6 +3033,22 @@
                 "lvl": "14.8",
                 "charter": "BarbariaNERman vs. JKy",
                 "tcharter": "野从 & NerSAN & JKy"
+            }
+        },
+        "Evanescent.LeaF.0": {
+            "name": "Evanescent",
+            "IN": {
+                "lvl": "15.7",
+                "charter": "Salt feat. Ner -an evanescent reality-",
+                "tcharter": "Salt & NerSAN"
+            }
+        },
+        "ExoplanetaryMirage.かめりあ.0": {
+            "name": "Exoplanetary Mirage",
+            "AT": {
+                "lvl": "17.9",
+                "charter": "Orbital Velocity:  ■■■ km/s",
+                "tcharter": "XMT小咩兔 & NerSAN"
             }
         },
         "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0": {
@@ -2823,7 +3125,7 @@
         "Khalid.Dolphin.0": {
             "name": "Khalid",
             "IN": {
-                "lvl": "13.1",
+                "lvl": "13.0",
                 "charter": "Ner＜Jazz for your soul .)",
                 "tcharter": "NerSAN"
             }
@@ -3005,7 +3307,7 @@
         "dBdoll.YUESTEVENuen.0": {
             "name": "dB doll",
             "AT": {
-                "lvl": "13.6",
+                "lvl": "13.4",
                 "charter": "NerSAN & 百九十八",
                 "tcharter": "NerSAN & 百九十八"
             }
@@ -3044,7 +3346,7 @@
         "インマイマインド.レシオP.0": {
             "name": "インマイマインド",
             "IN": {
-                "lvl": "12.2",
+                "lvl": "12.5",
                 "charter": "ネルサン (I make charts slowly)",
                 "tcharter": "NerSAN"
             }
@@ -3055,6 +3357,14 @@
                 "lvl": "14.5",
                 "charter": "NerSANTA vs. BarbarianerSLEDGE",
                 "tcharter": "NerSAN & 野从"
+            }
+        },
+        "ハテ.rNFrums.0": {
+            "name": "ハテ",
+            "AT": {
+                "lvl": "17.9",
+                "charter": "the end of ever.",
+                "tcharter": "NerSAN"
             }
         },
         "今年も雪降りメリクリ目指して頑張ります.AiSSvs华牧狸w夜輪ft結月ゆかり.0": {
@@ -3086,7 +3396,7 @@
         "心の記憶.A39沙包P.0": {
             "name": "心の記憶",
             "IN": {
-                "lvl": "13.3",
+                "lvl": "13.4",
                 "charter": "N-23",
                 "tcharter": "NerSAN"
             }
@@ -3102,7 +3412,7 @@
         "游园地.椒盐菠萝.0": {
             "name": "游园地",
             "IN": {
-                "lvl": "13.2",
+                "lvl": "13.0",
                 "charter": "椒盐倪尔",
                 "tcharter": "NerSAN"
             }
@@ -3275,6 +3585,14 @@
                 "tcharter": "Rikko"
             }
         },
+        "Ametrine.GRYSCLMIssionary.0": {
+            "name": "Ametrine",
+            "AT": {
+                "lvl": "16.2",
+                "charter": "Ametrine",
+                "tcharter": "Rikko & WinterPT & Su1fuR & Akko & XMT小咩兔"
+            }
+        },
         "Antithese.Blacklolita.0": {
             "name": "Antithese",
             "AT": {
@@ -3372,7 +3690,7 @@
                 "tcharter": "Magazet & Rikko"
             },
             "HD": {
-                "lvl": "11.9",
+                "lvl": "12.0",
                 "charter": "Der Mut und der Richter",
                 "tcharter": "Magazet & Rikko"
             },
@@ -3443,6 +3761,14 @@
                 "lvl": "13.4",
                 "charter": "HD R.esolution",
                 "tcharter": "Rikko"
+            }
+        },
+        "LeaveAllBehind.rider.0": {
+            "name": "Leave All Behind",
+            "AT": {
+                "lvl": "15.0",
+                "charter": "WinterPT & Rikko",
+                "tcharter": "WinterPT & Rikko"
             }
         },
         "OnAndOn.ETIAfeatJenga.0": {
@@ -3569,7 +3895,7 @@
         "TheWholeRest.KIVΛ.0": {
             "name": "The Whole Rest",
             "HD": {
-                "lvl": "9.6",
+                "lvl": "9.9",
                 "charter": "¯EASY",
                 "tcharter": "Rikko"
             }
@@ -3593,6 +3919,14 @@
                 "lvl": "14.8",
                 "charter": "Su1fuRikko",
                 "tcharter": "Su1fuR & Rikko"
+            }
+        },
+        "NWAD.Knighthood.0": {
+            "name": "[NWAD]",
+            "HD": {
+                "lvl": "9.2",
+                "charter": "[DETCETED]",
+                "tcharter": "Rikko"
             }
         },
         "volcanic.DETROakaルゼ.0": {
@@ -3619,7 +3953,7 @@
         "アンビバレンス.すりぃ相沢.0": {
             "name": "アンビバレンス",
             "IN": {
-                "lvl": "14.1",
+                "lvl": "14.2",
                 "charter": "弧光 With Opposition",
                 "tcharter": "Ctymax & Rikko & 阿爽"
             }
@@ -3770,6 +4104,14 @@
                 "tcharter": "M3d1uM & Salt"
             }
         },
+        "Archidoxen.Se_IRA.0": {
+            "name": "Archidoxen",
+            "AT": {
+                "lvl": "16.9",
+                "charter": "artifact::<0x04, 0x53, 0x12>",
+                "tcharter": "Salt"
+            }
+        },
         "ArtificialExistence.JunKuroda.0": {
             "name": "Artificial Existence",
             "EZ": {
@@ -3778,7 +4120,7 @@
                 "tcharter": "Salt"
             },
             "HD": {
-                "lvl": "9.3",
+                "lvl": "9.4",
                 "charter": "Salt",
                 "tcharter": "Salt"
             },
@@ -3791,7 +4133,7 @@
         "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0": {
             "name": "Avataar ~Reincarnation of Kalpa~",
             "IN": {
-                "lvl": "13.4",
+                "lvl": "13.2",
                 "charter": "Salt",
                 "tcharter": "Salt"
             },
@@ -3825,7 +4167,7 @@
         "Cleyera.Riya.0": {
             "name": "Cleyera",
             "IN": {
-                "lvl": "15.6",
+                "lvl": "15.4",
                 "charter": "Salt",
                 "tcharter": "Salt"
             }
@@ -3835,6 +4177,14 @@
             "IN": {
                 "lvl": "14.4",
                 "charter": "Salt",
+                "tcharter": "Salt"
+            }
+        },
+        "DevastatingHistory.NAMV.0": {
+            "name": "Devastating History",
+            "IN": {
+                "lvl": "15.5",
+                "charter": "T∆TIØN",
                 "tcharter": "Salt"
             }
         },
@@ -3857,6 +4207,24 @@
                 "lvl": "10.8",
                 "charter": "Salt",
                 "tcharter": "Salt"
+            }
+        },
+        "Evanescent.LeaF.0": {
+            "name": "Evanescent",
+            "EZ": {
+                "lvl": "6.5",
+                "charter": "Salt -a remaining dream-",
+                "tcharter": "Salt"
+            },
+            "HD": {
+                "lvl": "12.6",
+                "charter": "Salt -a fading boundary-",
+                "tcharter": "Salt"
+            },
+            "IN": {
+                "lvl": "15.7",
+                "charter": "Salt feat. Ner -an evanescent reality-",
+                "tcharter": "Salt & NerSAN"
             }
         },
         "FixationsTowardtheStars.Foodbot.0": {
@@ -3907,6 +4275,14 @@
                 "lvl": "9.0",
                 "charter": "Salt",
                 "tcharter": "Salt"
+            }
+        },
+        "Petrichor.voidMournfinale.0": {
+            "name": "Petrichor",
+            "AT": {
+                "lvl": "17.5",
+                "charter": "Return | Petrichor",
+                "tcharter": "Salt & StR-1"
             }
         },
         "QZKagoRequiem.tpazolite.0": {
@@ -3985,6 +4361,19 @@
                 "tcharter": "Salt"
             }
         },
+        "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい.0": {
+            "name": "What do you want more than a Happy ending?",
+            "IN": {
+                "lvl": "16.1",
+                "charter": "欢迎回到 Phigros！",
+                "tcharter": "Salt"
+            },
+            "AT": {
+                "lvl": "17.1",
+                "charter": "欢迎回到 Phigros！",
+                "tcharter": "Magazet & XMT小咩兔 & Salt & 野从"
+            }
+        },
         "Wintercube.CtymaxfeatNceS.0": {
             "name": "Winter ↑cube↓",
             "HD": {
@@ -3996,7 +4385,7 @@
         "atruthseekerCommunicationwithUtopiawillbelost.kuro.0": {
             "name": "a truth seeker -Communication with Utopia will be lost-",
             "IN": {
-                "lvl": "15.8",
+                "lvl": "15.7",
                 "charter": "-Seek A Lnside Truth-",
                 "tcharter": "Salt"
             }
@@ -4025,7 +4414,7 @@
         "下一秒.BobHouSherlock卓智媛feat兰音Reine.0": {
             "name": "下一秒",
             "IN": {
-                "lvl": "13.2",
+                "lvl": "13.6",
                 "charter": "Salt",
                 "tcharter": "Salt"
             }
@@ -4112,7 +4501,7 @@
         "XING.ginkiha.0": {
             "name": "XING",
             "IN": {
-                "lvl": "13.9",
+                "lvl": "14.0",
                 "charter": "Sillyp vs. 阿爽",
                 "tcharter": "Sillyp & 阿爽"
             }
@@ -4143,6 +4532,22 @@
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "IN": {
+                "lvl": "17.0",
+                "charter": "Retaliating Resolve \"反击的决意\"",
+                "tcharter": "Simon_Axis & XMT小咩兔"
+            }
+        },
+        "ExoplanetaryMirage.かめりあ.0": {
+            "name": "Exoplanetary Mirage",
+            "IN": {
+                "lvl": "16.8",
+                "charter": "Orbital Velocity: 16.700 km/s",
+                "tcharter": "Simon_Axis"
+            }
+        },
         "Grimheart.Puru.0": {
             "name": "Grimheart",
             "EZ": {
@@ -4154,6 +4559,14 @@
                 "lvl": "8.9",
                 "charter": "SimonAxis",
                 "tcharter": "Simon_Axis"
+            }
+        },
+        "Implexrough.Silentroommommy.0": {
+            "name": "Implexrough",
+            "IN": {
+                "lvl": "15.3",
+                "charter": "Turbulax - Simon_Axis & Stray_Cat",
+                "tcharter": "Simon_Axis & JKy"
             }
         },
         "Ramification.rareguyReina.0": {
@@ -4211,6 +4624,14 @@
                 "tcharter": "Simon_Axis & Su1fuR"
             }
         },
+        "ハテ.rNFrums.0": {
+            "name": "ハテ",
+            "IN": {
+                "lvl": "16.7",
+                "charter": "the end of this.",
+                "tcharter": "Magazet & Simon_Axis & Su1fuR & Gausbon"
+            }
+        },
         "双重间谍DoubleAgent.WAVAV.0": {
             "name": "双重间谍 (Double Agent)",
             "IN": {
@@ -4230,7 +4651,7 @@
         "玩具狂奏曲終焉.きくお.0": {
             "name": "玩具狂奏曲 -終焉-",
             "IN": {
-                "lvl": "15.8",
+                "lvl": "16.0",
                 "charter": "Self -the pAtchwork-",
                 "tcharter": "Simon_Axis & Algax"
             }
@@ -4266,7 +4687,7 @@
                 "tcharter": "Skuwo"
             },
             "HD": {
-                "lvl": "12.7",
+                "lvl": "12.6",
                 "charter": "Skuwo",
                 "tcharter": "Skuwo"
             },
@@ -4333,6 +4754,22 @@
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
             }
         },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "AT": {
+                "lvl": "18.0",
+                "charter": "Ceaseless Signal \"不息的信号\"",
+                "tcharter": "StR-1 & XMT小咩兔 & Likey & 啊哒咔哟 & WinterPT & Akko"
+            }
+        },
+        "ExoplanetaryMirage.かめりあ.0": {
+            "name": "Exoplanetary Mirage",
+            "EZ": {
+                "lvl": "8.7",
+                "charter": "Orbital Velocity: 7.900 km/s",
+                "tcharter": "WinterPT & StR-1"
+            }
+        },
         "FrozenHeart.A39沙包P.0": {
             "name": "Frozen Heart",
             "EZ": {
@@ -4369,6 +4806,14 @@
             "IN": {
                 "lvl": "15.2",
                 "charter": "光る星",
+                "tcharter": "StR-1"
+            }
+        },
+        "Message.くるぶっこちゃん.0": {
+            "name": "Message",
+            "EZ": {
+                "lvl": "3.0",
+                "charter": "■■■p■l■a",
                 "tcharter": "StR-1"
             }
         },
@@ -4435,9 +4880,17 @@
         "PANICPARADISE.DJSHIONY.0": {
             "name": "PANIC PARADISE",
             "AT": {
-                "lvl": "16.5",
+                "lvl": "16.6",
                 "charter": "StR-1",
                 "tcharter": "StR-1"
+            }
+        },
+        "Petrichor.voidMournfinale.0": {
+            "name": "Petrichor",
+            "AT": {
+                "lvl": "17.5",
+                "charter": "Return | Petrichor",
+                "tcharter": "Salt & StR-1"
             }
         },
         "QZKagoRequiem.tpazolite.0": {
@@ -4511,7 +4964,7 @@
         "亂舞.NekockLK.0": {
             "name": "亂★舞",
             "IN": {
-                "lvl": "13.0",
+                "lvl": "13.2",
                 "charter": "StR☆1",
                 "tcharter": "StR-1"
             }
@@ -4610,7 +5063,7 @@
         "Ark.kanoryo.0": {
             "name": "Ark",
             "AT": {
-                "lvl": "16.5",
+                "lvl": "16.4",
                 "charter": "StupiGGy",
                 "tcharter": "StupiGGy"
             }
@@ -4768,7 +5221,7 @@
         "WATER.A39沙包P.0": {
             "name": "WATER",
             "HD": {
-                "lvl": "9.4",
+                "lvl": "9.5",
                 "charter": "対流に巻き込まれ",
                 "tcharter": "StupiGGy"
             },
@@ -4786,7 +5239,7 @@
                 "tcharter": "StupiGGy"
             },
             "HD": {
-                "lvl": "9.9",
+                "lvl": "10.8",
                 "charter": "StupiGGy",
                 "tcharter": "StupiGGy"
             }
@@ -4883,12 +5336,28 @@
                 "tcharter": "Magazet & Su1fuR & Salt"
             }
         },
+        "AboutTheUniverse.SOTUIMIssionary.0": {
+            "name": "About The Universe",
+            "IN": {
+                "lvl": "14.4",
+                "charter": "波硫二象性",
+                "tcharter": "Clutter & Su1fuR"
+            }
+        },
         "AbsoluTedisoRdeR.AcuteDisarray.0": {
             "name": "AbsoluTe disoRdeR",
             "EZ": {
                 "lvl": "6.5",
                 "charter": "Su1fuR",
                 "tcharter": "Su1fuR"
+            }
+        },
+        "Ametrine.GRYSCLMIssionary.0": {
+            "name": "Ametrine",
+            "AT": {
+                "lvl": "16.2",
+                "charter": "Ametrine",
+                "tcharter": "Rikko & WinterPT & Su1fuR & Akko & XMT小咩兔"
             }
         },
         "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0": {
@@ -4928,7 +5397,7 @@
         "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0": {
             "name": "Broken Sky",
             "IN": {
-                "lvl": "13.2",
+                "lvl": "13.3",
                 "charter": "Su1fuR",
                 "tcharter": "Su1fuR"
             }
@@ -4986,6 +5455,14 @@
                 "lvl": "17.5",
                 "charter": "Gegenmacht der Lords",
                 "tcharter": "Simon_Axis & Su1fuR & Algax & StR-1 & 騎士Knight & Likey"
+            }
+        },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "HD": {
+                "lvl": "14.0",
+                "charter": "Denying Pseudomorph \"否认的伪形\"",
+                "tcharter": "Su1fuR"
             }
         },
         "DiamondEyes.SYNTHETIC.0": {
@@ -5083,7 +5560,7 @@
         "PANICPARADISE.DJSHIONY.0": {
             "name": "PANIC PARADISE",
             "IN": {
-                "lvl": "15.4",
+                "lvl": "15.5",
                 "charter": "Su1fuR -FAISEURS DE PANIQUE-",
                 "tcharter": "Su1fuR"
             }
@@ -5172,6 +5649,14 @@
                 "tcharter": "Uvernight & Su1fuR"
             }
         },
+        "TrueHomeTrueWorldRework.816ThreeNumbers.0": {
+            "name": "True Home, True World (Rework)",
+            "EZ": {
+                "lvl": "5.0",
+                "charter": "Backward, go backward,",
+                "tcharter": "Su1fuR"
+            }
+        },
         "Xepion.Acotto.0": {
             "name": "Xep+ion",
             "EZ": {
@@ -5183,6 +5668,14 @@
                 "lvl": "14.8",
                 "charter": "Su1fuRikko",
                 "tcharter": "Su1fuR & Rikko"
+            }
+        },
+        "NWAD.Knighthood.0": {
+            "name": "[NWAD]",
+            "IN": {
+                "lvl": "15.6",
+                "charter": "[RUFLUS]",
+                "tcharter": "Su1fuR"
             }
         },
         "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0": {
@@ -5212,6 +5705,14 @@
                 "lvl": "9.1",
                 "charter": "Su1fuR & V17AMax",
                 "tcharter": "Su1fuR & V17AMax"
+            }
+        },
+        "ハテ.rNFrums.0": {
+            "name": "ハテ",
+            "IN": {
+                "lvl": "16.7",
+                "charter": "the end of this.",
+                "tcharter": "Magazet & Simon_Axis & Su1fuR & Gausbon"
             }
         },
         "今天不是明天.PIKASONICfeat兰音Reine.0": {
@@ -5352,7 +5853,7 @@
         "Credits.Frums.0": {
             "name": "Credits",
             "AT": {
-                "lvl": "15.7",
+                "lvl": "15.8",
                 "charter": "_鉄 (Isotope 59)",
                 "tcharter": "TangScend"
             }
@@ -5407,7 +5908,7 @@
                 "tcharter": "TangScend"
             },
             "AT": {
-                "lvl": "16.8",
+                "lvl": "16.9",
                 "charter": "while(TangScend=TangScend);",
                 "tcharter": "TangScend"
             }
@@ -5728,7 +6229,7 @@
                 "tcharter": "Uvernight"
             },
             "HD": {
-                "lvl": "9.7",
+                "lvl": "10.5",
                 "charter": "Uvernight",
                 "tcharter": "Uvernight"
             }
@@ -5883,13 +6384,58 @@
             }
         }
     },
-    "WinterProtecter": {
+    "WinterPT": {
+        "Ametrine.GRYSCLMIssionary.0": {
+            "name": "Ametrine",
+            "EZ": {
+                "lvl": "6.0",
+                "charter": "Enstatite",
+                "tcharter": "WinterPT"
+            },
+            "AT": {
+                "lvl": "16.2",
+                "charter": "Ametrine",
+                "tcharter": "Rikko & WinterPT & Su1fuR & Akko & XMT小咩兔"
+            }
+        },
+        "Cryogenic.CamelliaftPetraGurin.0": {
+            "name": "Cryogenic",
+            "IN": {
+                "lvl": "15.1",
+                "charter": "「IN」 Falsus",
+                "tcharter": "Likey & Magazet & WinterPT"
+            }
+        },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "AT": {
+                "lvl": "18.0",
+                "charter": "Ceaseless Signal \"不息的信号\"",
+                "tcharter": "StR-1 & XMT小咩兔 & Likey & 啊哒咔哟 & WinterPT & Akko"
+            }
+        },
+        "ExoplanetaryMirage.かめりあ.0": {
+            "name": "Exoplanetary Mirage",
+            "EZ": {
+                "lvl": "8.7",
+                "charter": "Orbital Velocity: 7.900 km/s",
+                "tcharter": "WinterPT & StR-1"
+            }
+        },
+        "LeaveAllBehind.rider.0": {
+            "name": "Leave All Behind",
+            "AT": {
+                "lvl": "15.0",
+                "charter": "WinterPT & Rikko",
+                "tcharter": "WinterPT & Rikko"
+            }
+        },
         "星拂云锦featkoi.S9ryne.0": {
             "name": "星拂云锦 feat. koi",
             "HD": {
                 "lvl": "9.0",
                 "charter": "帷畔托星",
-                "tcharter": "WinterProtecter"
+                "tcharter": "WinterPT"
             }
         }
     },
@@ -5941,6 +6487,14 @@
                 "tcharter": "XMT小咩兔"
             }
         },
+        "Ametrine.GRYSCLMIssionary.0": {
+            "name": "Ametrine",
+            "AT": {
+                "lvl": "16.2",
+                "charter": "Ametrine",
+                "tcharter": "Rikko & WinterPT & Su1fuR & Akko & XMT小咩兔"
+            }
+        },
         "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0": {
             "name": "Avataar ~Reincarnation of Kalpa~",
             "AT": {
@@ -5984,7 +6538,7 @@
         "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0": {
             "name": "Compute It With Some Devilish Alcoholic Steampunk Engines",
             "IN": {
-                "lvl": "15.8",
+                "lvl": "15.7",
                 "charter": "Gausbon vs. XMT小咩兔",
                 "tcharter": "Gausbon & XMT小咩兔"
             }
@@ -5995,6 +6549,19 @@
                 "lvl": "13.1",
                 "charter": "{Devastation,Destruction}",
                 "tcharter": "XMT小咩兔"
+            }
+        },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "IN": {
+                "lvl": "17.0",
+                "charter": "Retaliating Resolve \"反击的决意\"",
+                "tcharter": "Simon_Axis & XMT小咩兔"
+            },
+            "AT": {
+                "lvl": "18.0",
+                "charter": "Ceaseless Signal \"不息的信号\"",
+                "tcharter": "StR-1 & XMT小咩兔 & Likey & 啊哒咔哟 & WinterPT & Akko"
             }
         },
         "DistortedFate.Sakuzyo.0": {
@@ -6045,6 +6612,14 @@
                 "lvl": "15.6",
                 "charter": "XMT小咩兔",
                 "tcharter": "XMT小咩兔"
+            }
+        },
+        "ExoplanetaryMirage.かめりあ.0": {
+            "name": "Exoplanetary Mirage",
+            "AT": {
+                "lvl": "17.9",
+                "charter": "Orbital Velocity:  ■■■ km/s",
+                "tcharter": "XMT小咩兔 & NerSAN"
             }
         },
         "FutureMind.RayNauticaRekuMochizuki.0": {
@@ -6102,6 +6677,14 @@
                 "tcharter": "XMT小咩兔"
             }
         },
+        "Message.くるぶっこちゃん.0": {
+            "name": "Message",
+            "IN": {
+                "lvl": "15.6",
+                "charter": "Geo■elia's lov",
+                "tcharter": "XMT小咩兔 & Clutter"
+            }
+        },
         "NickofTime.P4koo.0": {
             "name": "Nick of Time",
             "EZ": {
@@ -6118,7 +6701,7 @@
         "Radiance.Nhato.0": {
             "name": "Radiance",
             "IN": {
-                "lvl": "14.0",
+                "lvl": "14.1",
                 "charter": "XMT小咩兔",
                 "tcharter": "XMT小咩兔"
             }
@@ -6192,6 +6775,14 @@
                 "tcharter": "XMT小咩兔"
             }
         },
+        "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい.0": {
+            "name": "What do you want more than a Happy ending?",
+            "AT": {
+                "lvl": "17.1",
+                "charter": "欢迎回到 Phigros！",
+                "tcharter": "Magazet & XMT小咩兔 & Salt & 野从"
+            }
+        },
         "atruthseekerCommunicationwithUtopiawillbelost.kuro.0": {
             "name": "a truth seeker -Communication with Utopia will be lost-",
             "EZ": {
@@ -6240,7 +6831,7 @@
         "アンビバレンス.すりぃ相沢.0": {
             "name": "アンビバレンス",
             "EZ": {
-                "lvl": "4.0",
+                "lvl": "3.5",
                 "charter": "XMT小咩兔",
                 "tcharter": "XMT小咩兔"
             },
@@ -6492,7 +7083,7 @@
                 "tcharter": "右果_Ary"
             },
             "HD": {
-                "lvl": "9.8",
+                "lvl": "9.7",
                 "charter": "ABYSS 543.320",
                 "tcharter": "右果_Ary"
             }
@@ -6507,6 +7098,14 @@
             "IN": {
                 "lvl": "14.7",
                 "charter": "Ary",
+                "tcharter": "右果_Ary"
+            }
+        },
+        "Ametrine.GRYSCLMIssionary.0": {
+            "name": "Ametrine",
+            "HD": {
+                "lvl": "12.2",
+                "charter": "Heliodor",
                 "tcharter": "右果_Ary"
             }
         },
@@ -6556,6 +7155,14 @@
                 "charter": "The Waltz of Snow",
                 "tcharter": "右果_Ary"
             }
+        },
+        "ハテ.rNFrums.0": {
+            "name": "ハテ",
+            "HD": {
+                "lvl": "13.9",
+                "charter": "the end of ache.",
+                "tcharter": "右果_Ary"
+            }
         }
     },
     "啊哒咔哟": {
@@ -6591,6 +7198,14 @@
                 "lvl": "10.2",
                 "charter": "adky",
                 "tcharter": "啊哒咔哟"
+            }
+        },
+        "DesultorySignals.technoplanet.0": {
+            "name": "Desultory Signals",
+            "AT": {
+                "lvl": "18.0",
+                "charter": "Ceaseless Signal \"不息的信号\"",
+                "tcharter": "StR-1 & XMT小咩兔 & Likey & 啊哒咔哟 & WinterPT & Akko"
             }
         },
         "Rebirth.ああああ.0": {
@@ -6888,6 +7503,16 @@
             }
         }
     },
+    "满天星": {
+        "Message.くるぶっこちゃん.0": {
+            "name": "Message",
+            "SP": {
+                "lvl": "?",
+                "charter": "Likey & Junesnow",
+                "tcharter": "Likey & 满天星"
+            }
+        }
+    },
     "無極": {
         "BetterGraphicAnimation.ルゼ.0": {
             "name": "Better Graphic Animation",
@@ -7048,7 +7673,7 @@
                 "tcharter": "無極"
             },
             "HD": {
-                "lvl": "13.3",
+                "lvl": "12.9",
                 "charter": "無極☆雷鳴 ~ ♫死の序曲♫",
                 "tcharter": "無極"
             },
@@ -7084,7 +7709,7 @@
                 "tcharter": "無極 & 百九十八"
             },
             "IN": {
-                "lvl": "13.3",
+                "lvl": "13.0",
                 "charter": "猫の信 & 百九十八",
                 "tcharter": "無極 & 百九十八"
             },
@@ -7178,12 +7803,36 @@
         }
     },
     "爬爬": {
+        "Ametrine.GRYSCLMIssionary.0": {
+            "name": "Ametrine",
+            "IN": {
+                "lvl": "15.0",
+                "charter": "Indigolite",
+                "tcharter": "Akko & 爬爬 & Algax"
+            }
+        },
+        "Cryogenic.CamelliaftPetraGurin.0": {
+            "name": "Cryogenic",
+            "HD": {
+                "lvl": "11.8",
+                "charter": "「HD」 Falsus",
+                "tcharter": "Akko & 爬爬"
+            }
+        },
         "Incyde.YbeLL.0": {
             "name": "Incyde",
             "EZ": {
                 "lvl": "7.0",
                 "charter": "【梦之起始】爬爬 vs. 盐",
                 "tcharter": "爬爬 & Salt"
+            }
+        },
+        "Petrichor.voidMournfinale.0": {
+            "name": "Petrichor",
+            "IN": {
+                "lvl": "16.5",
+                "charter": "Silence | Us",
+                "tcharter": "Akko & Algax & Magazet & 爬爬 & Clutter"
             }
         },
         "SnowDance.悠叶いのり.0": {
@@ -7381,6 +8030,14 @@
                 "tcharter": "鲲 & 百九十八"
             }
         },
+        "EntrancetotheChaos.打打だいずvssiromaru.0": {
+            "name": "Entrance to the Chaos",
+            "AT": {
+                "lvl": "17.6",
+                "charter": "Embracing the Madness",
+                "tcharter": "Likey & 百九十八"
+            }
+        },
         "FULiAUTOBUSTER.MYUKKE.0": {
             "name": "FULi AUTO BUSTER",
             "EZ": {
@@ -7527,6 +8184,14 @@
                 "tcharter": "StupiGGy & 百九十八 & 野从"
             }
         },
+        "Message.くるぶっこちゃん.0": {
+            "name": "Message",
+            "AT": {
+                "lvl": "16.5",
+                "charter": "Geopelia's love 2u",
+                "tcharter": "百九十八"
+            }
+        },
         "Nhelv.Silentroom.0": {
             "name": "Nhelv",
             "IN": {
@@ -7640,7 +8305,7 @@
                 "tcharter": "百九十八"
             },
             "IN": {
-                "lvl": "12.3",
+                "lvl": "12.2",
                 "charter": "百九十八",
                 "tcharter": "百九十八"
             }
@@ -7703,7 +8368,7 @@
         "dBdoll.YUESTEVENuen.0": {
             "name": "dB doll",
             "AT": {
-                "lvl": "13.6",
+                "lvl": "13.4",
                 "charter": "NerSAN & 百九十八",
                 "tcharter": "NerSAN & 百九十八"
             }
@@ -7757,7 +8422,7 @@
                 "tcharter": "無極 & 百九十八"
             },
             "IN": {
-                "lvl": "13.3",
+                "lvl": "13.0",
                 "charter": "猫の信 & 百九十八",
                 "tcharter": "無極 & 百九十八"
             }
@@ -7809,7 +8474,7 @@
                 "tcharter": "阿爽 & 百九十八"
             },
             "IN": {
-                "lvl": "13.0",
+                "lvl": "13.1",
                 "charter": "阿爽 & 百九十八",
                 "tcharter": "阿爽 & 百九十八"
             }
@@ -7921,7 +8586,7 @@
         "Bitterblossom.imvi.0": {
             "name": "Bitterblossom",
             "HD": {
-                "lvl": "9.5",
+                "lvl": "9.9",
                 "charter": "Barbarianerman",
                 "tcharter": "野从"
             }
@@ -8174,7 +8839,7 @@
                 "tcharter": "野从"
             },
             "IN": {
-                "lvl": "15.5",
+                "lvl": "15.6",
                 "charter": "Gino",
                 "tcharter": "野从"
             }
@@ -8218,7 +8883,7 @@
                 "tcharter": "野从"
             },
             "HD": {
-                "lvl": "9.7",
+                "lvl": "9.9",
                 "charter": "B.B.M.",
                 "tcharter": "野从"
             }
@@ -8584,9 +9249,17 @@
                 "tcharter": "野从"
             },
             "HD": {
-                "lvl": "10.0",
+                "lvl": "10.3",
                 "charter": "Barbarianerman & Regret",
                 "tcharter": "野从"
+            }
+        },
+        "TrueHomeTrueWorldRework.816ThreeNumbers.0": {
+            "name": "True Home, True World (Rework)",
+            "IN": {
+                "lvl": "15.8",
+                "charter": "go back to the -",
+                "tcharter": "Likey & 野从"
             }
         },
         "Trane.MALVA.0": {
@@ -8642,6 +9315,19 @@
                 "lvl": "13.9",
                 "charter": "百九十八 vs. Barbarianerman",
                 "tcharter": "百九十八 & 野从"
+            }
+        },
+        "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい.0": {
+            "name": "What do you want more than a Happy ending?",
+            "HD": {
+                "lvl": "11.5",
+                "charter": "欢迎回到 Phigros！",
+                "tcharter": "野从"
+            },
+            "AT": {
+                "lvl": "17.1",
+                "charter": "欢迎回到 Phigros！",
+                "tcharter": "Magazet & XMT小咩兔 & Salt & 野从"
             }
         },
         "Wintercube.CtymaxfeatNceS.0": {
@@ -8969,7 +9655,7 @@
                 "tcharter": "阿爽"
             },
             "IN": {
-                "lvl": "13.8",
+                "lvl": "14.1",
                 "charter": "NerSAN vs. 阿爽",
                 "tcharter": "NerSAN & 阿爽"
             }
@@ -9089,7 +9775,7 @@
         "EnginexStartmelodymix.CrossingSound.0": {
             "name": "Engine x Start!! (melody mix)",
             "IN": {
-                "lvl": "13.0",
+                "lvl": "13.2",
                 "charter": "阿爽",
                 "tcharter": "阿爽"
             },
@@ -9361,7 +10047,7 @@
         "XING.ginkiha.0": {
             "name": "XING",
             "IN": {
-                "lvl": "13.9",
+                "lvl": "14.0",
                 "charter": "Sillyp vs. 阿爽",
                 "tcharter": "Sillyp & 阿爽"
             }
@@ -9441,7 +10127,7 @@
         "アンビバレンス.すりぃ相沢.0": {
             "name": "アンビバレンス",
             "IN": {
-                "lvl": "14.1",
+                "lvl": "14.2",
                 "charter": "弧光 With Opposition",
                 "tcharter": "Ctymax & Rikko & 阿爽"
             }
@@ -9533,7 +10219,7 @@
                 "tcharter": "阿爽 & 百九十八"
             },
             "IN": {
-                "lvl": "13.0",
+                "lvl": "13.1",
                 "charter": "阿爽 & 百九十八",
                 "tcharter": "阿爽 & 百九十八"
             },
