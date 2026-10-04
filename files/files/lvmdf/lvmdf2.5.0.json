@@ -1,0 +1,2928 @@
+{
+  "996.李化禹.0": {
+    "songName": 996,
+    "EZ": {
+      "old": 3.8,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.5,
+      "new": 14.6
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "AfterDawn.S9ryne.0": {
+    "songName": "After Dawn",
+    "EZ": {
+      "old": 4.2,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Aleph0.LeaF.0": {
+    "songName": "Aleph-0",
+    "EZ": {
+      "old": 4.5,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 11.6,
+      "new": 12.2
+    },
+    "IN": {
+      "old": 15.6,
+      "new": 15.7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "AnotherMe.DAAN.0": {
+    "songName": "Another Me",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "AnotherMe.NeutralMoon.0": {
+    "songName": "Another Me",
+    "EZ": {
+      "old": 1.7,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 5.6,
+      "new": 9.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "AnotherRound.JustinDai.0": {
+    "songName": "Another Round",
+    "EZ": {
+      "old": 3.2,
+      "new": 3
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Aphasia.闫东炜.0": {
+    "songName": "Aphasia",
+    "EZ": {
+      "old": 4.2,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Apocalypse.アリスシャッハと魔法の楽団.0": {
+    "songName": "Apocalypse",
+    "EZ": {
+      "old": 3.8,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Apocalyptic.ZClaxxSumaiLight.0": {
+    "songName": "Apocalyptic",
+    "EZ": {
+      "old": 3.2,
+      "new": 3
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 13.4,
+      "new": 13.6
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Ark.kanoryo.0": {
+    "songName": "Ark",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.9,
+      "new": 15.1
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Aventyr.GrandThawRigelTheatre.0": {
+    "songName": "Äventyr",
+    "EZ": {
+      "old": 2.3,
+      "new": 2.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "BetterGraphicAnimation.ルゼ.0": {
+    "songName": "Better Graphic Animation",
+    "EZ": {
+      "old": 6.4,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "BonusTime.MegaloPaleWhite.0": {
+    "songName": "Bonus Time",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "BraveNotes.TurquoiseDRIVENota.0": {
+    "songName": "Brave Notes",
+    "EZ": {
+      "old": 5.6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "BreakOver.Kforest.0": {
+    "songName": "Break Over",
+    "EZ": {
+      "old": 5.1,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "BreakThroughTheBarrier.lixound.0": {
+    "songName": "Break Through The Barrier",
+    "EZ": {
+      "old": 5.9,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.9,
+      "new": 14.7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Burn.NceS.0": {
+    "songName": "Burn",
+    "EZ": {
+      "old": 4.2,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Cereris.SunsetRayNceS.0": {
+    "songName": "Cereris",
+    "EZ": {
+      "old": 6.9,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 10.5,
+      "new": 11.4
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "CervelleConnexion.SCTL.0": {
+    "songName": "Cervelle Connexion",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Chronologika.Hundotte.0": {
+    "songName": "Chronologika",
+    "EZ": {
+      "old": 3.7,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Chronomia.Lime.0": {
+    "songName": "Chronomia",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 10.4,
+      "new": 11.1
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ChronosCollapseLaCampanella.SunsetRay.0": {
+    "songName": "Chronos Collapse - La Campanella",
+    "EZ": {
+      "old": 2.8,
+      "new": 3
+    },
+    "HD": {
+      "old": 10.6,
+      "new": 11.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Chronostasis.黒皇帝.0": {
+    "songName": "Chronostasis",
+    "EZ": {
+      "old": 6.8,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 11.6,
+      "new": 11.2
+    },
+    "IN": {
+      "old": 15.9,
+      "new": 15.8
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Cipher20.TetrajectoryfeatCtymax.0": {
+    "songName": "Cipher : /2&//<|0",
+    "EZ": {
+      "old": 6.8,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 10.8,
+      "new": 9.7
+    },
+    "IN": {
+      "old": 14.7,
+      "new": 14.4
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ClassMemories.AntistarfeatCtymax.0": {
+    "songName": "Class Memories",
+    "EZ": {
+      "old": 4.5,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 8.9,
+      "new": 10.4
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ClockParadox.WyvernP.0": {
+    "songName": "Clock Paradox",
+    "EZ": {
+      "old": 2.3,
+      "new": 2.5
+    },
+    "HD": {
+      "old": 5.8,
+      "new": 6
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ColorfulDays.P4koofeatつゆり花鈴.0": {
+    "songName": "Colorful Days♪",
+    "EZ": {
+      "old": 4.6,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 7.1,
+      "new": 7
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Concvssion.Halv.0": {
+    "songName": "Concvssion",
+    "EZ": {
+      "old": 4.1,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Credits.Frums.0": {
+    "songName": "Credits",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "CROSSSOUL.HyuNfeatSyepias.0": {
+    "songName": "CROSS†SOUL",
+    "EZ": {
+      "old": 7.7,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "cryout.JuE.0": {
+    "songName": "cryout",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "csqn.Aoi.0": {
+    "songName": "c.s.q.n.",
+    "EZ": {
+      "old": 5.1,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Cthugha.USAO.0": {
+    "songName": "Cthugha",
+    "EZ": {
+      "old": 7.2,
+      "new": 7
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.7,
+      "new": 15.6
+    },
+    "AT": {
+      "old": 15.9,
+      "new": 15.8
+    }
+  },
+  "Dash.小红Akane李祥辉.0": {
+    "songName": "Dash",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 5.7,
+      "new": 5.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "DataErr0r.Cosmograph.0": {
+    "songName": "DataErr0r",
+    "EZ": {
+      "old": 6.1,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "dBdoll.YUESTEVENuen.0": {
+    "songName": "dB doll",
+    "EZ": {
+      "old": 1.3,
+      "new": 1.5
+    },
+    "HD": {
+      "old": 3.6,
+      "new": 3.5
+    },
+    "IN": {
+      "old": 6.2,
+      "new": 6
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "DeadSoul.SoundSouler.0": {
+    "songName": "Dead Soul",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Demiurge.Rabpit.0": {
+    "songName": "Demiurge",
+    "EZ": {
+      "old": 1.4,
+      "new": 1.5
+    },
+    "HD": {
+      "old": 7.4,
+      "new": 7.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Demonkin.ForgedReigns.0": {
+    "songName": "Demonkin",
+    "EZ": {
+      "old": 6.1,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Disorder.HyuNfeatYURI.0": {
+    "songName": "Disorder",
+    "EZ": {
+      "old": 5.4,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Dlyrotz.Likey.0": {
+    "songName": "Dlyrotz",
+    "EZ": {
+      "old": 6.5,
+      "new": 5
+    },
+    "HD": {
+      "old": 11.7,
+      "new": 9.4
+    },
+    "IN": {
+      "old": 14.6,
+      "new": 13.7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "DontNeverAround.HAMA.0": {
+    "songName": "Don't Never Around",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Doppelganger.LeaF.0": {
+    "songName": "Doppelganger",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 9.4,
+      "new": 9.8
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Dreamland.z1onkyrrin.0": {
+    "songName": "Dreamland",
+    "EZ": {
+      "old": 5.2,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "DropIt.Asuka.0": {
+    "songName": "Drop It",
+    "EZ": {
+      "old": 3.8,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ElCondorPasaPhigrosEdit.PlasticFruits.0": {
+    "songName": "El Condor Pasa (Phigros Edit)",
+    "EZ": {
+      "old": 4.6,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Electron.ElousFZ.0": {
+    "songName": "Electron",
+    "EZ": {
+      "old": 3.7,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Eltaw.Fl00t.0": {
+    "songName": "Eltaw",
+    "EZ": {
+      "old": 5.8,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "EndMe.ZxNXasDelaina.0": {
+    "songName": "End Me",
+    "EZ": {
+      "old": 5.8,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.3,
+      "new": 14.1
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ENERGYSYNERGYMATRIX.Tanchiky.0": {
+    "songName": "ENERGY SYNERGY MATRIX",
+    "EZ": {
+      "old": 5.9,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 10.7,
+      "new": 11.5
+    },
+    "IN": {
+      "old": 14.8,
+      "new": 14.6
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "energytrixxx.KAH.0": {
+    "songName": "energy trixxx",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "EnginexStartmelodymix.CrossingSound.0": {
+    "songName": "Engine x Start!! (melody mix)",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "EradicationCatastrophe.NceS.0": {
+    "songName": "Eradication Catastrophe",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 11.6,
+      "new": 12.7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "EternalSnow.AbyssIdols.0": {
+    "songName": "Eternal Snow",
+    "EZ": {
+      "old": 4.2,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "FinalStep.Lime.0": {
+    "songName": "Final Step!",
+    "EZ": {
+      "old": 5.9,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "FindMe.Kforest.0": {
+    "songName": "Find_Me",
+    "EZ": {
+      "old": 5.7,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "FULiAUTOBUSTER.MYUKKE.0": {
+    "songName": "FULi AUTO BUSTER",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "FULiAUTOSHOOTER.MYUKKE.0": {
+    "songName": "FULi AUTO SHOOTER",
+    "EZ": {
+      "old": 4.1,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "FutureMind.RayNauticaRekuMochizuki.0": {
+    "songName": "Future Mind",
+    "EZ": {
+      "old": 5.3,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "GetBack.CAP3.0": {
+    "songName": "Get Back",
+    "EZ": {
+      "old": 6.6,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "GetReady.iF.0": {
+    "songName": "Get Ready!!",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 13.5,
+      "new": 13.7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Glaciaxion.SunsetRay.0": {
+    "songName": "Glaciaxion",
+    "EZ": {
+      "old": 1.1,
+      "new": 1
+    },
+    "HD": {
+      "old": 6.7,
+      "new": 6.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "GOODBOUNCE.EBIMAYO.0": {
+    "songName": "GOODBOUNCE",
+    "EZ": {
+      "old": 5.7,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "GOODFORTUNE.EBIMAYO.0": {
+    "songName": "GOODFORTUNE",
+    "EZ": {
+      "old": 7.3,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "GOODRAGE.EBIMAYO.0": {
+    "songName": "GOODRAGE",
+    "EZ": {
+      "old": 4.6,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 7.8,
+      "new": 7.5
+    },
+    "IN": {
+      "old": 15.8,
+      "new": 15.7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "GOODTEK.EBIMAYO.0": {
+    "songName": "GOODTEK",
+    "EZ": {
+      "old": 5.4,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.2,
+      "new": 13.8
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "GOODWORLD.EBIMAYO.0": {
+    "songName": "GOODWORLD",
+    "EZ": {
+      "old": 3.2,
+      "new": 3
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "HardcoreKwaya.EnFr.0": {
+    "songName": "Hardcore Kwaya",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "HAZARD.Limpid.0": {
+    "songName": "HAZARD",
+    "EZ": {
+      "old": 3.6,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0": {
+    "songName": "Horizon Blue",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.4,
+      "new": 15.5
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "HumaN.SOTUI.0": {
+    "songName": "HumaN",
+    "EZ": {
+      "old": 5.6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Igallta.SeURa.0": {
+    "songName": "Igallta",
+    "EZ": {
+      "old": 7.7,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "IMustSayNo.TangJuan.0": {
+    "songName": "I Must Say No",
+    "EZ": {
+      "old": 2.6,
+      "new": 2.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "inferior.姜米條.0": {
+    "songName": "inferior",
+    "EZ": {
+      "old": 7.1,
+      "new": 7
+    },
+    "HD": {
+      "old": 7.9,
+      "new": 7.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "InfinityHeaven.HyuN.0": {
+    "songName": "Infinity Heaven",
+    "EZ": {
+      "old": 3.3,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Initialize.iF.0": {
+    "songName": "Initialize",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 7.2,
+      "new": 7
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0": {
+    "songName": "JunXion Between Life And Death(VIP Mix)",
+    "EZ": {
+      "old": 3.2,
+      "new": 3
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Kerberos.Zris.0": {
+    "songName": "Kerberos",
+    "EZ": {
+      "old": 5.7,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.4,
+      "new": 15.5
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "KhronostasisKatharsis.Halv.0": {
+    "songName": "Khronostasis Katharsis",
+    "EZ": {
+      "old": 5.2,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 10.8,
+      "new": 11.6
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "LeaveAllBehind.rider.0": {
+    "songName": "Leave All Behind",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 6.4,
+      "new": 6.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "lifeflashesbeforeweebeyes.BilliumMoto.0": {
+    "songName": "life flashes before weeb eyes",
+    "EZ": {
+      "old": 6.6,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Luminescent.Daison.0": {
+    "songName": "Luminescent",
+    "EZ": {
+      "old": 5.7,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Lyrith迷宮リリス.ユメミド.0": {
+    "songName": "Lyrith -迷宮リリス-",
+    "EZ": {
+      "old": 5.2,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 16.3,
+      "new": 16.2
+    }
+  },
+  "MagentaPotion.EmoCo.0": {
+    "songName": "Magenta Potion",
+    "EZ": {
+      "old": 6.3,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "MARENOL.LeaF.0": {
+    "songName": "MARENOL",
+    "EZ": {
+      "old": 1.9,
+      "new": 2
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "mechanted.rareguy.0": {
+    "songName": "mechanted",
+    "EZ": {
+      "old": 2.7,
+      "new": 2.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "microwav.dandeless.0": {
+    "songName": "micro.wav",
+    "EZ": {
+      "old": 6.2,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "MiracleForestVIPMix.Rinthlive.0": {
+    "songName": "Miracle Forest (VIP Mix)",
+    "EZ": {
+      "old": 2.6,
+      "new": 2.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "MOBILYS.Dachs.0": {
+    "songName": "MOBILYS",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "modulus.PTB10.0": {
+    "songName": "modulus",
+    "EZ": {
+      "old": 3.7,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "NextTime.SaMZIng.0": {
+    "songName": "Next Time",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Nhelv.Silentroom.0": {
+    "songName": "Nhelv",
+    "EZ": {
+      "old": 1.7,
+      "new": 1.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "NickofTime.P4koo.0": {
+    "songName": "Nick of Time",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "NonMelodicRagezMUGEdit.Normal1zer.0": {
+    "songName": "Non-Melodic Ragez (MUG Edit)",
+    "EZ": {
+      "old": 5.8,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 10.5,
+      "new": 11.8
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "NYA.FLuoRiTe姜米條.0": {
+    "songName": "NYA!!! (Phigros ver.)",
+    "EZ": {
+      "old": 1.8,
+      "new": 2
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "OnAndOn.ETIAfeatJenga.0": {
+    "songName": "On And On!!",
+    "EZ": {
+      "old": 5.1,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.7,
+      "new": 14.9
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "opia.rN.0": {
+    "songName": "opia",
+    "EZ": {
+      "old": 5.4,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Orthodox.tokiwa.0": {
+    "songName": "Orthodox",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.2,
+      "new": 14.3
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Palescreen.WyvernPfeatMadol.0": {
+    "songName": "Palescreen",
+    "EZ": {
+      "old": 5.6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ParallelRetrogressionGameVer.Tetrajectory.0": {
+    "songName": "Parallel Retrogression(Game Ver.)",
+    "EZ": {
+      "old": 6.8,
+      "new": 7
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "parsey.siqlo.0": {
+    "songName": "ρars/ey",
+    "EZ": {
+      "old": 3.1,
+      "new": 3
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "PixelRebelz.Normal1zer.0": {
+    "songName": "Pixel Rebelz",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.2,
+      "new": 15.1
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Poseidon.1112vsStar.0": {
+    "songName": "Ποσειδών",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "PRAW.Bluewind.0": {
+    "songName": "[PRAW]",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.9,
+      "new": 15.1
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Protoflicker.Silentroom.0": {
+    "songName": "Protoflicker",
+    "EZ": {
+      "old": 3.6,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "RainySeason.AbyssIdols.0": {
+    "songName": "Rainy Season",
+    "EZ": {
+      "old": 5.4,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Re_NascencePsystyleVer.Rinth_live.0": {
+    "songName": "Re_Nascence (Psystyle Ver.)",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Reimei.影虎.0": {
+    "songName": "Reimei",
+    "EZ": {
+      "old": 6.8,
+      "new": 7
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "RESSiSTANCE.ぐるたみん.0": {
+    "songName": "RESSiSTANCE",
+    "EZ": {
+      "old": 6.1,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "RIPPER.Friedwav.0": {
+    "songName": "RIPPER",
+    "EZ": {
+      "old": 7.8,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Rrharil.TeamGrimoire.0": {
+    "songName": "Rrhar'il",
+    "EZ": {
+      "old": 7.2,
+      "new": 7
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "RubbishSorting.CtymaxvsNceS.0": {
+    "songName": "Rubbish Sorting",
+    "EZ": {
+      "old": 3.3,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0": {
+    "songName": "Sein",
+    "EZ": {
+      "old": 4.6,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Shadow.SumaiLightvs姜米條.0": {
+    "songName": "Shadow",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "SIGMA.Kryexe.0": {
+    "songName": "SIGMA",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "SnowDesert.WyvernP.0": {
+    "songName": "Snow Desert",
+    "EZ": {
+      "old": 5.1,
+      "new": 5
+    },
+    "HD": {
+      "old": 9.6,
+      "new": 10.3
+    },
+    "IN": {
+      "old": 13.6,
+      "new": 13.3
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "SparkleNewLife.rider.0": {
+    "songName": "Sparkle New Life",
+    "EZ": {
+      "old": 4.2,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Spasmodic.姜米條颶風元力上人.0": {
+    "songName": "Spasmodic",
+    "EZ": {
+      "old": 7.9,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 16.4,
+      "new": 16.3
+    }
+  },
+  "SpeedUp.DarTokki.0": {
+    "songName": "Speed Up!",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Starduster.Quree.0": {
+    "songName": "Starduster",
+    "EZ": {
+      "old": 5.6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Stasis.Maozon.0": {
+    "songName": "Stasis",
+    "EZ": {
+      "old": 5.2,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "SultanRage.MonstDeath.0": {
+    "songName": "Sultan Rage",
+    "EZ": {
+      "old": 3.9,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "SURREALISM.Itsuki.0": {
+    "songName": "-SURREALISM-",
+    "EZ": {
+      "old": 4.6,
+      "new": 5
+    },
+    "HD": {
+      "old": 7.7,
+      "new": 9.4
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "TheMountainEater.PaulBazooka.0": {
+    "songName": "The Mountain Eater",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0": {
+    "songName": "Time to Night Sky (feat. Lee Yu Jin)",
+    "EZ": {
+      "old": 2.7,
+      "new": 2.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Trane.MALVA.0": {
+    "songName": "Träne",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 6.7,
+      "new": 6.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "UnorthodoxThoughts.Joulez.0": {
+    "songName": "Unorthodox Thoughts",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.4,
+      "new": 13.9
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "volcanic.DETROakaルゼ.0": {
+    "songName": "volcanic",
+    "EZ": {
+      "old": 7.3,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Wavetapper.Frums.0": {
+    "songName": "Wavetapper",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 6.9,
+      "new": 7
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Wintercube.CtymaxfeatNceS.0": {
+    "songName": "Winter ↑cube↓",
+    "EZ": {
+      "old": 6.7,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "YouaretheMiserable.tpazolite.0": {
+    "songName": "You are the Miserable",
+    "EZ": {
+      "old": 5.8,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "いざ参ります.Uskefeat棗いつき.0": {
+    "songName": "いざ、参ります",
+    "EZ": {
+      "old": 4.1,
+      "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.1,
+      "new": 14.8
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ジングルベルJingleBell.A39沙包P.0": {
+    "songName": "ジングルベル(Jingle Bell)",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 7.2,
+      "new": 7
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "もぺもぺ.LeaF.0": {
+    "songName": "もぺもぺ",
+    "EZ": {
+      "old": 3.4,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "大和撫子WildDances.adapatorvsDRIVE.0": {
+    "songName": "大和撫子 -Wild Dances-",
+    "EZ": {
+      "old": 5.7,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "风屿.闫东炜.0": {
+    "songName": "风屿",
+    "EZ": {
+      "old": 5.9,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "光.姜米條.0": {
+    "songName": "光",
+    "EZ": {
+      "old": 4.9,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "華灯爱.闫东炜.0": {
+    "songName": "華灯爱",
+    "EZ": {
+      "old": 5.5,
+      "new": 6
+    },
+    "HD": {
+      "old": 9.3,
+      "new": 9.6
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "混乱Confusion.OnlyMyBlackScore.0": {
+    "songName": "混乱-Confusion",
+    "EZ": {
+      "old": 5.3,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "开心病.闫东炜.0": {
+    "songName": "开心病",
+    "EZ": {
+      "old": 3.7,
+      "new": 6
+    },
+    "HD": {
+      "old": 9.8,
+      "new": 11.5
+    },
+    "IN": {
+      "old": 14.4,
+      "new": 14.2
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "狂喜蘭舞.LeaF.0": {
+    "songName": "狂喜蘭舞",
+    "EZ": {
+      "old": 6.8,
+      "new": 7
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "青芽.茶鸣拾贰律.0": {
+    "songName": "青芽",
+    "EZ": {
+      "old": 5.2,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "万吨匿名信.闫东炜.0": {
+    "songName": "万吨匿名信",
+    "EZ": {
+      "old": 5.7,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "望影の方舟Six.SeURa.0": {
+    "songName": "望影の方舟Six",
+    "EZ": {
+      "old": 6.3,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "心之所向.姜米條.0": {
+    "songName": "心之所向",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "雪降りメリクリ.A39.0": {
+    "songName": "雪降り、メリクリ",
+    "EZ": {
+      "old": 5.6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "桜樹街道.kozatosnow.0": {
+    "songName": "桜樹街道",
+    "EZ": {
+      "old": 3.6,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 7.4,
+      "new": 7.5
+    },
+    "IN": {
+      "old": 12.6,
+      "new": 13.4
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "萤火虫の怨.闫东炜.0": {
+    "songName": "萤火虫の怨",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "游园地.椒盐菠萝.0": {
+    "songName": "游园地",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 7.7,
+      "new": 7.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "月下缭乱.月見静華vsLUNARiUM.0": {
+    "songName": "月下缭乱",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "云女孩.符白牙SiYFics.0": {
+    "songName": "云女孩",
+    "EZ": {
+      "old": 2.8,
+      "new": 3
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "盏茗.茶鸣拾贰律.0": {
+    "songName": "盏茗",
+    "EZ": {
+      "old": 2.1,
+      "new": 2
+    },
+    "HD": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "重生.姜米條.0": {
+    "songName": "重生",
+    "EZ": {
+      "old": 5.8,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "尊師TheGuru.rider.0": {
+    "songName": "尊師 ～The Guru～",
+    "EZ": {
+      "old": 3.6,
+      "new": 6
+    },
+    "HD": {
+      "old": 9.4,
+      "new": 11.6
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  }
+}
