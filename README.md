@@ -53,8 +53,8 @@
 
 ## 许可与出处
 
-- 远程 `main` 根部的 [`LICENSE`](https://github.com/DaogeMM/daogemm.github.io/blob/main/LICENSE) 是 **Unlicense**（公有领域），随站点一起分发。
-- **噪域画笔的着色器移植自 [Phira-Pro](https://github.com/Phira-Pro/Phira-Pro)（GPL-3.0）**：`vue/src/assets/shaders/blockEffectShaders.js`、`vue/src/views/tool/noisePainter.vue` 与同目录 `noisePainter/consts.js` 里的 GLSL、遮罩膨胀 / 环带提取逻辑与材质参数，来自 Phira-Pro 的 `prpr/src/core/block_shader_full.frag` 与 `prpr/src/core/block_shader.rs`（源自 prpr 的 block-area 效果实现），按 **GPL-3.0** 使用与再分发；页面外壳、交互与界面是本站自己写的。商用或再分发时请保留此声明与 GPL-3.0 的相应义务。
+- 本仓库（源码与站点）以 **GPL-3.0** 分发，全文见根目录的 [`LICENSE`](https://github.com/DaogeMM/daogemm.github.io/blob/main/LICENSE)，它随站点一起发布。
+- **噪域画笔的着色器移植自 [Phira-Pro](https://github.com/Phira-Pro/Phira-Pro)（GPL-3.0）**：`vue/src/assets/shaders/blockEffectShaders.js`、`vue/src/views/tool/noisePainter.vue` 与同目录 `noisePainter/consts.js` 里的 GLSL、遮罩膨胀 / 环带提取逻辑与材质参数，来自 Phira-Pro 的 `prpr/src/core/block_shader_full.frag` 与 `prpr/src/core/block_shader.rs`（源自 prpr 的 block-area 效果实现）；页面外壳、交互与界面是本站自己写的。这部分与本仓库同为 GPL-3.0，再分发时保留本声明即可。
 - 曲绘、曲名、谱面数据与定数等内容的版权归 **Pigeon Games（Phigros）** 所有；本项目只做非官方的整理与展示，不声称任何授权或代理关系，权利人如要求会立即移除相关内容。
 - **非官方**：与 Pigeon Games、TeamFlos（Phira）均无隶属、授权或赞助关系；相关游戏名与商标归各自权利人。
 - 曲绘是全量入库的（约 820 MB 原始图片），clone 会慢，这是有意的取舍。
