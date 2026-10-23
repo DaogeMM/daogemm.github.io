@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpcs"]=self["webpackChunkpcs"]||[]).push([[1],{918(s,e,t){t.r(e),t.d(e,{default:()=>i});var a=t(641);const c={class:"start-page"};function l(s,e){return(0,a.uX)(),(0,a.CE)("div",c,[...e[0]||(e[0]=[(0,a.Lk)("div",{class:"title-group"},[(0,a.Lk)("h1",{class:"page-title"},"DPTool"),(0,a.Lk)("p",{class:"page-subtitle"}," 您的 Phigros 助手 ")],-1)])])}var p=t(262);const r={},u=(0,p.A)(r,[["render",l],["__scopeId","data-v-0e01f400"]]),i=u}}]);
+//# sourceMappingURL=page-start.0a364db1.js.map

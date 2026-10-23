@@ -38,10 +38,10 @@
 | 定数变更 | `#/lvmdfList` | 按版本查看定数变化，共 11 个版本（1.5.0 → 3.20.0） |
 | 年度爱曲 | `#/yfpsList` | 2020–2026 每年一份年度曲目列表，按年份切换 |
 | 猜曲游戏 | `#/guessGame` | 「连字猜曲 / 开字猜曲」两种模式；可调网格大小、选曲数量、非英文曲名、字母全大写，一键生成字谜 |
-| 噪域画笔 | `#/noisePainter` | WebGL 图片噪点化编辑器：导入图片、画笔 / 矩形 / 直线 / 填充 / 橡皮 / 移动、撤销重做、清空、动画播放、参数面板、导出 PNG |
-| 联机模拟 | `#/gui/phiLink` | 连线工具；入口在导航里被注释隐藏，取消 `Layout.vue` 里那行注释即可恢复 |
+| 噪域画笔 | `#/noisePainter` | WebGL 图片噪点化编辑器：导入图片、画笔 / 矩形 / 直线 / 填充 / 橡皮 / 移动、撤销重做、清空、动画播放、参数面板、导出 PNG。着色器与遮罩管线移植自 **Phira-Pro**（GPL-3.0），见[许可与出处](#许可与出处) |
+| 联机模拟 | `#/gui/phiLink` | 连线工具；入口在导航里被注释隐藏，取消 `vue/src/layout/Layout.vue` 里那行注释即可恢复 |
 
-另外全站有个**截图按钮**（`components/pageShot.vue` + `html2canvas`），能把自己正在看的页面导成图片。
+另外全站有个**截图按钮**（`vue/src/components/ui/pageShot.vue` + `html2canvas`），能把自己正在看的页面导成图片。
 
 ## 内容都在哪
 
@@ -54,6 +54,7 @@
 ## 许可与出处
 
 - 远程 `main` 根部的 [`LICENSE`](https://github.com/DaogeMM/daogemm.github.io/blob/main/LICENSE) 是 **Unlicense**（公有领域），随站点一起分发。
+- **噪域画笔的着色器移植自 [Phira-Pro](https://github.com/Phira-Pro/Phira-Pro)（GPL-3.0）**：`vue/src/assets/shaders/blockEffectShaders.js`、`vue/src/views/tool/noisePainter.vue` 与同目录 `noisePainter/consts.js` 里的 GLSL、遮罩膨胀 / 环带提取逻辑与材质参数，来自 Phira-Pro 的 `prpr/src/core/block_shader_full.frag` 与 `prpr/src/core/block_shader.rs`（源自 prpr 的 block-area 效果实现），按 **GPL-3.0** 使用与再分发；页面外壳、交互与界面是本站自己写的。商用或再分发时请保留此声明与 GPL-3.0 的相应义务。
 - 曲绘、曲名、谱面数据与定数等内容的版权归 **Pigeon Games（Phigros）** 所有；本项目只做非官方的整理与展示，不声称任何授权或代理关系，权利人如要求会立即移除相关内容。
 - **非官方**：与 Pigeon Games、TeamFlos（Phira）均无隶属、授权或赞助关系；相关游戏名与商标归各自权利人。
 - 曲绘是全量入库的（约 820 MB 原始图片），clone 会慢，这是有意的取舍。
