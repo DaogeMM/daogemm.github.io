@@ -4508,6 +4508,14 @@
         }
     },
     "Simon_Axis": {
+        "000AinSophAur.Yumeji.0": {
+            "name": "000 -Ain Soph Aur-",
+            "IN": {
+                "lvl": "14.4",
+                "charter": "啊0哒0咔0哟 & Dilated",
+                "tcharter": "啊哒咔哟 & Simon_Axis"
+            }
+        },
         "ATHAZA.LeaF.0": {
             "name": "ATHAZA",
             "IN": {
@@ -4543,7 +4551,7 @@
         "ExoplanetaryMirage.かめりあ.0": {
             "name": "Exoplanetary Mirage",
             "IN": {
-                "lvl": "16.8",
+                "lvl": "16.9",
                 "charter": "Orbital Velocity: 16.700 km/s",
                 "tcharter": "Simon_Axis"
             }
@@ -7171,7 +7179,7 @@
             "IN": {
                 "lvl": "14.4",
                 "charter": "啊0哒0咔0哟 & Dilated",
-                "tcharter": "啊哒咔哟"
+                "tcharter": "啊哒咔哟 & Simon_Axis"
             }
         },
         "70MinutesFighters.かたぎり.0": {

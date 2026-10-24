@@ -1,0 +1,16 @@
+/*
+ * 界面字体：Phigros 游戏字体（public/assets/part/P.ttf，8.4 MB）。
+ *
+ * 放在 public 里而不是 src 里，是为了让 index.html 直接 <link> 过来：
+ * 这个文件是「原样复制」的静态资源，走 webpack 的 url() 会被当成模块去解析（css-loader 报
+ * Cannot find module '/assets/part/P.ttf'），而放 public 又能避免把 8.4 MB 再复制一份进 src。
+ *
+ * font-display: swap —— 字体没下完时先用系统字体出字，下完再换，不挡首屏。
+ */
+@font-face {
+  font-family: 'PFont';
+  src: url('/assets/part/P.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

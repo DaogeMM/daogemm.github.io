@@ -1,4 +1,55 @@
 {
+  "GungnirFracture.Kryexe.0": {
+    "songName": "[决赛曲] Gungnir Fracture",
+    "Composer": "Kry.exe",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.6
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "夢の降る日に.seatrus.0": {
+    "songName": "[决赛曲] 夢の降る日に",
+    "Composer": "seatrus",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 16.6
+    },
+    "AT": {
+      "Level": 0
+    }
+  },
+  "DerSchneid.Ωμεγα.0": {
+    "songName": "[决赛曲] Der Schneid",
+    "Composer": "Ωμεγα",
+    "Type": 0,
+    "EZ": {
+      "Level": 0
+    },
+    "HD": {
+      "Level": 0
+    },
+    "IN": {
+      "Level": 0
+    },
+    "AT": {
+      "Level": 17.5
+    }
+  },
   "DistortedFate.Sakuzyo.0": {
     "songName": "Distorted Fate",
     "Composer": "Sakuzyo",

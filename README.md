@@ -1,6 +1,6 @@
 # DPTool
 
-**Phigros 数据与工具站** —— 纯静态前端，没有后端、没有数据库，运行时只读静态 JSON 和曲绘。
+**Phigros 工具站** —— 纯静态前端，没有后端、没有数据库，运行时只读静态 JSON 和曲绘。
 
 > [!WARNING]
 > **本项目是 vibe coding 的产物。** 代码、文档与重构大量由 AI 生成 —— 用的是 **DeepSeek V4.1 Flash**（DeepSeek 官方 API，模型 id `deepseek-flash`），人类作者负责提需求、做决定与验收。AI 输出**可能包含错误、过时或不准确的内容**，一切以仓库里的代码和你在线上 / 本机的实测结果为准；改动曲目数据前请自己对一遍游戏内数值。曲绘、曲名与谱面数据的版权归 Pigeon Games，本项目只做非官方整理。
@@ -12,7 +12,7 @@
 
 ## 功能
 
-顶部导航分三组。
+顶部是一级导航（曲目 / 列表 / PMT / 工具 / 数据），当前一级下的条目列在左侧栏；「关于本站」固定在侧栏左下角。
 
 ### 数据查询
 
@@ -43,6 +43,14 @@
 
 另外全站有个**截图按钮**（`vue/src/components/ui/pageShot.vue` + `html2canvas`），能把自己正在看的页面导成图片。
 
+### 关于
+
+| 页面 | 路由 | 说明 |
+| --- | --- | --- |
+| 关于本站 | `#/about` | 站点定位、致谢、引用项目、开源许可、第三方素材、开发方式、非官方声明，页脚是仓库 / 许可 / 反馈入口 |
+
+列表页的卡片都可以点开进单曲详情。
+
 ## 内容都在哪
 
 | 路径 | 内容 |
@@ -55,6 +63,7 @@
 
 - 本仓库（源码与站点）以 **GPL-3.0** 分发，全文见根目录的 [`LICENSE`](https://github.com/DaogeMM/daogemm.github.io/blob/main/LICENSE)，它随站点一起发布。
 - **噪域画笔的着色器移植自 [Phira-Pro](https://github.com/Phira-Pro/Phira-Pro)（GPL-3.0）**：`vue/src/assets/shaders/blockEffectShaders.js`、`vue/src/views/tool/noisePainter.vue` 与同目录 `noisePainter/consts.js` 里的 GLSL、遮罩膨胀 / 环带提取逻辑与材质参数，来自 Phira-Pro 的 `prpr/src/core/block_shader_full.frag` 与 `prpr/src/core/block_shader.rs`（源自 prpr 的 block-area 效果实现）；页面外壳、交互与界面是本站自己写的。这部分与本仓库同为 GPL-3.0，再分发时保留本声明即可。
+- 界面图标用 **Material Design Icons**（Pictogrammers，Apache-2.0），只取在用的十几枚字形：字体是 `vue/public/assets/fonts/materialdesignicons-webfont.woff2`，字形码表在 `vue/public/icons.css`。
 - 曲绘、曲名、谱面数据与定数等内容的版权归 **Pigeon Games（Phigros）** 所有；本项目只做非官方的整理与展示，不声称任何授权或代理关系，权利人如要求会立即移除相关内容。
 - **非官方**：与 Pigeon Games、TeamFlos（Phira）均无隶属、授权或赞助关系；相关游戏名与商标归各自权利人。
 - 曲绘是全量入库的（约 820 MB 原始图片），clone 会慢，这是有意的取舍。

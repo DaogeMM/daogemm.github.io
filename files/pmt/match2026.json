@@ -662,33 +662,6 @@
           "result": "T",
           "status": "晋级"
         },
-        "肥皂泡哦": {
-          "player": {
-            "name": "肥皂泡哦",
-            "id": "肥皂泡哦",
-            "uid": "608799006",
-            "rank": 48
-          },
-          "scores": [
-            991076,
-            997564,
-            996663,
-            997810
-          ],
-          "total_score": 3983113,
-          "result": "F",
-          "status": "淘汰"
-        }
-      },
-      "charts": [
-        "Distorted Fate [AT]",
-        "Xep+ion [IN]",
-        "Incyde [IN]",
-        "Temporal Shifting [IN]"
-      ]
-    },
-    "fatkunC": {
-      "players": {
         "xeqonb": {
           "player": {
             "name": "xeqonb",
@@ -703,6 +676,23 @@
             998175
           ],
           "total_score": 3989440,
+          "result": "F",
+          "status": "淘汰"
+        },
+        "肥皂泡哦": {
+          "player": {
+            "name": "肥皂泡哦",
+            "id": "肥皂泡哦",
+            "uid": "608799006",
+            "rank": 48
+          },
+          "scores": [
+            991076,
+            997564,
+            996663,
+            997810
+          ],
+          "total_score": 3983113,
           "result": "F",
           "status": "淘汰"
         }

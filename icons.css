@@ -1,0 +1,58 @@
+/*
+ * Material Design Icons（Pictogrammers，Apache-2.0）—— 只取本站在用的那十几枚。
+ *
+ * 为什么不整份引 @mdi/font：完整 CSS 约 400KB、字体 1.2MB，而站点只用 17 枚字形，
+ * 所以复用同一个 woff2，只手写需要的 .mdi-*::before。
+ * 加新图标：从 @mdi/font 的 materialdesignicons.css 里抄对应的 content 码，补一条即可。
+ */
+
+@font-face {
+  font-family: "Material Design Icons";
+  src: url("/assets/fonts/materialdesignicons-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.mdi::before,
+.mdi-set {
+  display: inline-block;
+  font: normal normal normal 24px/1 "Material Design Icons";
+  font-size: inherit;
+  text-rendering: auto;
+  line-height: inherit;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 侧栏条目 */
+.mdi-music-note::before { content: "\F0387"; }
+.mdi-table-large::before { content: "\F04F1"; }
+.mdi-star-outline::before { content: "\F04D2"; }
+.mdi-speedometer::before { content: "\F04C5"; }
+.mdi-pencil-outline::before { content: "\F0CB6"; }
+.mdi-view-grid-outline::before { content: "\F11D9"; }
+.mdi-flag-outline::before { content: "\F023D"; }
+.mdi-layers-outline::before { content: "\F09FE"; }
+.mdi-brush::before { content: "\F00E3"; }
+.mdi-lightbulb-on-outline::before { content: "\F06E9"; }
+.mdi-history::before { content: "\F02DA"; }
+.mdi-heart-outline::before { content: "\F02D5"; }
+.mdi-information-outline::before { content: "\F02FD"; }
+
+/* 页脚与关于页的外链图标 */
+.mdi-github::before { content: "\F02A4"; }
+.mdi-license::before { content: "\F0FC3"; }
+.mdi-message-alert-outline::before { content: "\F0A04"; }
+
+/* 分组标题与侧栏折叠（DPRecorder 同款方向：收起/展开用上下箭头，边栏用左右箭头） */
+.mdi-chevron-up::before { content: "\F0143"; }
+.mdi-chevron-down::before { content: "\F0140"; }
+.mdi-chevron-left::before { content: "\F0141"; }
+.mdi-menu::before { content: "\F035C"; }
+.mdi-chevron-right::before { content: "\F0142"; }
+.mdi-format-list-bulleted::before { content: "\F0279"; }
+.mdi-close::before { content: "\F0156"; }
+.mdi-format-list-numbered::before { content: "\F027B"; }
+.mdi-metronome::before { content: "\F07DA"; }
+.mdi-account-edit-outline::before { content: "\F0FFB"; }
