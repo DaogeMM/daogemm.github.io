@@ -39,6 +39,7 @@
 | 年度爱曲 | `#/yfpsList` | 2020–2026 每年一份年度曲目列表，按年份切换 |
 | 猜曲游戏 | `#/guessGame` | 「连字猜曲 / 开字猜曲」两种模式；可调网格大小、选曲数量、非英文曲名、字母全大写，一键生成字谜 |
 | 噪域画笔 | `#/noisePainter` | WebGL 图片噪点化编辑器：导入图片、画笔 / 矩形 / 直线 / 填充 / 橡皮 / 移动、撤销重做、清空、动画播放、参数面板、导出 PNG。着色器与遮罩管线移植自 **Phira-Pro**（GPL-3.0），见[许可与出处](#许可与出处) |
+| 突脸数字 | `#/signalNumber` | 复刻 Phigros 主线第九章开场「难度提升」的 1920×1080 演出：同屏 / 单画面预览、时间轴播放与参考静帧、文本选项、90 项画面参数、16:9 / 4:3 画幅，可导出 GIF 或 PNG 帧序列。渲染引擎移植自 **signal-replica**（MIT），见[许可与出处](#许可与出处) |
 | 联机模拟 | `#/gui/phiLink` | 连线工具；入口在导航里被注释隐藏，取消 `vue/src/layout/Layout.vue` 里那行注释即可恢复 |
 
 另外全站有个**截图按钮**（`vue/src/components/ui/pageShot.vue` + `html2canvas`），能把自己正在看的页面导成图片。
@@ -64,6 +65,7 @@
 - 本仓库（源码与站点）以 **GPL-3.0** 分发，全文见根目录的 [`LICENSE`](https://github.com/DaogeMM/daogemm.github.io/blob/main/LICENSE)，它随站点一起发布。
 - **噪域画笔的着色器移植自 [Phira-Pro](https://github.com/Phira-Pro/Phira-Pro)（GPL-3.0）**：`vue/src/assets/shaders/blockEffectShaders.js`、`vue/src/views/tool/noisePainter.vue` 与同目录 `noisePainter/consts.js` 里的 GLSL、遮罩膨胀 / 环带提取逻辑与材质参数，来自 Phira-Pro 的 `prpr/src/core/block_shader_full.frag` 与 `prpr/src/core/block_shader.rs`（源自 prpr 的 block-area 效果实现）；页面外壳、交互与界面是本站自己写的。这部分与本仓库同为 GPL-3.0，再分发时保留本声明即可。
 - 界面图标用 **Material Design Icons**（Pictogrammers，Apache-2.0），只取在用的十几枚字形：字体是 `vue/public/assets/fonts/materialdesignicons-webfont.woff2`，字形码表在 `vue/public/icons.css`。
+- **突脸数字的渲染引擎移植自 [signal-replica](https://github.com/Lylighte/signal-replica)（MIT）**：`vue/src/views/tool/signalNumber/bilitoy/` 里的 `engine.js`、`design.js`、`config.js`、`frame-export.js`、`gif-*.js`、`screen-curve.js`、`signal-distortion.js` 与数字的字形光栅化方式来自该仓库的 `bilitoy` 分支（上游复刻 Phigros 主线第九章开场动画）；页面外壳、交互与站点集成是本站重写的。上游许可全文随代码保留在 `vue/src/views/tool/signalNumber/bilitoy/LICENSE-bilitoy.txt`；Saira 字体按 SIL OFL 分发，全文在 `vue/public/assets/part/Saira-OFL.txt`。
 - 曲绘、曲名、谱面数据与定数等内容的版权归 **Pigeon Games（Phigros）** 所有；本项目只做非官方的整理与展示，不声称任何授权或代理关系，权利人如要求会立即移除相关内容。
 - **非官方**：与 Pigeon Games、TeamFlos（Phira）均无隶属、授权或赞助关系；相关游戏名与商标归各自权利人。
 - 曲绘是全量入库的（约 820 MB 原始图片），clone 会慢，这是有意的取舍。
