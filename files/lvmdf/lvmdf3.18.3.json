@@ -322,25 +322,6 @@
       "new": 0
     }
   },
-  "slips.rintarosoma.0": {
-    "songName": "sølips",
-    "EZ": {
-      "old": 7.5,
-      "new": 6
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.8,
-      "new": 16
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "StardustRAY.kanonevsBlackY.0": {
     "songName": "Stardust:RAY",
     "EZ": {
@@ -354,6 +335,25 @@
     "IN": {
       "old": 0,
       "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "slips.rintarosoma.0": {
+    "songName": "sølips",
+    "EZ": {
+      "old": 7.5,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.8,
+      "new": 16
     },
     "AT": {
       "old": 0,
@@ -417,25 +417,6 @@
       "new": 0
     }
   },
-  "贝多芬祝福BeethovenBlessing.Nauts.0": {
-    "songName": "贝多芬祝福 (Beethoven Blessing)",
-    "EZ": {
-      "old": 5,
-      "new": 4.5
-    },
-    "HD": {
-      "old": 10.8,
-      "new": 10.3
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "彩.MisoilePunch.0": {
     "songName": "彩",
     "EZ": {
@@ -468,6 +449,25 @@
     "IN": {
       "old": 13.6,
       "new": 13.8
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "贝多芬祝福BeethovenBlessing.Nauts.0": {
+    "songName": "贝多芬祝福 (Beethoven Blessing)",
+    "EZ": {
+      "old": 5,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 10.8,
+      "new": 10.3
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
     },
     "AT": {
       "old": 0,

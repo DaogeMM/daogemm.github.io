@@ -1,0 +1,95 @@
+{
+  "Doppelganger.LeaF.0": {
+    "songName": "Doppelganger",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    },
+    "Legacy": {
+      "old": 13.3,
+      "new": 13
+    }
+  },
+  "MARENOL.LeaF.0": {
+    "songName": "MARENOL",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    },
+    "Legacy": {
+      "old": 14.5,
+      "new": 14
+    }
+  },
+  "万吨匿名信.闫东炜.0": {
+    "songName": "万吨匿名信",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    },
+    "Legacy": {
+      "old": 13.6,
+      "new": 13
+    },
+    "ill": -2
+  },
+  "萤火虫の怨.闫东炜.0": {
+    "songName": "萤火虫の怨",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    },
+    "Legacy": {
+      "old": 13.4,
+      "new": 13
+    }
+  }
+}

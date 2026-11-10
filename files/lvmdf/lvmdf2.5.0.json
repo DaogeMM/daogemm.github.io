@@ -1,6 +1,25 @@
 {
+  "SURREALISM.Itsuki.0": {
+    "songName": "-SURREALISM-",
+    "EZ": {
+      "old": 4.6,
+      "new": 5
+    },
+    "HD": {
+      "old": 7.7,
+      "new": 9.4
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "996.李化禹.0": {
-    "songName": 996,
+    "songName": "996",
     "EZ": {
       "old": 3.8,
       "new": 4
@@ -12,6 +31,25 @@
     "IN": {
       "old": 14.5,
       "new": 14.6
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "PRAW.Bluewind.0": {
+    "songName": "[PRAW]",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.9,
+      "new": 15.1
     },
     "AT": {
       "old": 0,
@@ -56,15 +94,15 @@
       "new": 0
     }
   },
-  "AnotherMe.DAAN.0": {
+  "AnotherMe.NeutralMoon.0": {
     "songName": "Another Me",
     "EZ": {
-      "old": 4.8,
-      "new": 5
+      "old": 1.7,
+      "new": 5.5
     },
     "HD": {
-      "old": 0,
-      "new": 0
+      "old": 5.6,
+      "new": 9.2
     },
     "IN": {
       "old": 0,
@@ -75,15 +113,15 @@
       "new": 0
     }
   },
-  "AnotherMe.NeutralMoon.0": {
+  "AnotherMe.DAAN.0": {
     "songName": "Another Me",
     "EZ": {
-      "old": 1.7,
-      "new": 5.5
+      "old": 4.8,
+      "new": 5
     },
     "HD": {
-      "old": 5.6,
-      "new": 9.2
+      "old": 0,
+      "new": 0
     },
     "IN": {
       "old": 0,
@@ -189,10 +227,10 @@
       "new": 0
     }
   },
-  "Aventyr.GrandThawRigelTheatre.0": {
-    "songName": "Äventyr",
+  "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0": {
+    "songName": "Believe Light (feat. 果丸哒呦)",
     "EZ": {
-      "old": 2.3,
+      "old": 2.7,
       "new": 2.5
     },
     "HD": {
@@ -308,6 +346,25 @@
     "EZ": {
       "old": 4.2,
       "new": 4
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "csqn.Aoi.0": {
+    "songName": "c.s.q.n.",
+    "EZ": {
+      "old": 5.1,
+      "new": 5
     },
     "HD": {
       "old": 0,
@@ -574,25 +631,6 @@
     "EZ": {
       "old": 4.3,
       "new": 4.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "csqn.Aoi.0": {
-    "songName": "c.s.q.n.",
-    "EZ": {
-      "old": 5.1,
-      "new": 5
     },
     "HD": {
       "old": 0,
@@ -1025,6 +1063,25 @@
       "new": 0
     }
   },
+  "Feast远东之宴.茶鸣拾贰律.0": {
+    "songName": "Feast远东之宴",
+    "EZ": {
+      "old": 6.6,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "FinalStep.Lime.0": {
     "songName": "Final Step!",
     "EZ": {
@@ -1137,7 +1194,8 @@
     "AT": {
       "old": 0,
       "new": 0
-    }
+    },
+    "ill": -1
   },
   "GetReady.iF.0": {
     "songName": "Get Ready!!",
@@ -1348,11 +1406,11 @@
       "new": 0
     }
   },
-  "Igallta.SeURa.0": {
-    "songName": "Igallta",
+  "IMustSayNo.TangJuan.0": {
+    "songName": "I Must Say No",
     "EZ": {
-      "old": 7.7,
-      "new": 7.5
+      "old": 2.6,
+      "new": 2.5
     },
     "HD": {
       "old": 0,
@@ -1367,11 +1425,11 @@
       "new": 0
     }
   },
-  "IMustSayNo.TangJuan.0": {
-    "songName": "I Must Say No",
+  "Igallta.SeURa.0": {
+    "songName": "Igallta",
     "EZ": {
-      "old": 2.6,
-      "new": 2.5
+      "old": 7.7,
+      "new": 7.5
     },
     "HD": {
       "old": 0,
@@ -1517,7 +1575,8 @@
     "AT": {
       "old": 0,
       "new": 0
-    }
+    },
+    "ill": -1
   },
   "lifeflashesbeforeweebeyes.BilliumMoto.0": {
     "songName": "life flashes before weeb eyes",
@@ -1899,25 +1958,6 @@
       "new": 0
     }
   },
-  "parsey.siqlo.0": {
-    "songName": "ρars/ey",
-    "EZ": {
-      "old": 3.1,
-      "new": 3
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "PixelRebelz.Normal1zer.0": {
     "songName": "Pixel Rebelz",
     "EZ": {
@@ -1937,11 +1977,11 @@
       "new": 0
     }
   },
-  "Poseidon.1112vsStar.0": {
-    "songName": "Ποσειδών",
+  "Pontdessouvenirs.VeetaCrushvsitsufeatitsu.0": {
+    "songName": "Pont des souvenirs",
     "EZ": {
-      "old": 4.7,
-      "new": 4.5
+      "old": 5.7,
+      "new": 5.5
     },
     "HD": {
       "old": 0,
@@ -1950,25 +1990,6 @@
     "IN": {
       "old": 0,
       "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "PRAW.Bluewind.0": {
-    "songName": "[PRAW]",
-    "EZ": {
-      "old": 4.4,
-      "new": 4.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 14.9,
-      "new": 15.1
     },
     "AT": {
       "old": 0,
@@ -2317,25 +2338,6 @@
       "new": 0
     }
   },
-  "SURREALISM.Itsuki.0": {
-    "songName": "-SURREALISM-",
-    "EZ": {
-      "old": 4.6,
-      "new": 5
-    },
-    "HD": {
-      "old": 7.7,
-      "new": 9.4
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "TheMountainEater.PaulBazooka.0": {
     "songName": "The Mountain Eater",
     "EZ": {
@@ -2488,6 +2490,63 @@
       "new": 0
     }
   },
+  "Aventyr.GrandThawRigelTheatre.0": {
+    "songName": "Äventyr",
+    "EZ": {
+      "old": 2.3,
+      "new": 2.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Poseidon.1112vsStar.0": {
+    "songName": "Ποσειδών",
+    "EZ": {
+      "old": 4.7,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "parsey.siqlo.0": {
+    "songName": "ρars/ey",
+    "EZ": {
+      "old": 3.1,
+      "new": 3
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "いざ参ります.Uskefeat棗いつき.0": {
     "songName": "いざ、参ります",
     "EZ": {
@@ -2501,25 +2560,6 @@
     "IN": {
       "old": 15.1,
       "new": 14.8
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "ジングルベルJingleBell.A39沙包P.0": {
-    "songName": "ジングルベル(Jingle Bell)",
-    "EZ": {
-      "old": 4.3,
-      "new": 4.5
-    },
-    "HD": {
-      "old": 7.2,
-      "new": 7
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
     },
     "AT": {
       "old": 0,
@@ -2545,148 +2585,15 @@
       "new": 0
     }
   },
-  "大和撫子WildDances.adapatorvsDRIVE.0": {
-    "songName": "大和撫子 -Wild Dances-",
+  "ジングルベルJingleBell.A39沙包P.0": {
+    "songName": "ジングルベル(Jingle Bell)",
     "EZ": {
-      "old": 5.7,
-      "new": 5.5
+      "old": 4.3,
+      "new": 4.5
     },
     "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "风屿.闫东炜.0": {
-    "songName": "风屿",
-    "EZ": {
-      "old": 5.9,
-      "new": 6
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "光.姜米條.0": {
-    "songName": "光",
-    "EZ": {
-      "old": 4.9,
-      "new": 5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "華灯爱.闫东炜.0": {
-    "songName": "華灯爱",
-    "EZ": {
-      "old": 5.5,
-      "new": 6
-    },
-    "HD": {
-      "old": 9.3,
-      "new": 9.6
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "混乱Confusion.OnlyMyBlackScore.0": {
-    "songName": "混乱-Confusion",
-    "EZ": {
-      "old": 5.3,
-      "new": 5.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "开心病.闫东炜.0": {
-    "songName": "开心病",
-    "EZ": {
-      "old": 3.7,
-      "new": 6
-    },
-    "HD": {
-      "old": 9.8,
-      "new": 11.5
-    },
-    "IN": {
-      "old": 14.4,
-      "new": 14.2
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "狂喜蘭舞.LeaF.0": {
-    "songName": "狂喜蘭舞",
-    "EZ": {
-      "old": 6.8,
+      "old": 7.2,
       "new": 7
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "青芽.茶鸣拾贰律.0": {
-    "songName": "青芽",
-    "EZ": {
-      "old": 5.2,
-      "new": 5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
     },
     "IN": {
       "old": 0,
@@ -2702,139 +2609,6 @@
     "EZ": {
       "old": 5.7,
       "new": 5.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "望影の方舟Six.SeURa.0": {
-    "songName": "望影の方舟Six",
-    "EZ": {
-      "old": 6.3,
-      "new": 6.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "心之所向.姜米條.0": {
-    "songName": "心之所向",
-    "EZ": {
-      "old": 4.4,
-      "new": 4.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "雪降りメリクリ.A39.0": {
-    "songName": "雪降り、メリクリ",
-    "EZ": {
-      "old": 5.6,
-      "new": 5.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "桜樹街道.kozatosnow.0": {
-    "songName": "桜樹街道",
-    "EZ": {
-      "old": 3.6,
-      "new": 3.5
-    },
-    "HD": {
-      "old": 7.4,
-      "new": 7.5
-    },
-    "IN": {
-      "old": 12.6,
-      "new": 13.4
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "萤火虫の怨.闫东炜.0": {
-    "songName": "萤火虫の怨",
-    "EZ": {
-      "old": 4.3,
-      "new": 4.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "游园地.椒盐菠萝.0": {
-    "songName": "游园地",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 7.7,
-      "new": 7.5
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "月下缭乱.月見静華vsLUNARiUM.0": {
-    "songName": "月下缭乱",
-    "EZ": {
-      "old": 4.8,
-      "new": 5
     },
     "HD": {
       "old": 0,
@@ -2868,6 +2642,235 @@
       "new": 0
     }
   },
+  "光.姜米條.0": {
+    "songName": "光",
+    "EZ": {
+      "old": 4.9,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "大和撫子WildDances.adapatorvsDRIVE.0": {
+    "songName": "大和撫子 -Wild Dances-",
+    "EZ": {
+      "old": 5.7,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "尊師TheGuru.rider.0": {
+    "songName": "尊師 ～The Guru～",
+    "EZ": {
+      "old": 3.6,
+      "new": 6
+    },
+    "HD": {
+      "old": 9.4,
+      "new": 11.6
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "开心病.闫东炜.0": {
+    "songName": "开心病",
+    "EZ": {
+      "old": 3.7,
+      "new": 6
+    },
+    "HD": {
+      "old": 9.8,
+      "new": 11.5
+    },
+    "IN": {
+      "old": 14.4,
+      "new": 14.2
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    },
+    "ill": -1
+  },
+  "心之所向.姜米條.0": {
+    "songName": "心之所向",
+    "EZ": {
+      "old": 4.4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "月下缭乱.月見静華vsLUNARiUM.0": {
+    "songName": "月下缭乱",
+    "EZ": {
+      "old": 4.8,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "望影の方舟Six.SeURa.0": {
+    "songName": "望影の方舟Six",
+    "EZ": {
+      "old": 6.3,
+      "new": 6.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "桜樹街道.kozatosnow.0": {
+    "songName": "桜樹街道",
+    "EZ": {
+      "old": 3.6,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 7.4,
+      "new": 7.5
+    },
+    "IN": {
+      "old": 12.6,
+      "new": 13.4
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "混乱Confusion.OnlyMyBlackScore.0": {
+    "songName": "混乱-Confusion",
+    "EZ": {
+      "old": 5.3,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "游园地.椒盐菠萝.0": {
+    "songName": "游园地",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 7.7,
+      "new": 7.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "狂喜蘭舞.LeaF.0": {
+    "songName": "狂喜蘭舞",
+    "EZ": {
+      "old": 6.8,
+      "new": 7
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "瓷岁.茶鸣拾贰律.0": {
+    "songName": "瓷岁",
+    "EZ": {
+      "old": 3.6,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 6.6,
+      "new": 6.5
+    },
+    "IN": {
+      "old": 7.1,
+      "new": 7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "盏茗.茶鸣拾贰律.0": {
     "songName": "盏茗",
     "EZ": {
@@ -2877,6 +2880,44 @@
     "HD": {
       "old": 4.3,
       "new": 4.5
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "華灯爱.闫东炜.0": {
+    "songName": "華灯爱",
+    "EZ": {
+      "old": 5.5,
+      "new": 6
+    },
+    "HD": {
+      "old": 9.3,
+      "new": 9.6
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "萤火虫の怨.闫东炜.0": {
+    "songName": "萤火虫の怨",
+    "EZ": {
+      "old": 4.3,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
     },
     "IN": {
       "old": 0,
@@ -2906,15 +2947,72 @@
       "new": 0
     }
   },
-  "尊師TheGuru.rider.0": {
-    "songName": "尊師 ～The Guru～",
+  "雪降りメリクリ.A39.0": {
+    "songName": "雪降り、メリクリ",
     "EZ": {
-      "old": 3.6,
+      "old": 5.6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "青丘.BLACK0.0": {
+    "songName": "青丘",
+    "EZ": {
+      "old": 5.6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "青芽.茶鸣拾贰律.0": {
+    "songName": "青芽",
+    "EZ": {
+      "old": 5.2,
+      "new": 5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "风屿.闫东炜.0": {
+    "songName": "风屿",
+    "EZ": {
+      "old": 5.9,
       "new": 6
     },
     "HD": {
-      "old": 9.4,
-      "new": 11.6
+      "old": 0,
+      "new": 0
     },
     "IN": {
       "old": 0,

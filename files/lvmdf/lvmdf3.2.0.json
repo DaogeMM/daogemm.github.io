@@ -1,4 +1,23 @@
 {
+  "Arkhei.SeraAmagi.0": {
+    "songName": "-Arkhei-",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 12.1,
+      "new": 12.6
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "AnotherMe.DAAN.0": {
     "songName": "Another Me",
     "EZ": {
@@ -31,25 +50,6 @@
     "IN": {
       "old": 13.6,
       "new": 13.8
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "Arkhei.SeraAmagi.0": {
-    "songName": "-Arkhei-",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 12.1,
-      "new": 12.6
     },
     "AT": {
       "old": 0,
@@ -92,7 +92,8 @@
     "AT": {
       "old": 0,
       "new": 0
-    }
+    },
+    "ill": -1
   },
   "Luminescent.Daison.0": {
     "songName": "Luminescent",
@@ -206,6 +207,7 @@
     "AT": {
       "old": 0,
       "new": 0
-    }
+    },
+    "ill": -1
   }
 }

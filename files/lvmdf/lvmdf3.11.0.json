@@ -1,23 +1,4 @@
 {
-  "996.李化禹.0": {
-    "songName": 996,
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 9.1,
-      "new": 9.4
-    },
-    "IN": {
-      "old": 14.6,
-      "new": 14.7
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "ERABYECONNEC10N.かめりあ.0": {
     "songName": "+ERABY+E CONNEC+10N",
     "EZ": {
@@ -35,6 +16,44 @@
     "AT": {
       "old": 16.5,
       "new": 17.3
+    }
+  },
+  "Arkhei.SeraAmagi.0": {
+    "songName": "-Arkhei-",
+    "EZ": {
+      "old": 6.5,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 9.7,
+      "new": 8.8
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "996.李化禹.0": {
+    "songName": "996",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 9.1,
+      "new": 9.4
+    },
+    "IN": {
+      "old": 14.6,
+      "new": 14.7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
     }
   },
   "atruthseekerCommunicationwithUtopiawillbelost.kuro.0": {
@@ -132,6 +151,25 @@
       "new": 0
     }
   },
+  "AnotherMe.DAAN.0": {
+    "songName": "Another Me",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 9.2,
+      "new": 9.8
+    },
+    "IN": {
+      "old": 15.4,
+      "new": 15.6
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "AnotherRound.JustinDai.0": {
     "songName": "Another Round",
     "EZ": {
@@ -208,25 +246,6 @@
       "new": 0
     }
   },
-  "Arkhei.SeraAmagi.0": {
-    "songName": "-Arkhei-",
-    "EZ": {
-      "old": 6.5,
-      "new": 7.5
-    },
-    "HD": {
-      "old": 9.7,
-      "new": 8.8
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "ArtificialExistence.JunKuroda.0": {
     "songName": "Artificial Existence",
     "EZ": {
@@ -263,25 +282,6 @@
     "AT": {
       "old": 16.2,
       "new": 16.6
-    }
-  },
-  "Aventyr.GrandThawRigelTheatre.0": {
-    "songName": "Äventyr",
-    "EZ": {
-      "old": 3,
-      "new": 3.5
-    },
-    "HD": {
-      "old": 9.4,
-      "new": 9.7
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
     }
   },
   "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0": {
@@ -2545,23 +2545,118 @@
       "new": 0
     }
   },
-  "ReEndofaDream.umavsモリモリあつし.0": {
-    "songName": "Re：End of a Dream",
+  "Random.SobremSilentroom.2": {
+    "songName": "Random [A]",
     "EZ": {
+      "old": 6,
+      "new": 5.5
+    },
+    "HD": {
       "old": 0,
       "new": 0
     },
-    "HD": {
-      "old": 13.1,
-      "new": 13
-    },
     "IN": {
-      "old": 15.6,
-      "new": 15.9
+      "old": 0,
+      "new": 0
     },
     "AT": {
-      "old": 16.4,
-      "new": 16.9
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.4": {
+    "songName": "Random [D]",
+    "EZ": {
+      "old": 6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.6": {
+    "songName": "Random [M]",
+    "EZ": {
+      "old": 6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.3": {
+    "songName": "Random [N]",
+    "EZ": {
+      "old": 6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.5": {
+    "songName": "Random [O]",
+    "EZ": {
+      "old": 6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.1": {
+    "songName": "Random [R]",
+    "EZ": {
+      "old": 6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
     }
   },
   "Re_NascencePsystyleVer.Rinth_live.0": {
@@ -2657,6 +2752,25 @@
     "AT": {
       "old": 0,
       "new": 0
+    }
+  },
+  "ReEndofaDream.umavsモリモリあつし.0": {
+    "songName": "Re：End of a Dream",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 13.1,
+      "new": 13
+    },
+    "IN": {
+      "old": 15.6,
+      "new": 15.9
+    },
+    "AT": {
+      "old": 16.4,
+      "new": 16.9
     }
   },
   "RIPPER.Friedwav.0": {
@@ -3058,25 +3172,6 @@
       "new": 0
     }
   },
-  "Trane.MALVA.0": {
-    "songName": "Träne",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 6.5,
-      "new": 7
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "TriumphRegret.typeMARS.0": {
     "songName": "Triumph & Regret",
     "EZ": {
@@ -3109,6 +3204,25 @@
     "IN": {
       "old": 14.8,
       "new": 15
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Trane.MALVA.0": {
+    "songName": "Träne",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 6.5,
+      "new": 7
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
     },
     "AT": {
       "old": 0,
@@ -3248,6 +3362,25 @@
       "new": 15.8
     }
   },
+  "Aventyr.GrandThawRigelTheatre.0": {
+    "songName": "Äventyr",
+    "EZ": {
+      "old": 3,
+      "new": 3.5
+    },
+    "HD": {
+      "old": 9.4,
+      "new": 9.7
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "parsey.siqlo.0": {
     "songName": "ρars/ey",
     "EZ": {
@@ -3284,6 +3417,44 @@
     "AT": {
       "old": 0,
       "new": 0
+    }
+  },
+  "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0": {
+    "songName": "ぱぴぷぴぷぴぱ",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.5,
+      "new": 15.8
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "もぺもぺ.LeaF.0": {
+    "songName": "もぺもぺ",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 14.9,
+      "new": 15.4
     }
   },
   "インフェルノシティ.Ponchifeatはぁち.0": {
@@ -3343,209 +3514,38 @@
       "new": 0
     }
   },
-  "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0": {
-    "songName": "ぱぴぷぴぷぴぱ",
+  "万吨匿名信.闫东炜.0": {
+    "songName": "万吨匿名信",
     "EZ": {
-      "old": 0,
-      "new": 0
+      "old": 5.5,
+      "new": 4.5
     },
     "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.5,
-      "new": 15.8
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "もぺもぺ.LeaF.0": {
-    "songName": "もぺもぺ",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
+      "old": 9.7,
+      "new": 9.5
     },
     "IN": {
       "old": 0,
       "new": 0
     },
     "AT": {
-      "old": 14.9,
-      "new": 15.4
-    }
-  },
-  "白と黒のバケモノ.テヅカ.0": {
-    "songName": "白と黒のバケモノ",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.7,
-      "new": 15.9
-    },
-    "AT": {
       "old": 0,
       "new": 0
     }
   },
-  "瓷岁.茶鸣拾贰律.0": {
-    "songName": "瓷岁",
+  "云女孩.符白牙SiYFics.0": {
+    "songName": "云女孩",
     "EZ": {
-      "old": 3.5,
+      "old": 3,
       "new": 2
     },
     "HD": {
-      "old": 0,
-      "new": 0
+      "old": 9.9,
+      "new": 8.9
     },
     "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "大和撫子WildDances.adapatorvsDRIVE.0": {
-    "songName": "大和撫子 -Wild Dances-",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 14.8,
-      "new": 15.1
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "风屿.闫东炜.0": {
-    "songName": "风屿",
-    "EZ": {
-      "old": 6,
-      "new": 5.5
-    },
-    "HD": {
-      "old": 10.3,
-      "new": 9.8
-    },
-    "IN": {
-      "old": 13.9,
-      "new": 14
-    },
-    "AT": {
-      "old": 14.8,
-      "new": 15.1
-    }
-  },
-  "光.姜米條.0": {
-    "songName": "光",
-    "EZ": {
-      "old": 2.5,
-      "new": 2
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 12.8,
-      "new": 12.4
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "華灯爱.闫东炜.0": {
-    "songName": "華灯爱",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 10.5,
-      "new": 10.6
-    },
-    "IN": {
-      "old": 14.1,
-      "new": 13.7
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "幻影鬼魅PLEASE.R300K.0": {
-    "songName": "幻影鬼魅 (PLEASE)",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 16.4,
-      "new": 17
-    }
-  },
-  "黄金之城GOLDTOWN.Memme.0": {
-    "songName": "黄金之城 (GOLD TOWN)",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 14.8,
-      "new": 14.7
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "混乱Confusion.OnlyMyBlackScore.0": {
-    "songName": "混乱-Confusion",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 10.6,
-      "new": 10
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
+      "old": 12.6,
+      "new": 12.8
     },
     "AT": {
       "old": 0,
@@ -3571,190 +3571,19 @@
       "new": 0
     }
   },
-  "君往何处QuoVadis.M2U.0": {
-    "songName": "君往何处 (Quo Vadis)",
+  "光.姜米條.0": {
+    "songName": "光",
     "EZ": {
-      "old": 0,
-      "new": 0
+      "old": 2.5,
+      "new": 2
     },
     "HD": {
       "old": 0,
       "new": 0
     },
     "IN": {
-      "old": 14.5,
-      "new": 14.2
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "开心病.闫东炜.0": {
-    "songName": "开心病",
-    "EZ": {
-      "old": 6,
-      "new": 7
-    },
-    "HD": {
-      "old": 11.5,
-      "new": 11.9
-    },
-    "IN": {
-      "old": 14.2,
-      "new": 13.8
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "狂喜蘭舞.LeaF.0": {
-    "songName": "狂喜蘭舞",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 14.5,
-      "new": 14.3
-    },
-    "AT": {
-      "old": 16.1,
-      "new": 16.4
-    }
-  },
-  "零號車輛.seatrus.0": {
-    "songName": "零號車輛",
-    "EZ": {
-      "old": 7,
-      "new": 7.5
-    },
-    "HD": {
-      "old": 12.3,
-      "new": 12.1
-    },
-    "IN": {
-      "old": 15.8,
-      "new": 16.2
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "明鏡烈火.MUEvsRekuMochizuki.0": {
-    "songName": "明鏡烈火",
-    "EZ": {
-      "old": 6.5,
-      "new": 6
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.8,
-      "new": 15.9
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0": {
-    "songName": "祈 -我ら神祖と共に歩む者なり-",
-    "EZ": {
-      "old": 7.5,
-      "new": 7
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.9,
-      "new": 16.4
-    },
-    "AT": {
-      "old": 16.5,
-      "new": 17.3
-    }
-  },
-  "青丘.BLACK0.0": {
-    "songName": "青丘",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.3,
-      "new": 15.5
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "青芽.茶鸣拾贰律.0": {
-    "songName": "青芽",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 10.8,
-      "new": 10.4
-    },
-    "IN": {
-      "old": 14.9,
-      "new": 15.1
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "神話.PicaM2U.0": {
-    "songName": "神話",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 8.9,
-      "new": 8.7
-    },
-    "IN": {
-      "old": 13.6,
-      "new": 13.5
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "聖夜讃歌.A39沙包P.0": {
-    "songName": "聖夜讃歌",
-    "EZ": {
-      "old": 4,
-      "new": 4.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.3,
-      "new": 15.2
+      "old": 12.8,
+      "new": 12.4
     },
     "AT": {
       "old": 0,
@@ -3780,15 +3609,91 @@
       "new": 0
     }
   },
-  "万吨匿名信.闫东炜.0": {
-    "songName": "万吨匿名信",
+  "君往何处QuoVadis.M2U.0": {
+    "songName": "君往何处 (Quo Vadis)",
     "EZ": {
-      "old": 5.5,
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.5,
+      "new": 14.2
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "大和撫子WildDances.adapatorvsDRIVE.0": {
+    "songName": "大和撫子 -Wild Dances-",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.8,
+      "new": 15.1
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "尊師TheGuru.rider.0": {
+    "songName": "尊師 ～The Guru～",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.2,
+      "new": 15.4
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "幻影鬼魅PLEASE.R300K.0": {
+    "songName": "幻影鬼魅 (PLEASE)",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 16.4,
+      "new": 17
+    }
+  },
+  "幽世桔梗.Capchiifeatまるもこ.0": {
+    "songName": "幽世桔梗",
+    "EZ": {
+      "old": 3,
       "new": 4.5
     },
     "HD": {
-      "old": 9.7,
-      "new": 9.5
+      "old": 0,
+      "new": 0
     },
     "IN": {
       "old": 0,
@@ -3799,19 +3704,19 @@
       "new": 0
     }
   },
-  "望影の方舟Six.SeURa.0": {
-    "songName": "望影の方舟Six",
+  "开心病.闫东炜.0": {
+    "songName": "开心病",
     "EZ": {
-      "old": 0,
-      "new": 0
+      "old": 6,
+      "new": 7
     },
     "HD": {
-      "old": 12.1,
+      "old": 11.5,
       "new": 11.9
     },
     "IN": {
-      "old": 15.7,
-      "new": 15.9
+      "old": 14.2,
+      "new": 13.8
     },
     "AT": {
       "old": 0,
@@ -3837,95 +3742,19 @@
       "new": 0
     }
   },
-  "雪降りメリクリ.A39.0": {
-    "songName": "雪降り、メリクリ",
+  "明鏡烈火.MUEvsRekuMochizuki.0": {
+    "songName": "明鏡烈火",
     "EZ": {
-      "old": 5.5,
-      "new": 4.5
-    },
-    "HD": {
-      "old": 10.4,
-      "new": 10.8
-    },
-    "IN": {
-      "old": 15.3,
-      "new": 15.4
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "桜樹街道.kozatosnow.0": {
-    "songName": "桜樹街道",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 7.5,
-      "new": 8.1
-    },
-    "IN": {
-      "old": 13.4,
-      "new": 13
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "萤火虫の怨.闫东炜.0": {
-    "songName": "萤火虫の怨",
-    "EZ": {
-      "old": 4.5,
-      "new": 4
-    },
-    "HD": {
-      "old": 10.6,
-      "new": 9.8
-    },
-    "IN": {
-      "old": 13.1,
-      "new": 13
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "幽世桔梗.Capchiifeatまるもこ.0": {
-    "songName": "幽世桔梗",
-    "EZ": {
-      "old": 3,
-      "new": 4.5
+      "old": 6.5,
+      "new": 6
     },
     "HD": {
       "old": 0,
       "new": 0
     },
     "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "游园地.椒盐菠萝.0": {
-    "songName": "游园地",
-    "EZ": {
-      "old": 3,
-      "new": 2.5
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
+      "old": 15.8,
+      "new": 15.9
     },
     "AT": {
       "old": 0,
@@ -3970,19 +3799,133 @@
       "new": 15.7
     }
   },
-  "云女孩.符白牙SiYFics.0": {
-    "songName": "云女孩",
+  "望影の方舟Six.SeURa.0": {
+    "songName": "望影の方舟Six",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 12.1,
+      "new": 11.9
+    },
+    "IN": {
+      "old": 15.7,
+      "new": 15.9
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "桜樹街道.kozatosnow.0": {
+    "songName": "桜樹街道",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 7.5,
+      "new": 8.1
+    },
+    "IN": {
+      "old": 13.4,
+      "new": 13
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "混乱Confusion.OnlyMyBlackScore.0": {
+    "songName": "混乱-Confusion",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 10.6,
+      "new": 10
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "游园地.椒盐菠萝.0": {
+    "songName": "游园地",
     "EZ": {
       "old": 3,
+      "new": 2.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "狂喜蘭舞.LeaF.0": {
+    "songName": "狂喜蘭舞",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.5,
+      "new": 14.3
+    },
+    "AT": {
+      "old": 16.1,
+      "new": 16.4
+    }
+  },
+  "瓷岁.茶鸣拾贰律.0": {
+    "songName": "瓷岁",
+    "EZ": {
+      "old": 3.5,
       "new": 2
     },
     "HD": {
-      "old": 9.9,
-      "new": 8.9
+      "old": 0,
+      "new": 0
     },
     "IN": {
-      "old": 12.6,
-      "new": 12.8
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "白と黒のバケモノ.テヅカ.0": {
+    "songName": "白と黒のバケモノ",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.7,
+      "new": 15.9
     },
     "AT": {
       "old": 0,
@@ -4008,8 +3951,141 @@
       "new": 0
     }
   },
-  "尊師TheGuru.rider.0": {
-    "songName": "尊師 ～The Guru～",
+  "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0": {
+    "songName": "祈 -我ら神祖と共に歩む者なり-",
+    "EZ": {
+      "old": 7.5,
+      "new": 7
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.9,
+      "new": 16.4
+    },
+    "AT": {
+      "old": 16.5,
+      "new": 17.3
+    }
+  },
+  "神話.PicaM2U.0": {
+    "songName": "神話",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 8.9,
+      "new": 8.7
+    },
+    "IN": {
+      "old": 13.6,
+      "new": 13.5
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "聖夜讃歌.A39沙包P.0": {
+    "songName": "聖夜讃歌",
+    "EZ": {
+      "old": 4,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.3,
+      "new": 15.2
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "華灯爱.闫东炜.0": {
+    "songName": "華灯爱",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 10.5,
+      "new": 10.6
+    },
+    "IN": {
+      "old": 14.1,
+      "new": 13.7
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "萤火虫の怨.闫东炜.0": {
+    "songName": "萤火虫の怨",
+    "EZ": {
+      "old": 4.5,
+      "new": 4
+    },
+    "HD": {
+      "old": 10.6,
+      "new": 9.8
+    },
+    "IN": {
+      "old": 13.1,
+      "new": 13
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "雪降りメリクリ.A39.0": {
+    "songName": "雪降り、メリクリ",
+    "EZ": {
+      "old": 5.5,
+      "new": 4.5
+    },
+    "HD": {
+      "old": 10.4,
+      "new": 10.8
+    },
+    "IN": {
+      "old": 15.3,
+      "new": 15.4
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "零號車輛.seatrus.0": {
+    "songName": "零號車輛",
+    "EZ": {
+      "old": 7,
+      "new": 7.5
+    },
+    "HD": {
+      "old": 12.3,
+      "new": 12.1
+    },
+    "IN": {
+      "old": 15.8,
+      "new": 16.2
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "青丘.BLACK0.0": {
+    "songName": "青丘",
     "EZ": {
       "old": 0,
       "new": 0
@@ -4019,8 +4095,65 @@
       "new": 0
     },
     "IN": {
-      "old": 15.2,
-      "new": 15.4
+      "old": 15.3,
+      "new": 15.5
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "青芽.茶鸣拾贰律.0": {
+    "songName": "青芽",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 10.8,
+      "new": 10.4
+    },
+    "IN": {
+      "old": 14.9,
+      "new": 15.1
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "风屿.闫东炜.0": {
+    "songName": "风屿",
+    "EZ": {
+      "old": 6,
+      "new": 5.5
+    },
+    "HD": {
+      "old": 10.3,
+      "new": 9.8
+    },
+    "IN": {
+      "old": 13.9,
+      "new": 14
+    },
+    "AT": {
+      "old": 14.8,
+      "new": 15.1
+    }
+  },
+  "黄金之城GOLDTOWN.Memme.0": {
+    "songName": "黄金之城 (GOLD TOWN)",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.8,
+      "new": 14.7
     },
     "AT": {
       "old": 0,

@@ -1,4 +1,23 @@
 {
+  "PRAW.Bluewind.0": {
+    "songName": "[PRAW]",
+    "EZ": {
+      "old": 4.5,
+      "new": 6
+    },
+    "HD": {
+      "old": 11.8,
+      "new": 10.6
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "AfterDawn.S9ryne.0": {
     "songName": "After Dawn",
     "EZ": {
@@ -757,7 +776,8 @@
     "AT": {
       "old": 0,
       "new": 0
-    }
+    },
+    "ill": -1
   },
   "Luminescence.米虾Fomiki初云CLoudie.0": {
     "songName": "Luminescence",
@@ -882,44 +902,6 @@
     "HD": {
       "old": 11.9,
       "new": 10.3
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "Poseidon.1112vsStar.0": {
-    "songName": "Ποσειδών",
-    "EZ": {
-      "old": 4.5,
-      "new": 6
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "PRAW.Bluewind.0": {
-    "songName": "[PRAW]",
-    "EZ": {
-      "old": 4.5,
-      "new": 6
-    },
-    "HD": {
-      "old": 11.8,
-      "new": 10.6
     },
     "IN": {
       "old": 0,
@@ -1196,6 +1178,25 @@
       "new": 0
     }
   },
+  "Poseidon.1112vsStar.0": {
+    "songName": "Ποσειδών",
+    "EZ": {
+      "old": 4.5,
+      "new": 6
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "インフェルノシティ.Ponchifeatはぁち.0": {
     "songName": "インフェルノシティ",
     "EZ": {
@@ -1234,25 +1235,6 @@
       "new": 0
     }
   },
-  "风屿.闫东炜.0": {
-    "songName": "风屿",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 13.7,
-      "new": 13.9
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "光.姜米條.0": {
     "songName": "光",
     "EZ": {
@@ -1262,25 +1244,6 @@
     "HD": {
       "old": 8.4,
       "new": 7.5
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "華灯爱.闫东炜.0": {
-    "songName": "華灯爱",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 9.6,
-      "new": 10.5
     },
     "IN": {
       "old": 0,
@@ -1310,19 +1273,19 @@
       "new": 0
     }
   },
-  "青芽.茶鸣拾贰律.0": {
-    "songName": "青芽",
+  "華灯爱.闫东炜.0": {
+    "songName": "華灯爱",
     "EZ": {
       "old": 0,
       "new": 0
     },
     "HD": {
-      "old": 0,
-      "new": 0
+      "old": 9.6,
+      "new": 10.5
     },
     "IN": {
-      "old": 14.7,
-      "new": 14.9
+      "old": 0,
+      "new": 0
     },
     "AT": {
       "old": 0,
@@ -1342,6 +1305,44 @@
     "IN": {
       "old": 14.6,
       "new": 14.4
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "青芽.茶鸣拾贰律.0": {
+    "songName": "青芽",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 14.7,
+      "new": 14.9
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "风屿.闫东炜.0": {
+    "songName": "风屿",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 13.7,
+      "new": 13.9
     },
     "AT": {
       "old": 0,

@@ -56,25 +56,6 @@
       "new": 0
     }
   },
-  "Aventyr.GrandThawRigelTheatre.0": {
-    "songName": "Äventyr",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 9.7,
-      "new": 9.9
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0": {
     "songName": "Believe Light (feat. 果丸哒呦)",
     "EZ": {
@@ -702,6 +683,25 @@
       "new": 0
     }
   },
+  "Aventyr.GrandThawRigelTheatre.0": {
+    "songName": "Äventyr",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 9.7,
+      "new": 9.9
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "Poseidon.1112vsStar.0": {
     "songName": "Ποσειδών",
     "EZ": {
@@ -715,6 +715,25 @@
     "IN": {
       "old": 0,
       "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0": {
+    "songName": "ぱぴぷぴぷぴぱ",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.8,
+      "new": 15.9
     },
     "AT": {
       "old": 0,
@@ -759,8 +778,8 @@
       "new": 0
     }
   },
-  "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0": {
-    "songName": "ぱぴぷぴぷぴぱ",
+  "千紫万紅.r0yvsWABI.0": {
+    "songName": "千紫万紅",
     "EZ": {
       "old": 0,
       "new": 0
@@ -770,46 +789,8 @@
       "new": 0
     },
     "IN": {
-      "old": 15.8,
-      "new": 15.9
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "暗夜苏醒REANIMATE.Warak.0": {
-    "songName": "暗夜苏醒 (REANIMATE)",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.4,
-      "new": 15.3
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "幻影鬼魅PLEASE.R300K.0": {
-    "songName": "幻影鬼魅 (PLEASE)",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 0,
-      "new": 0
-    },
-    "IN": {
-      "old": 15.1,
-      "new": 15.2
+      "old": 15.6,
+      "new": 15.5
     },
     "AT": {
       "old": 0,
@@ -835,6 +816,25 @@
       "new": 0
     }
   },
+  "幻影鬼魅PLEASE.R300K.0": {
+    "songName": "幻影鬼魅 (PLEASE)",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 15.1,
+      "new": 15.2
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "明鏡烈火.MUEvsRekuMochizuki.0": {
     "songName": "明鏡烈火",
     "EZ": {
@@ -854,8 +854,8 @@
       "new": 0
     }
   },
-  "千紫万紅.r0yvsWABI.0": {
-    "songName": "千紫万紅",
+  "暗夜苏醒REANIMATE.Warak.0": {
+    "songName": "暗夜苏醒 (REANIMATE)",
     "EZ": {
       "old": 0,
       "new": 0
@@ -865,16 +865,16 @@
       "new": 0
     },
     "IN": {
-      "old": 15.6,
-      "new": 15.5
+      "old": 15.4,
+      "new": 15.3
     },
     "AT": {
       "old": 0,
       "new": 0
     }
   },
-  "青芽.茶鸣拾贰律.0": {
-    "songName": "青芽",
+  "盏茗.茶鸣拾贰律.0": {
+    "songName": "盏茗",
     "EZ": {
       "old": 0,
       "new": 0
@@ -884,8 +884,8 @@
       "new": 0
     },
     "IN": {
-      "old": 15.1,
-      "new": 15.2
+      "old": 13.3,
+      "new": 13.4
     },
     "AT": {
       "old": 0,
@@ -911,8 +911,8 @@
       "new": 0
     }
   },
-  "盏茗.茶鸣拾贰律.0": {
-    "songName": "盏茗",
+  "青芽.茶鸣拾贰律.0": {
+    "songName": "青芽",
     "EZ": {
       "old": 0,
       "new": 0
@@ -922,8 +922,8 @@
       "new": 0
     },
     "IN": {
-      "old": 13.3,
-      "new": 13.4
+      "old": 15.1,
+      "new": 15.2
     },
     "AT": {
       "old": 0,

@@ -54,7 +54,8 @@
     "AT": {
       "old": 0,
       "new": 0
-    }
+    },
+    "ill": -1
   },
   "Cereris.SunsetRayNceS.0": {
     "songName": "Cereris",
@@ -681,7 +682,8 @@
     "AT": {
       "old": 0,
       "new": 0
-    }
+    },
+    "ill": -1
   },
   "望影の方舟Six.SeURa.0": {
     "songName": "望影の方舟Six",

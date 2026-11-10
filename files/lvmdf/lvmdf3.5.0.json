@@ -1,23 +1,4 @@
 {
-  "996.李化禹.0": {
-    "songName": 996,
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 8.1,
-      "new": 9.1
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
   "ERABYECONNEC10N.かめりあ.0": {
     "songName": "+ERABY+E CONNEC+10N",
     "EZ": {
@@ -31,25 +12,6 @@
     "IN": {
       "old": 15.8,
       "new": 15.9
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "AnotherRound.JustinDai.0": {
-    "songName": "Another Round",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 7.5,
-      "new": 8.7
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
     },
     "AT": {
       "old": 0,
@@ -75,15 +37,34 @@
       "new": 0
     }
   },
-  "Aventyr.GrandThawRigelTheatre.0": {
-    "songName": "Äventyr",
+  "996.李化禹.0": {
+    "songName": "996",
     "EZ": {
-      "old": 2.5,
-      "new": 3
-    },
-    "HD": {
       "old": 0,
       "new": 0
+    },
+    "HD": {
+      "old": 8.1,
+      "new": 9.1
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "AnotherRound.JustinDai.0": {
+    "songName": "Another Round",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 7.5,
+      "new": 8.7
     },
     "IN": {
       "old": 0,
@@ -472,7 +453,8 @@
     "AT": {
       "old": 0,
       "new": 0
-    }
+    },
+    "ill": -1
   },
   "Lyrith迷宮リリス.ユメミド.0": {
     "songName": "Lyrith -迷宮リリス-",
@@ -645,6 +627,120 @@
       "new": 0
     }
   },
+  "Random.SobremSilentroom.2": {
+    "songName": "Random [A]",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 11.1,
+      "new": 12.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.4": {
+    "songName": "Random [D]",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 11.1,
+      "new": 12.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.6": {
+    "songName": "Random [M]",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 11.1,
+      "new": 12.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.3": {
+    "songName": "Random [N]",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 11.1,
+      "new": 12.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.5": {
+    "songName": "Random [O]",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 11.1,
+      "new": 12.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "Random.SobremSilentroom.1": {
+    "songName": "Random [R]",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 11.1,
+      "new": 12.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0": {
     "songName": "Sein",
     "EZ": {
@@ -722,7 +818,7 @@
     }
   },
   "TheChariotREVIIVAL.Attoclef.0": {
-    "songName": "The Chariot ~REVIIVAL~",
+    "songName": "The Chariot ~REVIIVAL~",
     "EZ": {
       "old": 0,
       "new": 0
@@ -854,6 +950,25 @@
       "new": 15.6
     }
   },
+  "Aventyr.GrandThawRigelTheatre.0": {
+    "songName": "Äventyr",
+    "EZ": {
+      "old": 2.5,
+      "new": 3
+    },
+    "HD": {
+      "old": 0,
+      "new": 0
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
   "parsey.siqlo.0": {
     "songName": "ρars/ey",
     "EZ": {
@@ -930,33 +1045,14 @@
       "new": 0
     }
   },
-  "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0": {
-    "songName": "祈 -我ら神祖と共に歩む者なり-",
+  "心之所向.姜米條.0": {
+    "songName": "心之所向",
     "EZ": {
       "old": 0,
       "new": 0
     },
     "HD": {
-      "old": 12.9,
-      "new": 13.2
-    },
-    "IN": {
-      "old": 0,
-      "new": 0
-    },
-    "AT": {
-      "old": 0,
-      "new": 0
-    }
-  },
-  "神話.PicaM2U.0": {
-    "songName": "神話",
-    "EZ": {
-      "old": 0,
-      "new": 0
-    },
-    "HD": {
-      "old": 9.2,
+      "old": 9.7,
       "new": 8.9
     },
     "IN": {
@@ -987,14 +1083,33 @@
       "new": 0
     }
   },
-  "心之所向.姜米條.0": {
-    "songName": "心之所向",
+  "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0": {
+    "songName": "祈 -我ら神祖と共に歩む者なり-",
     "EZ": {
       "old": 0,
       "new": 0
     },
     "HD": {
-      "old": 9.7,
+      "old": 12.9,
+      "new": 13.2
+    },
+    "IN": {
+      "old": 0,
+      "new": 0
+    },
+    "AT": {
+      "old": 0,
+      "new": 0
+    }
+  },
+  "神話.PicaM2U.0": {
+    "songName": "神話",
+    "EZ": {
+      "old": 0,
+      "new": 0
+    },
+    "HD": {
+      "old": 9.2,
       "new": 8.9
     },
     "IN": {
