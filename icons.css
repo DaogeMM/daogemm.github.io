@@ -37,6 +37,7 @@
 .mdi-brush::before { content: "\F00E3"; }
 .mdi-lightbulb-on-outline::before { content: "\F06E9"; }
 .mdi-history::before { content: "\F02DA"; }
+.mdi-timeline-clock-outline::before { content: "\F11FC"; }
 .mdi-heart-outline::before { content: "\F02D5"; }
 .mdi-information-outline::before { content: "\F02FD"; }
 
