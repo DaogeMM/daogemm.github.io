@@ -2339,7 +2339,8 @@
             "drag": 291,
             "hold": 51,
             "flick": 57,
-            "line": 24
+            "line": 24,
+            "noise": 27
         },
         "relation": "Phigros Original",
         "date": "2020/7/3",
@@ -4415,7 +4416,8 @@
             "drag": 255,
             "hold": 64,
             "flick": 55,
-            "line": 9
+            "line": 9,
+            "noise": 36
         },
         "HD": {
             "charter": "turn back to the antemundane realm,",
@@ -4427,7 +4429,8 @@
             "drag": 216,
             "hold": 73,
             "flick": 43,
-            "line": 13
+            "line": 13,
+            "noise": 3
         },
         "IN": {
             "charter": "go back to the -",
@@ -4439,7 +4442,8 @@
             "drag": 392,
             "hold": 93,
             "flick": 91,
-            "line": 24
+            "line": 24,
+            "noise": 23
         },
         "AT": {
             "charter": "",
@@ -4483,7 +4487,8 @@
             "drag": 262,
             "hold": 35,
             "flick": 46,
-            "line": 24
+            "line": 24,
+            "noise": 48
         },
         "display": true
     },
@@ -4503,7 +4508,8 @@
             "drag": 131,
             "hold": 47,
             "flick": 5,
-            "line": 12
+            "line": 12,
+            "noise": 5
         },
         "HD": {
             "charter": "Heliodor",
@@ -4515,7 +4521,8 @@
             "drag": 407,
             "hold": 93,
             "flick": 40,
-            "line": 10
+            "line": 10,
+            "noise": 15
         },
         "IN": {
             "charter": "Indigolite",
@@ -4527,7 +4534,8 @@
             "drag": 248,
             "hold": 123,
             "flick": 82,
-            "line": 24
+            "line": 24,
+            "noise": 24
         },
         "AT": {
             "charter": "Ametrine",
@@ -4539,7 +4547,8 @@
             "drag": 123,
             "hold": 137,
             "flick": 92,
-            "line": 24
+            "line": 24,
+            "noise": 19
         },
         "relation": "Phigros Original",
         "date": "2026/10/2",
@@ -4591,7 +4600,8 @@
             "drag": 182,
             "hold": 33,
             "flick": 18,
-            "line": 11
+            "line": 11,
+            "noise": 5
         },
         "HD": {
             "charter": "Rain | Rewrites",
@@ -4603,7 +4613,8 @@
             "drag": 261,
             "hold": 66,
             "flick": 33,
-            "line": 24
+            "line": 24,
+            "noise": 79
         },
         "IN": {
             "charter": "Silence | Us",
@@ -4615,7 +4626,8 @@
             "drag": 263,
             "hold": 106,
             "flick": 24,
-            "line": 22
+            "line": 22,
+            "noise": 427
         },
         "AT": {
             "charter": "Return | Petrichor",
@@ -4627,7 +4639,8 @@
             "drag": 163,
             "hold": 264,
             "flick": 21,
-            "line": 24
+            "line": 24,
+            "noise": 36
         },
         "relation": "Phigros Original",
         "date": "2026/10/2",
@@ -4679,7 +4692,8 @@
             "drag": 714,
             "hold": 69,
             "flick": 6,
-            "line": 12
+            "line": 12,
+            "noise": 1
         },
         "HD": {
             "charter": "the end of ache.",
@@ -4691,7 +4705,8 @@
             "drag": 331,
             "hold": 115,
             "flick": 18,
-            "line": 8
+            "line": 8,
+            "noise": 13
         },
         "IN": {
             "charter": "the end of this.",
@@ -4703,7 +4718,8 @@
             "drag": 69,
             "hold": 77,
             "flick": 40,
-            "line": 24
+            "line": 24,
+            "noise": 781
         },
         "AT": {
             "charter": "the end of ever.",
@@ -4715,7 +4731,8 @@
             "drag": 234,
             "hold": 109,
             "flick": 38,
-            "line": 66
+            "line": 66,
+            "noise": 14355
         },
         "relation": "Phigros Original",
         "date": "2026/10/2",
@@ -4767,7 +4784,8 @@
             "drag": 293,
             "hold": 37,
             "flick": 20,
-            "line": 22
+            "line": 22,
+            "noise": 3
         },
         "HD": {
             "charter": "Denying Pseudomorph \"否认的伪形\"",
@@ -4779,7 +4797,8 @@
             "drag": 504,
             "hold": 73,
             "flick": 194,
-            "line": 20
+            "line": 20,
+            "noise": 170
         },
         "IN": {
             "charter": "Retaliating Resolve \"反击的决意\"",
@@ -4791,7 +4810,8 @@
             "drag": 827,
             "hold": 328,
             "flick": 187,
-            "line": 44
+            "line": 44,
+            "noise": 27
         },
         "AT": {
             "charter": "Ceaseless Signal \"不息的信号\"",
@@ -4803,7 +4823,8 @@
             "drag": 581,
             "hold": 278,
             "flick": 134,
-            "line": 24
+            "line": 24,
+            "noise": 160
         },
         "relation": "Phigros Original",
         "date": "2026/10/2",
@@ -4855,7 +4876,8 @@
             "drag": 66,
             "hold": 12,
             "flick": 4,
-            "line": 16
+            "line": 16,
+            "noise": 24
         },
         "HD": {
             "charter": "■■o■elia's l",
@@ -4867,7 +4889,8 @@
             "drag": 149,
             "hold": 82,
             "flick": 63,
-            "line": 22
+            "line": 22,
+            "noise": 16
         },
         "IN": {
             "charter": "Geo■elia's lov",
@@ -4879,7 +4902,8 @@
             "drag": 260,
             "hold": 115,
             "flick": 94,
-            "line": 24
+            "line": 24,
+            "noise": 142
         },
         "AT": {
             "charter": "Geopelia's love 2u",
@@ -4891,7 +4915,8 @@
             "drag": 106,
             "hold": 100,
             "flick": 61,
-            "line": 24
+            "line": 24,
+            "noise": 1376
         },
         "relation": "Phigros Original",
         "date": "2026/10/2",
@@ -4923,7 +4948,8 @@
             "drag": 200,
             "hold": 108,
             "flick": 72,
-            "line": 24
+            "line": 24,
+            "noise": 15
         },
         "display": true
     },
@@ -21000,7 +21026,7 @@
         "relation": "vivid/stasis",
         "date": "2024/11/29",
         "competition": "",
-        "chapter": "Single Collection 单曲 精选集",
+        "chapter": "Chapter EX-vivid/stasis 精选集",
         "version": "3.10.2",
         "translate": "恋恋群星",
         "BPM": 150,
@@ -21088,7 +21114,7 @@
         "relation": "vivid/stasis",
         "date": "2024/11/29",
         "competition": "",
-        "chapter": "Single Collection 单曲 精选集",
+        "chapter": "Chapter EX-vivid/stasis 精选集",
         "version": "3.10.2",
         "translate": "勇气/穿星",
         "BPM": 175,
