@@ -61,6 +61,7 @@
         "translate": "冰川",
         "BPM": 140,
         "duration": "163.30",
+        "illustratorArtist": "艾若拉",
         "LY": {
             "notecount": 611,
             "tcharter": "阿爽",
@@ -149,6 +150,7 @@
         "translate": "湮灭灾变",
         "BPM": 120,
         "duration": "126.70",
+        "illustratorArtist": "海产",
         "LY": {
             "notecount": 463,
             "tcharter": "阿爽 & Ctymax",
@@ -237,6 +239,7 @@
         "translate": "制作组",
         "BPM": 179,
         "duration": "100.62",
+        "illustratorArtist": "Ctymax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -325,6 +328,7 @@
         "translate": "逃离",
         "BPM": 175,
         "duration": "123.71",
+        "illustratorArtist": "DoublePian",
         "LY": {
             "notecount": 764,
             "tcharter": "晨 & 野从",
@@ -413,6 +417,7 @@
         "translate": "能量 x 启用！！（旋律混曲）",
         "BPM": 186,
         "duration": "91.65",
+        "illustratorArtist": "赤芽",
         "LY": {
             "notecount": 564,
             "tcharter": "阿爽 & 無極",
@@ -501,6 +506,7 @@
         "translate": "光",
         "BPM": 180,
         "duration": "131.77",
+        "illustratorArtist": "winder",
         "LY": {
             "notecount": 532,
             "tcharter": "無極",
@@ -589,6 +595,7 @@
         "translate": "冬↑立方↓",
         "BPM": 104,
         "duration": "155.95",
+        "illustratorArtist": "翠冷兮",
         "LY": {
             "notecount": 909,
             "tcharter": "小鹏 & 野从",
@@ -677,6 +684,7 @@
         "translate": "密码：病毒",
         "BPM": 179,
         "duration": "154.32",
+        "illustratorArtist": "IvyTowers",
         "LY": {
             "notecount": 969,
             "tcharter": "Gausbon",
@@ -765,6 +773,7 @@
         "translate": "混乱",
         "BPM": 180,
         "duration": "127.80",
+        "illustratorArtist": "L-sp4",
         "LY": {
             "notecount": 753,
             "tcharter": "月下樱 & CN_115",
@@ -853,6 +862,7 @@
         "translate": "福利自动射",
         "BPM": 145,
         "duration": "129.06",
+        "illustratorArtist": "Psycholine & ViscerA",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -941,6 +951,7 @@
         "translate": "人类",
         "BPM": 180,
         "duration": "134.24",
+        "illustratorArtist": "CH",
         "LY": {
             "notecount": 651,
             "tcharter": "阿爽",
@@ -1029,6 +1040,7 @@
         "translate": "[扭曲]",
         "BPM": 210,
         "duration": "156.72",
+        "illustratorArtist": "老张",
         "LY": {
             "notecount": 817,
             "tcharter": "阿爽",
@@ -1117,6 +1129,7 @@
         "translate": "像素叛徒",
         "BPM": 150,
         "duration": "142.85",
+        "illustratorArtist": "艾是Abby",
         "LY": {
             "notecount": 961,
             "tcharter": "阿爽",
@@ -1205,6 +1218,7 @@
         "translate": "谷神星",
         "BPM": 175,
         "duration": "167.99",
+        "illustratorArtist": "IvyTowers",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -1293,6 +1307,7 @@
         "translate": "无旋律暴怒（音游特供）",
         "BPM": 205,
         "duration": "139.40",
+        "illustratorArtist": "cycats",
         "LY": {
             "notecount": 1028,
             "tcharter": "阿爽",
@@ -1381,6 +1396,7 @@
         "translate": "苏丹狂怒",
         "BPM": 155,
         "duration": "116.04",
+        "illustratorArtist": "笔记RE",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -1469,6 +1485,7 @@
         "translate": "课堂记忆",
         "BPM": 145,
         "duration": "147.38",
+        "illustratorArtist": "xperz",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -1557,6 +1574,7 @@
         "translate": "-超现实主义-",
         "BPM": 180,
         "duration": "153.53",
+        "illustratorArtist": "喵n葵",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -1645,6 +1663,7 @@
         "translate": "奖励时间",
         "BPM": 180,
         "duration": "115.47",
+        "illustratorArtist": "笔记RE",
         "LY": {
             "notecount": 762,
             "tcharter": "Uvernight",
@@ -1733,6 +1752,7 @@
         "translate": "能源协同矩阵",
         "BPM": 160,
         "duration": "125.19",
+        "illustratorArtist": "Karameru",
         "LY": {
             "notecount": 615,
             "tcharter": "Ctymax & 阿爽",
@@ -1821,6 +1841,7 @@
         "translate": "喵！！（Phigros特供版）",
         "BPM": 154,
         "duration": "155.14",
+        "illustratorArtist": "NEKO & 海产",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -1909,6 +1930,7 @@
         "translate": "交于生死之间（反身混曲）",
         "BPM": 164,
         "duration": "142.62",
+        "illustratorArtist": "IvyTowers",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -1997,6 +2019,7 @@
         "translate": "呐喊",
         "BPM": 180,
         "duration": "124.70",
+        "illustratorArtist": "Haight",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2085,6 +2108,7 @@
         "translate": "黎明",
         "BPM": 185,
         "duration": "148.66",
+        "illustratorArtist": "英英英",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2173,6 +2197,7 @@
         "translate": "尊师",
         "BPM": 152,
         "duration": "125.92",
+        "illustratorArtist": "1B",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2261,6 +2286,7 @@
         "translate": "痉挛",
         "BPM": 200,
         "duration": "154.81",
+        "illustratorArtist": "昔璃",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2350,6 +2376,7 @@
         "translate": "孑然一身",
         "BPM": 150,
         "duration": "127.24",
+        "illustratorArtist": "笔记RE",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2438,6 +2465,7 @@
         "translate": "缤纷时光♩",
         "BPM": 136,
         "duration": "99.74",
+        "illustratorArtist": "Doro-nyong & Ratif",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2526,6 +2554,7 @@
         "translate": "微波.炉",
         "BPM": 172,
         "duration": "124.20",
+        "illustratorArtist": "snake.ribs",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2614,6 +2643,7 @@
         "translate": "重生",
         "BPM": 195,
         "duration": "143.42",
+        "illustratorArtist": "TNiK & 昔璃",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2702,6 +2732,7 @@
         "translate": "无人奸佞",
         "BPM": 170,
         "duration": "124.97",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2790,6 +2821,7 @@
         "translate": "守望方舟六号",
         "BPM": 209,
         "duration": "113.01",
+        "illustratorArtist": "鲸弑",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2878,6 +2910,7 @@
         "translate": "忿怒之剑",
         "BPM": 230,
         "duration": "122.12",
+        "illustratorArtist": "Se-U-Ra",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -2966,6 +2999,7 @@
         "translate": "时钟悖论",
         "BPM": 140,
         "duration": "150.90",
+        "illustratorArtist": "汉堡",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3054,6 +3088,7 @@
         "translate": "编年史",
         "BPM": 180,
         "duration": "134.65",
+        "illustratorArtist": "幽灵星",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3142,6 +3177,7 @@
         "translate": "关键时刻",
         "BPM": 175,
         "duration": "142.67",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3230,6 +3266,7 @@
         "translate": "天文钟",
         "BPM": 227,
         "duration": "146.99",
+        "illustratorArtist": "inukoro",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3318,6 +3355,7 @@
         "translate": "时空坍塌 - 钟",
         "BPM": 180,
         "duration": "153.11",
+        "illustratorArtist": "老张",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3406,6 +3444,7 @@
         "translate": "穿越时空的猎犬",
         "BPM": 190,
         "duration": "132.63",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3494,6 +3533,7 @@
         "translate": "奢望之浪",
         "BPM": 150,
         "duration": "128.28",
+        "illustratorArtist": "笔记RE",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3582,6 +3622,7 @@
         "translate": "战车 ~复苏~",
         "BPM": 190,
         "duration": "146.53",
+        "illustratorArtist": "翠冷兮",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3670,6 +3711,7 @@
         "translate": "冷光",
         "BPM": 184,
         "duration": "156.54",
+        "illustratorArtist": "子狼",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3758,6 +3800,7 @@
         "translate": "报应",
         "BPM": 190,
         "duration": "146.94",
+        "illustratorArtist": "NerSAN",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3846,6 +3889,7 @@
         "translate": "毁灭 3,2,1",
         "BPM": 321.321,
         "duration": "159.10",
+        "illustratorArtist": "rN",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -3934,6 +3978,7 @@
         "translate": "逆位命运",
         "BPM": 150,
         "duration": "162.01",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4022,6 +4067,7 @@
         "translate": "论宇宙",
         "BPM": 180,
         "duration": "139.68",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4110,6 +4156,7 @@
         "translate": "错综崎岖",
         "BPM": 150,
         "duration": "137.02",
+        "illustratorArtist": "Nate",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4198,6 +4245,7 @@
         "translate": "转瞬即逝",
         "BPM": 190,
         "duration": "130.04",
+        "illustratorArtist": "海产 & TNiK",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4227,7 +4275,7 @@
     "EntrancetotheChaos.打打だいずvssiromaru.0": {
         "name": "Entrance to the Chaos",
         "composer": "打打だいず vs. siromaru",
-        "illustrator": "群青kurara",
+        "illustrator": "Rallxkurara",
         "previews": "92.00000",
         "previewe": "112.00000",
         "EZ": {
@@ -4286,6 +4334,7 @@
         "translate": "混乱入口",
         "BPM": 207,
         "duration": "144.36",
+        "illustratorArtist": "kurara",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4374,6 +4423,7 @@
         "translate": "系外幻景",
         "BPM": 192,
         "duration": "178.75",
+        "illustratorArtist": "祈莲 & 神居冰绘",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4465,6 +4515,7 @@
         "translate": "真正的家，真正的世界 (重制版)",
         "BPM": 220,
         "duration": "172.38",
+        "illustratorArtist": "PEZZ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4558,6 +4609,7 @@
         "translate": "紫黄晶",
         "BPM": 180,
         "duration": "172.01",
+        "illustratorArtist": "子狼",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4650,6 +4702,7 @@
         "translate": "雨时尘土的气息",
         "BPM": 163,
         "duration": "165.31",
+        "illustratorArtist": "青鸟 & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4742,6 +4795,7 @@
         "translate": "终焉",
         "BPM": 220.5,
         "duration": "174.97",
+        "illustratorArtist": "rN & 宙風みけ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4834,6 +4888,7 @@
         "translate": "错乱信号",
         "BPM": 202,
         "duration": "150.75",
+        "illustratorArtist": "笔记RE & PEZZ & Rutumn",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -4926,6 +4981,7 @@
         "translate": "讯息",
         "BPM": 220,
         "duration": "168.01",
+        "illustratorArtist": "祈莲 & 神居冰绘",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -5015,6 +5071,7 @@
         "translate": "比起圆满的结局，你心中更渴求何物？",
         "BPM": 219,
         "duration": "162.20",
+        "illustratorArtist": "笔记RE & Rutumn",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -5103,6 +5160,7 @@
         "translate": "分身",
         "BPM": 140,
         "duration": "145.72",
+        "illustratorArtist": "海产",
         "LY": {
             "notecount": 746,
             "tcharter": "阿爽",
@@ -5191,6 +5249,7 @@
         "translate": "忧郁",
         "BPM": 200,
         "duration": "110.41",
+        "illustratorArtist": "cycats",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -5279,6 +5338,7 @@
         "translate": "噩梦醇",
         "BPM": 140,
         "duration": "149.24",
+        "illustratorArtist": "喵n葵",
         "LY": {
             "notecount": 1368,
             "tcharter": "無極",
@@ -5367,6 +5427,7 @@
         "translate": "萤火虫之怨",
         "BPM": 200,
         "duration": "158.46",
+        "illustratorArtist": "L-sp4",
         "LY": {
             "notecount": 875,
             "tcharter": "阿爽",
@@ -5455,6 +5516,7 @@
         "translate": "万吨匿名信",
         "BPM": 120,
         "duration": "164.06",
+        "illustratorArtist": "IvyTowers",
         "LY": {
             "notecount": 857,
             "tcharter": "無極",
@@ -5543,6 +5605,7 @@
         "translate": "风屿",
         "BPM": 170,
         "duration": "179.35",
+        "illustratorArtist": "cycats",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -5631,6 +5694,7 @@
         "translate": "分贝娃娃",
         "BPM": 128,
         "duration": "108.60",
+        "illustratorArtist": "何呵",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -5659,7 +5723,7 @@
     },
     "Dash.小红Akane李祥辉.0": {
         "name": "Dash",
-        "composer": "小红Akane，李祥晖",
+        "composer": "小红Akane，李祥辉",
         "illustrator": "艾是Abby",
         "previews": "60.03500",
         "previewe": "76.87200",
@@ -5719,6 +5783,7 @@
         "translate": "奔跑",
         "BPM": 128,
         "duration": "114.21",
+        "illustratorArtist": "艾是Abby",
         "LY": {
             "notecount": 296,
             "tcharter": "阿爽",
@@ -5807,6 +5872,7 @@
         "translate": "云女孩",
         "BPM": 155,
         "duration": "178.64",
+        "illustratorArtist": "御坂果子",
         "LY": {
             "notecount": 740,
             "tcharter": "無極",
@@ -5895,6 +5961,7 @@
         "translate": "放下",
         "BPM": 126,
         "duration": "202.89",
+        "illustratorArtist": "TNiK",
         "LY": {
             "notecount": 912,
             "tcharter": "無極",
@@ -5983,6 +6050,7 @@
         "translate": "撕裂者",
         "BPM": 150,
         "duration": "199.37",
+        "illustratorArtist": "何呵",
         "LY": {
             "notecount": 1093,
             "tcharter": "無極",
@@ -6071,6 +6139,7 @@
         "translate": "失语症",
         "BPM": 128,
         "duration": "116.35",
+        "illustratorArtist": "笔记RE",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -6159,6 +6228,7 @@
         "translate": "开心病",
         "BPM": 131,
         "duration": "115.44",
+        "illustratorArtist": "昔璃",
         "LY": {
             "notecount": 815,
             "tcharter": "阿爽",
@@ -6247,6 +6317,7 @@
         "translate": "华灯爱",
         "BPM": 120,
         "duration": "114.50",
+        "illustratorArtist": "IvyTowers",
         "LY": {
             "notecount": 493,
             "tcharter": "Gausbon",
@@ -6335,6 +6406,7 @@
         "translate": "寻找_自我",
         "BPM": 191,
         "duration": "127.10",
+        "illustratorArtist": "YuKiMuMa",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -6423,6 +6495,7 @@
         "translate": "存在",
         "BPM": 210,
         "duration": "119.50",
+        "illustratorArtist": "hideo",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -6511,6 +6584,7 @@
         "translate": "狂喜兰舞",
         "BPM": 230,
         "duration": "161.63",
+        "illustratorArtist": "DoublePian",
         "LY": {
             "notecount": 954,
             "tcharter": "無極",
@@ -6599,6 +6673,7 @@
         "translate": "闪耀新生活",
         "BPM": 150,
         "duration": "137.62",
+        "illustratorArtist": "1B",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -6687,6 +6762,7 @@
         "translate": "停表错觉",
         "BPM": 188,
         "duration": "134.68",
+        "illustratorArtist": "utosao",
         "LY": {
             "notecount": 883,
             "tcharter": "StupiGGy",
@@ -6775,6 +6851,7 @@
         "translate": "雪漠",
         "BPM": 125,
         "duration": "142.13",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": 552,
             "tcharter": "CN_115",
@@ -6863,6 +6940,7 @@
         "translate": "燃烧",
         "BPM": 148,
         "duration": "137.68",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -6951,6 +7029,7 @@
         "translate": "阿列夫零",
         "BPM": "140~250",
         "duration": "140.63",
+        "illustratorArtist": "Optie",
         "LY": {
             "notecount": 684,
             "tcharter": "阿爽",
@@ -7039,6 +7118,7 @@
         "translate": "再会",
         "BPM": 175,
         "duration": "110.63",
+        "illustratorArtist": "叶藤",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -7127,6 +7207,7 @@
         "translate": "垃圾分类",
         "BPM": 128,
         "duration": "166.47",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -7215,6 +7296,7 @@
         "translate": "另一个我",
         "BPM": 175,
         "duration": "139.91",
+        "illustratorArtist": "IvyTowers",
         "LY": {
             "notecount": 549,
             "tcharter": "阿爽",
@@ -7303,6 +7385,7 @@
         "translate": "机械着迷",
         "BPM": 172,
         "duration": "115.86",
+        "illustratorArtist": "IvyTowers",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -7391,6 +7474,7 @@
         "translate": "生命在肥宅眼前闪过",
         "BPM": 227,
         "duration": "156.86",
+        "illustratorArtist": "百九十八",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -7479,6 +7563,7 @@
         "translate": "突破屏障",
         "BPM": 176,
         "duration": "132.31",
+        "illustratorArtist": "Xquid",
         "LY": {
             "notecount": 1293,
             "tcharter": "無極",
@@ -7567,6 +7652,7 @@
         "translate": "时空凝滞",
         "BPM": "196~198",
         "duration": "142.53",
+        "illustratorArtist": "Sand",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -7655,6 +7741,7 @@
         "translate": "死魂",
         "BPM": 132,
         "duration": "147.30",
+        "illustratorArtist": "Photonskyto",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -7743,6 +7830,7 @@
         "translate": "无限天堂",
         "BPM": 160,
         "duration": "154.59",
+        "illustratorArtist": "DoublePian",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -7831,6 +7919,7 @@
         "translate": "紊乱",
         "BPM": 193,
         "duration": "134.35",
+        "illustratorArtist": "Nabom",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -7919,6 +8008,7 @@
         "translate": "穿越†灵魂",
         "BPM": 200,
         "duration": "139.23",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8007,6 +8097,7 @@
         "translate": "加速！",
         "BPM": 145,
         "duration": "140.71",
+        "illustratorArtist": "TNiK",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8095,6 +8186,7 @@
         "translate": "品红药水",
         "BPM": 150,
         "duration": "147.22",
+        "illustratorArtist": "NOISER",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8183,6 +8275,7 @@
         "translate": "返回",
         "BPM": 128,
         "duration": "144.39",
+        "illustratorArtist": "TNiK",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8271,6 +8364,7 @@
         "translate": "银幕",
         "BPM": 173,
         "duration": "145.68",
+        "illustratorArtist": "GAMEBAKA",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8359,6 +8453,7 @@
         "translate": "良锤",
         "BPM": 190,
         "duration": "125.06",
+        "illustratorArtist": "Ctymax & EBIMAYO",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8447,6 +8542,7 @@
         "translate": "良弹",
         "BPM": 180,
         "duration": "132.72",
+        "illustratorArtist": "EBIMAYO",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8535,6 +8631,7 @@
         "translate": "良界",
         "BPM": 165,
         "duration": "131.67",
+        "illustratorArtist": "EBIMAYO",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8623,6 +8720,7 @@
         "translate": "良幸",
         "BPM": 170,
         "duration": "133.46",
+        "illustratorArtist": "Ctymax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8711,6 +8809,7 @@
         "translate": "良怒",
         "BPM": 222,
         "duration": "121.09",
+        "illustratorArtist": "Ctymax & EBIMAYO",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8799,6 +8898,7 @@
         "translate": "噬山者",
         "BPM": 127,
         "duration": "123.31",
+        "illustratorArtist": "START SEED",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8887,6 +8987,7 @@
         "translate": "正统",
         "BPM": 170,
         "duration": "141.20",
+        "illustratorArtist": "cycats",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -8975,6 +9076,7 @@
         "translate": "终结我",
         "BPM": "100~120",
         "duration": "130.25",
+        "illustratorArtist": "何呵",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9063,6 +9165,7 @@
         "translate": "平行倒退（游戏特供）",
         "BPM": 175,
         "duration": "142.77",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9151,6 +9254,7 @@
         "translate": "星尘使者",
         "BPM": 110,
         "duration": "129.91",
+        "illustratorArtist": "IvyTowers",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9239,6 +9343,7 @@
         "translate": "电子",
         "BPM": 134,
         "duration": "128.99",
+        "illustratorArtist": "DoublePian",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9327,6 +9432,7 @@
         "translate": "西格玛",
         "BPM": 200,
         "duration": "121.23",
+        "illustratorArtist": "塔塔",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9415,6 +9521,7 @@
         "translate": "硬核合唱",
         "BPM": 200,
         "duration": "120.61",
+        "illustratorArtist": "EnFr",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9503,6 +9610,7 @@
         "translate": "冒险",
         "BPM": 132,
         "duration": "160.03",
+        "illustratorArtist": "Rigël Theatre",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9591,6 +9699,7 @@
         "translate": "眼泪",
         "BPM": 135,
         "duration": "146.69",
+        "illustratorArtist": "しえろ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9679,6 +9788,7 @@
         "translate": "下雪了，圣诞快乐",
         "BPM": 180,
         "duration": "158.02",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9767,6 +9877,7 @@
         "translate": "脑域连结",
         "BPM": 142,
         "duration": "147.05",
+        "illustratorArtist": "SCTL",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9855,6 +9966,7 @@
         "translate": "模数",
         "BPM": 158,
         "duration": "120.42",
+        "illustratorArtist": "geralt",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9943,6 +10055,7 @@
         "translate": "窃波器",
         "BPM": "112~224",
         "duration": "161.82",
+        "illustratorArtist": "百九十八",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10031,6 +10144,7 @@
         "translate": "大和抚子 -狂舞-",
         "BPM": 158,
         "duration": "127.81",
+        "illustratorArtist": "りゅうら",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10119,6 +10233,7 @@
         "translate": "解放",
         "BPM": 193,
         "duration": "135.55",
+        "illustratorArtist": "xperz",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10207,6 +10322,7 @@
         "translate": "初始化",
         "BPM": 128,
         "duration": "127.49",
+        "illustratorArtist": "A-ZERO & morph",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10295,6 +10411,7 @@
         "translate": "樱树街道",
         "BPM": 135,
         "duration": "144.93",
+        "illustratorArtist": "A-ZERO & morph",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10383,6 +10500,7 @@
         "translate": "准备！！",
         "BPM": 142,
         "duration": "130.17",
+        "illustratorArtist": "A-ZERO & morph",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10471,6 +10589,7 @@
         "translate": "火山",
         "BPM": 191,
         "duration": "136.99",
+        "illustratorArtist": "A-ZERO & morph",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10559,6 +10678,7 @@
         "translate": "更好的图像动画",
         "BPM": 180,
         "duration": "102.03",
+        "illustratorArtist": "A-ZERO",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10647,6 +10767,7 @@
         "translate": "星",
         "BPM": 177,
         "duration": "136.22",
+        "illustratorArtist": "青鸟 & 打雷打人",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10735,6 +10856,7 @@
         "translate": "最后一步！",
         "BPM": 180,
         "duration": "137.31",
+        "illustratorArtist": "青鸟 & 谷地",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10823,6 +10945,7 @@
         "translate": "克图格亚",
         "BPM": 213,
         "duration": "155.71",
+        "illustratorArtist": "青鸟 & 谷地",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10911,6 +11034,7 @@
         "translate": "与你",
         "BPM": 170,
         "duration": "126.37",
+        "illustratorArtist": "ADZUKI",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10999,6 +11123,7 @@
         "translate": "非正统思想",
         "BPM": 146,
         "duration": "143.09",
+        "illustratorArtist": "ASXX",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11087,6 +11212,7 @@
         "translate": "世界末日",
         "BPM": 160,
         "duration": "129.01",
+        "illustratorArtist": "Ctymax & TNiK",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11175,6 +11301,7 @@
         "translate": "游园地",
         "BPM": 128,
         "duration": "127.52",
+        "illustratorArtist": "CEM",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11263,6 +11390,7 @@
         "translate": "能量三角",
         "BPM": 160,
         "duration": "145.51",
+        "illustratorArtist": "自動車 原付 & 手鞠鈴",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11351,6 +11479,7 @@
         "translate": "神经",
         "BPM": 174.59,
         "duration": "159.57",
+        "illustratorArtist": "駿",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11439,6 +11568,7 @@
         "translate": "最初的黄昏",
         "BPM": 112,
         "duration": "157.52",
+        "illustratorArtist": "Hachimitsu☆Boy",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11527,6 +11657,7 @@
         "translate": "刻耳柏洛斯",
         "BPM": 197,
         "duration": "127.94",
+        "illustratorArtist": "Eridani",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11615,6 +11746,7 @@
         "translate": "欧/芹",
         "BPM": 180,
         "duration": "124.02",
+        "illustratorArtist": "nekomiya & 出前",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11703,6 +11835,7 @@
         "translate": "震荡领域",
         "BPM": 190,
         "duration": "151.58",
+        "illustratorArtist": "汉堡",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11791,6 +11924,7 @@
         "translate": "铃儿响叮当(Jingle Bell)",
         "BPM": 175,
         "duration": "167.32",
+        "illustratorArtist": "Konya/绀屋",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11879,6 +12013,7 @@
         "translate": "夜空时间（feat.Lee Yu Jin）",
         "BPM": 128,
         "duration": "131.27",
+        "illustratorArtist": "ZG",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -11967,6 +12102,7 @@
         "translate": "危害",
         "BPM": 128,
         "duration": "127.54",
+        "illustratorArtist": "ZG",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12055,6 +12191,7 @@
         "translate": "另一个我",
         "BPM": 210,
         "duration": "166.93",
+        "illustratorArtist": "ZG",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12143,6 +12280,7 @@
         "translate": "永勿徘徊",
         "BPM": 175,
         "duration": "119.33",
+        "illustratorArtist": "Arahosi",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12231,6 +12369,7 @@
         "translate": "反抗",
         "BPM": 205,
         "duration": "148.69",
+        "illustratorArtist": "LINUS",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12319,6 +12458,7 @@
         "translate": "梦想之地",
         "BPM": 120,
         "duration": "152.04",
+        "illustratorArtist": "海产",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12407,6 +12547,7 @@
         "translate": "再一局",
         "BPM": 128,
         "duration": "144.39",
+        "illustratorArtist": "艾是Abby",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12495,6 +12636,7 @@
         "translate": 996,
         "BPM": 140,
         "duration": "154.31",
+        "illustratorArtist": "笔记RE",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12583,6 +12725,7 @@
         "translate": "未来之心",
         "BPM": 180,
         "duration": "133.68",
+        "illustratorArtist": "Keiby.comics",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12671,6 +12814,7 @@
         "translate": "冷光",
         "BPM": 141,
         "duration": "157.89",
+        "illustratorArtist": "鲸弑",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12759,6 +12903,7 @@
         "translate": "福利自动爆",
         "BPM": 145,
         "duration": "124.85",
+        "illustratorArtist": "cycats",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12847,6 +12992,7 @@
         "translate": "我必须说不",
         "BPM": 175,
         "duration": "116.61",
+        "illustratorArtist": "cycats",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12935,6 +13081,7 @@
         "translate": "眼病",
         "BPM": 193,
         "duration": "149.87",
+        "illustratorArtist": "rN",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -12964,7 +13111,7 @@
     "Apocalypse.アリスシャッハと魔法の楽団.0": {
         "name": "Apocalypse",
         "composer": "アリスシャッハと魔法の楽団",
-        "illustrator": "Lanota © Noxy Games Inc. ",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "previews": "54.81800",
         "previewe": "69.54500",
         "EZ": {
@@ -13023,6 +13170,7 @@
         "translate": "启示录",
         "BPM": 220,
         "duration": "165.28",
+        "illustratorArtist": "Lanota © Noxy Games Inc.",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13052,7 +13200,7 @@
     "Protoflicker.Silentroom.0": {
         "name": "Protoflicker",
         "composer": "Silentroom",
-        "illustrator": "Lanota © Noxy Games Inc. ",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "previews": "96.03200",
         "previewe": "118.29500",
         "EZ": {
@@ -13111,6 +13259,7 @@
         "translate": "原始闪烁",
         "BPM": 140,
         "duration": "168.03",
+        "illustratorArtist": "Lanota © Noxy Games Inc.",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13140,7 +13289,7 @@
     "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0": {
         "name": "Horizon Blue",
         "composer": "Nothing But Requiem feat. Aikapin & Chiyoko",
-        "illustrator": "Lanota © Noxy Games Inc. ",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "previews": "41.09900",
         "previewe": "56.09900",
         "EZ": {
@@ -13199,6 +13348,7 @@
         "translate": "海蓝之界",
         "BPM": 200,
         "duration": "167.42",
+        "illustratorArtist": "Lanota © Noxy Games Inc.",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13228,7 +13378,7 @@
     "YouaretheMiserable.tpazolite.0": {
         "name": "You are the Miserable",
         "composer": "t+pazolite",
-        "illustrator": "Lanota © Noxy Games Inc. ",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "previews": "117.79800",
         "previewe": "131.04800",
         "EZ": {
@@ -13287,6 +13437,7 @@
         "translate": "倒霉玩意",
         "BPM": 163,
         "duration": "163.86",
+        "illustratorArtist": "Lanota © Noxy Games Inc.",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13316,7 +13467,7 @@
     "Stasis.Maozon.0": {
         "name": "Stasis",
         "composer": "Maozon",
-        "illustrator": "Lanota © Noxy Games Inc. ",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "previews": "42.66600",
         "previewe": "65.33300",
         "EZ": {
@@ -13375,6 +13526,7 @@
         "translate": "停滞",
         "BPM": 180,
         "duration": "154.68",
+        "illustratorArtist": "Lanota © Noxy Games Inc.",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13463,6 +13615,7 @@
         "translate": "走吧、出发",
         "BPM": 188,
         "duration": "102.77",
+        "illustratorArtist": "緑風マルト",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13551,6 +13704,7 @@
         "translate": "月下缭乱",
         "BPM": "175~525",
         "duration": "149.51",
+        "illustratorArtist": "TNiK",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13639,6 +13793,7 @@
         "translate": "勇往直前！！",
         "BPM": 170,
         "duration": "120.72",
+        "illustratorArtist": "わっふゑ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13727,6 +13882,7 @@
         "translate": "数据错误",
         "BPM": 180,
         "duration": "124.02",
+        "illustratorArtist": "Photonskyto",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13815,6 +13971,7 @@
         "translate": "影子",
         "BPM": 172,
         "duration": "143.75",
+        "illustratorArtist": "御坂果子",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13903,6 +14060,7 @@
         "translate": "心之所向",
         "BPM": 180,
         "duration": "136.02",
+        "illustratorArtist": "笔记RE",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -13991,6 +14149,7 @@
         "translate": "卑微",
         "BPM": 200,
         "duration": "123.81",
+        "illustratorArtist": "kurara",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14079,6 +14238,7 @@
         "translate": "必要条件",
         "BPM": 174,
         "duration": "124.16",
+        "illustratorArtist": "Ctymax & TNiK & 出前",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14167,6 +14327,7 @@
         "translate": "勇敢之信条",
         "BPM": 192,
         "duration": "118.14",
+        "illustratorArtist": "林语",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14255,6 +14416,7 @@
         "translate": "盏茗",
         "BPM": 131,
         "duration": "130.08",
+        "illustratorArtist": "茶鸣拾贰律",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14343,6 +14505,7 @@
         "translate": "青芽",
         "BPM": 216,
         "duration": "147.80",
+        "illustratorArtist": "茶鸣拾贰律",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14431,6 +14594,7 @@
         "translate": "永恒之雪",
         "BPM": 140,
         "duration": "155.41",
+        "illustratorArtist": "Sak",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14519,6 +14683,7 @@
         "translate": "梅雨",
         "BPM": 188,
         "duration": "113.58",
+        "illustratorArtist": "Robin",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14607,6 +14772,7 @@
         "translate": "山鹰之歌（Phigros版本）",
         "BPM": 150,
         "duration": "132.31",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14695,6 +14861,7 @@
         "translate": "突破",
         "BPM": 185,
         "duration": "128.57",
+        "illustratorArtist": "圆规Compasses",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14783,6 +14950,7 @@
         "translate": "相信曙光 (feat. 果丸哒呦)",
         "BPM": 180,
         "duration": "170.49",
+        "illustratorArtist": "圆规Compasses",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14871,6 +15039,7 @@
         "translate": "记忆之桥",
         "BPM": 190,
         "duration": "165.87",
+        "illustratorArtist": "林语",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -14959,6 +15128,7 @@
         "translate": "青丘",
         "BPM": 180,
         "duration": "167.84",
+        "illustratorArtist": "BLACK 0",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15047,6 +15217,7 @@
         "translate": "瓷岁",
         "BPM": 126,
         "duration": "165.73",
+        "illustratorArtist": "茶鸣拾贰律",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15135,6 +15306,7 @@
         "translate": "远东之宴",
         "BPM": 128,
         "duration": "150.01",
+        "illustratorArtist": "茶鸣拾贰律",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15223,6 +15395,7 @@
         "translate": "地狱之城(Inferno City)",
         "BPM": 215,
         "duration": "123.91",
+        "illustratorArtist": "LESYEF & 藍瀬 まなみ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15311,6 +15484,7 @@
         "translate": "升档",
         "BPM": 155,
         "duration": "140.93",
+        "illustratorArtist": "s-don",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15399,6 +15573,7 @@
         "translate": "潘多拉",
         "BPM": 120,
         "duration": "125.77",
+        "illustratorArtist": "笔记RE & 海产",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15487,6 +15662,7 @@
         "translate": "随机",
         "BPM": 132,
         "duration": "137.00",
+        "illustratorArtist": "Harkiadel",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15575,6 +15751,7 @@
         "translate": "零号车辆",
         "BPM": 240,
         "duration": "142.24",
+        "illustratorArtist": "2AI4wU4",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15663,6 +15840,7 @@
         "translate": "机不可失，时不再来",
         "BPM": 158,
         "duration": "133.70",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15751,6 +15929,7 @@
         "translate": "九重葛",
         "BPM": 120,
         "duration": "116.45",
+        "illustratorArtist": "TNiK",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15839,6 +16018,7 @@
         "translate": "神话",
         "BPM": 130,
         "duration": "142.18",
+        "illustratorArtist": "mology & V17AMax & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -15927,6 +16107,7 @@
         "translate": "终曲之舞",
         "BPM": 175,
         "duration": "120.80",
+        "illustratorArtist": "mology & V17AMax & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16015,6 +16196,7 @@
         "translate": "特洛伊木马",
         "BPM": 128,
         "duration": "155.69",
+        "illustratorArtist": "Lapelristar & V17AMax & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16103,6 +16285,7 @@
         "translate": "时空折转",
         "BPM": 155,
         "duration": "142.49",
+        "illustratorArtist": "mology & V17AMax & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16191,6 +16374,7 @@
         "translate": "循此苦旅，直抵群星",
         "BPM": 197,
         "duration": "144.55",
+        "illustratorArtist": "Lyrebird Ferdinant & V17AMax & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16279,6 +16463,7 @@
         "translate": "月光之旅",
         "BPM": 174,
         "duration": "150.55",
+        "illustratorArtist": "汉堡",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16367,6 +16552,7 @@
         "translate": "雨心",
         "BPM": 140,
         "duration": "152.55",
+        "illustratorArtist": "Sodhelium",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16455,6 +16641,7 @@
         "translate": "王国",
         "BPM": 174,
         "duration": "128.30",
+        "illustratorArtist": "圆规Compasses",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16543,6 +16730,7 @@
         "translate": "啪噼噗噼噗噼啪",
         "BPM": 200,
         "duration": "178.81",
+        "illustratorArtist": "上倉エク",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16631,6 +16819,7 @@
         "translate": "胜利 & 遗憾",
         "BPM": 175,
         "duration": "124.15",
+        "illustratorArtist": "何呵",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16719,6 +16908,7 @@
         "translate": "卫.星.",
         "BPM": 150,
         "duration": "192.01",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16807,6 +16997,7 @@
         "translate": "携静同舞",
         "BPM": 128,
         "duration": "179.48",
+        "illustratorArtist": "林语",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16895,6 +17086,7 @@
         "translate": "九龙迷宫：围困的世界",
         "BPM": 190,
         "duration": "180.58",
+        "illustratorArtist": "鲸弑",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -16983,6 +17175,7 @@
         "translate": "酒迷下蒸汽朋克的小算计",
         "BPM": 165,
         "duration": "171.65",
+        "illustratorArtist": "山崎团",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17071,6 +17264,7 @@
         "translate": "万亿字节量传输",
         "BPM": 230,
         "duration": "168.03",
+        "illustratorArtist": "猫箱Catbox & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17159,6 +17353,7 @@
         "translate": "钻石之眸",
         "BPM": 140,
         "duration": "133.73",
+        "illustratorArtist": "祈莲 & 彗星",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17247,6 +17442,7 @@
         "translate": "苦涩花开",
         "BPM": 180,
         "duration": "144.17",
+        "illustratorArtist": "鲸弑",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17335,6 +17531,7 @@
         "translate": "沉默是金，雄辩亦金",
         "BPM": 177,
         "duration": "164.07",
+        "illustratorArtist": "Jerry & OsuMe65",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17423,6 +17620,7 @@
         "translate": "折翼天使",
         "BPM": 301,
         "duration": "180.81",
+        "illustratorArtist": "OsuMe65",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17511,6 +17709,7 @@
         "translate": "与君共旅",
         "BPM": "9.375~150",
         "duration": "131.21",
+        "illustratorArtist": "BTKCyber & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17599,6 +17798,7 @@
         "translate": "秘光",
         "BPM": 160,
         "duration": "157.53",
+        "illustratorArtist": "Juice Black & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17687,6 +17887,7 @@
         "translate": "颠倒世界",
         "BPM": 180,
         "duration": "133.01",
+        "illustratorArtist": "Mechari & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17775,6 +17976,7 @@
         "translate": "月咏鸣",
         "BPM": 180,
         "duration": "135.02",
+        "illustratorArtist": "SEGA & V17AMax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17863,6 +18065,7 @@
         "translate": "科技城 2085",
         "BPM": 134,
         "duration": "138.88",
+        "illustratorArtist": "SEGA & V17AMax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -17951,6 +18154,7 @@
         "translate": "祈祷 -吾乃共主同行者-",
         "BPM": "152~282",
         "duration": "178.30",
+        "illustratorArtist": "SEGA & V17AMax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18039,6 +18243,7 @@
         "translate": "别离",
         "BPM": 160,
         "duration": "160.50",
+        "illustratorArtist": "海产",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18127,6 +18332,7 @@
         "translate": "圣诞夜赞歌",
         "BPM": 175,
         "duration": "186.52",
+        "illustratorArtist": "Konya/绀屋",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18215,6 +18421,7 @@
         "translate": "四处游荡的灵魂(Stray Soul Around)",
         "BPM": 150,
         "duration": "136.02",
+        "illustratorArtist": "青鸟 & 伊恩",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18303,6 +18510,7 @@
         "translate": "流形假设",
         "BPM": 174,
         "duration": "149.65",
+        "illustratorArtist": "青鸟 & 阿清",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18391,6 +18599,7 @@
         "translate": "可爱亦可恶（重混）",
         "BPM": 175,
         "duration": "128.03",
+        "illustratorArtist": "BTKCyber & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18479,6 +18688,7 @@
         "translate": "闪光、飞泻与霓虹",
         "BPM": 175,
         "duration": "161.17",
+        "illustratorArtist": "祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18567,6 +18777,7 @@
         "translate": "粉碎文件",
         "BPM": 200,
         "duration": "135.62",
+        "illustratorArtist": "笔记RE",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18655,6 +18866,7 @@
         "translate": "破碎苍穹",
         "BPM": 130,
         "duration": "155.11",
+        "illustratorArtist": "午苔veeee~",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18743,6 +18955,7 @@
         "translate": "大脑黑客",
         "BPM": 158,
         "duration": "121.53",
+        "illustratorArtist": "SOMON",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18831,6 +19044,7 @@
         "translate": "捕虏体",
         "BPM": 170,
         "duration": "138.57",
+        "illustratorArtist": "2AI4wU4",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -18919,6 +19133,7 @@
         "translate": "人为存在",
         "BPM": 191,
         "duration": "134.46",
+        "illustratorArtist": "2AI4wU4",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19007,6 +19222,7 @@
         "translate": "永存之伤",
         "BPM": 223,
         "duration": "137.61",
+        "illustratorArtist": "兜",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19095,6 +19311,7 @@
         "translate": "反命题",
         "BPM": 172,
         "duration": "140.84",
+        "illustratorArtist": "jht & 釜飯轟々丸 & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19183,6 +19400,7 @@
         "translate": "实用主义 -重生-",
         "BPM": 174,
         "duration": "161.74",
+        "illustratorArtist": "シエラ & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19271,6 +19489,7 @@
         "translate": "曙光过后",
         "BPM": 170,
         "duration": "160.85",
+        "illustratorArtist": "海里狄七 & 存艺",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19359,6 +19578,7 @@
         "translate": "绽放",
         "BPM": 150,
         "duration": "161.62",
+        "illustratorArtist": "注射",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19447,6 +19667,7 @@
         "translate": "幽世桔梗",
         "BPM": 182,
         "duration": "154.48",
+        "illustratorArtist": "瀬名",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19535,6 +19756,7 @@
         "translate": "千紫万红",
         "BPM": 203,
         "duration": "147.49",
+        "illustratorArtist": "中本ひょうり",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19623,6 +19845,7 @@
         "translate": "明镜烈火",
         "BPM": 200,
         "duration": "132.20",
+        "illustratorArtist": "中本ひょうり",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19711,6 +19934,7 @@
         "translate": "今天不是明天",
         "BPM": 125,
         "duration": "173.28",
+        "illustratorArtist": "KiTA & 一击即溃",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19799,6 +20023,7 @@
         "translate": "立体主义",
         "BPM": 194,
         "duration": "160.83",
+        "illustratorArtist": "sikkari",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19887,6 +20112,7 @@
         "translate": "无源之光",
         "BPM": 184,
         "duration": "161.10",
+        "illustratorArtist": "Fl00t",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -19975,6 +20201,7 @@
         "translate": "真理寻求者 -终将与乌托邦失联-",
         "BPM": 206,
         "duration": "124.34",
+        "illustratorArtist": "rokopon",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20063,6 +20290,7 @@
         "translate": "束缚之静",
         "BPM": 280,
         "duration": "151.62",
+        "illustratorArtist": "Hiro & Zeth",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20151,6 +20379,7 @@
         "translate": "君往何处",
         "BPM": 160,
         "duration": "133.43",
+        "illustratorArtist": "LRAY & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20239,6 +20468,7 @@
         "translate": "暗夜苏醒",
         "BPM": 174,
         "duration": "154.18",
+        "illustratorArtist": "MHK & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20327,6 +20557,7 @@
         "translate": "冰冷的心",
         "BPM": 170,
         "duration": "153.21",
+        "illustratorArtist": "NerSAN & 百九十八",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20415,6 +20646,7 @@
         "translate": "震荡之力",
         "BPM": 190,
         "duration": "148.43",
+        "illustratorArtist": "GAMEBAKA & 自動車 原付",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20503,6 +20735,7 @@
         "translate": "根源",
         "BPM": 200,
         "duration": "144.03",
+        "illustratorArtist": "Keiby.comics",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20591,6 +20824,7 @@
         "translate": "黄金之城",
         "BPM": 160,
         "duration": "123.66",
+        "illustratorArtist": "RM Design Team & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20679,6 +20913,7 @@
         "translate": "双重间谍",
         "BPM": 160,
         "duration": "146.63",
+        "illustratorArtist": "RM Design Team & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20767,6 +21002,7 @@
         "translate": "幻影鬼魅",
         "BPM": 161,
         "duration": "124.49",
+        "illustratorArtist": "RM Design Team & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20855,6 +21091,7 @@
         "translate": "幸灾乐祸",
         "BPM": 198,
         "duration": "152.74",
+        "illustratorArtist": "验光蒸鱼",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -20943,6 +21180,7 @@
         "translate": "追忆似水年华",
         "BPM": 188,
         "duration": "147.77",
+        "illustratorArtist": "子狼",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21031,6 +21269,7 @@
         "translate": "恋恋群星",
         "BPM": 150,
         "duration": "169.61",
+        "illustratorArtist": "AriaL & Stelli",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21119,6 +21358,7 @@
         "translate": "勇气/穿星",
         "BPM": 175,
         "duration": "159.78",
+        "illustratorArtist": "57_dayo & AriaL & Stelli",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21207,6 +21447,7 @@
         "translate": "彗星",
         "BPM": 180,
         "duration": "151.29",
+        "illustratorArtist": "小黄鸡叽叽叽叽叽叽修复中",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21295,6 +21536,7 @@
         "translate": "黑与白的怪物",
         "BPM": 205,
         "duration": "140.50",
+        "illustratorArtist": "久世",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21383,6 +21625,7 @@
         "translate": "忠诚",
         "BPM": 167,
         "duration": "158.09",
+        "illustratorArtist": "Shimoruchiko",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21471,6 +21714,7 @@
         "translate": "闪耀圣诞往事",
         "BPM": 180,
         "duration": "137.35",
+        "illustratorArtist": "ナナシ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21559,6 +21803,7 @@
         "translate": "避难所",
         "BPM": 170,
         "duration": "138.41",
+        "illustratorArtist": "诡异童话",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21647,6 +21892,7 @@
         "translate": "蝎虎天体",
         "BPM": 220,
         "duration": "143.90",
+        "illustratorArtist": "Viosgit & 小鹏xpeng",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21735,6 +21981,7 @@
         "translate": " 贝多芬祝福",
         "BPM": 170,
         "duration": "133.41",
+        "illustratorArtist": "RM Design Team & 青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21823,6 +22070,7 @@
         "translate": "在我心中(In My Mind)",
         "BPM": 155,
         "duration": "169.57",
+        "illustratorArtist": "すずか爆弾",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21911,6 +22159,7 @@
         "translate": "龙宫(Nirai Kanai) (NiraicA_nai混曲)",
         "BPM": 130,
         "duration": "151.39",
+        "illustratorArtist": "3z",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -21999,6 +22248,7 @@
         "translate": "摇摆 跳跃 抛出",
         "BPM": 210,
         "duration": "120.59",
+        "illustratorArtist": "ディン",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22028,7 +22278,7 @@
     "宇宙残骸少女CosmicDustyGirl.辻原一郎.0": {
         "name": "宇宙残骸少女 (Cosmic Dusty Girl)",
         "composer": "辻原一郎",
-        "illustrator": "TOTOTO ",
+        "illustrator": "TOTOTO",
         "previews": "34.00000",
         "previewe": "63.00000",
         "EZ": {
@@ -22087,6 +22337,7 @@
         "translate": "宇宙残骸少女",
         "BPM": 140,
         "duration": "137.14",
+        "illustratorArtist": "TOTOTO",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22175,6 +22426,7 @@
         "translate": "解决者",
         "BPM": 123,
         "duration": "160.02",
+        "illustratorArtist": "Transendium",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22263,6 +22515,7 @@
         "translate": "失心光辉体",
         "BPM": 200,
         "duration": "166.81",
+        "illustratorArtist": "Transendium",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22351,6 +22604,7 @@
         "translate": "羁绊决议",
         "BPM": 240,
         "duration": "134.01",
+        "illustratorArtist": "Transendium",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22439,6 +22693,7 @@
         "translate": "绝对混乱",
         "BPM": 256,
         "duration": "189.38",
+        "illustratorArtist": "Kyuare & Wsx",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22527,6 +22782,7 @@
         "translate": "阿佛洛狄忒之子 (短版)",
         "BPM": 128,
         "duration": "167.35",
+        "illustratorArtist": "cala",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22615,6 +22871,7 @@
         "translate": "反叛 (短版)",
         "BPM": "140~155",
         "duration": "171.87",
+        "illustratorArtist": "cala",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22703,6 +22960,7 @@
         "translate": "氮氧化合物",
         "BPM": 190,
         "duration": "153.16",
+        "illustratorArtist": "cala",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22791,6 +23049,7 @@
         "translate": "爱丽丝在XXXXXXXX之中",
         "BPM": 144,
         "duration": "155.01",
+        "illustratorArtist": "祈莲 & 神居冰绘",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22879,6 +23138,7 @@
         "translate": "光芒",
         "BPM": 155,
         "duration": "146.34",
+        "illustratorArtist": "SEGA & V17AMax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22967,6 +23227,7 @@
         "translate": "钻石之尘",
         "BPM": 200,
         "duration": "155.06",
+        "illustratorArtist": "SEGA & V17AMax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23055,6 +23316,7 @@
         "translate": "星尘:射线",
         "BPM": 164,
         "duration": "166.10",
+        "illustratorArtist": "SEGA & V17AMax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23143,6 +23405,7 @@
         "translate": "冰封之心",
         "BPM": 185,
         "duration": "192.65",
+        "illustratorArtist": "山崎团",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23231,6 +23494,7 @@
         "translate": "赫利俄斯",
         "BPM": 150,
         "duration": "134.40",
+        "illustratorArtist": "Spectro",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23319,6 +23583,7 @@
         "translate": "飘荡回音",
         "BPM": 219,
         "duration": "162.93",
+        "illustratorArtist": "Taurell",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23407,6 +23672,7 @@
         "translate": "重：生",
         "BPM": 196,
         "duration": "157.98",
+        "illustratorArtist": "QueseraGames Co., Ltd.",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23495,6 +23761,7 @@
         "translate": "化身 ~劫之轮回~",
         "BPM": "180~540",
         "duration": "174.67",
+        "illustratorArtist": "QueseraGames Co., Ltd.",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23583,6 +23850,7 @@
         "translate": "下雪了 ~下雪了~",
         "BPM": "156~234",
         "duration": "149.24",
+        "illustratorArtist": "Viosgit",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23671,6 +23939,7 @@
         "translate": "报应 ~救赎之轮~",
         "BPM": 225,
         "duration": "173.79",
+        "illustratorArtist": "Viosgit",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23759,6 +24028,7 @@
         "translate": "矛盾相生(Ambivalence)",
         "BPM": 187,
         "duration": "161.72",
+        "illustratorArtist": "SEGA & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23847,6 +24117,7 @@
         "translate": "情意结",
         "BPM": 165,
         "duration": "142.56",
+        "illustratorArtist": "SEGA & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -23935,6 +24206,7 @@
         "translate": "孤心独映",
         "BPM": 199,
         "duration": "144.13",
+        "illustratorArtist": "SEGA & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24023,6 +24295,7 @@
         "translate": "垃圾桶安魂曲",
         "BPM": 257,
         "duration": "138.01",
+        "illustratorArtist": "SEGA & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24111,6 +24384,7 @@
         "translate": "凝滞咏叹 (feat. Uzumaki)",
         "BPM": 180,
         "duration": "122.68",
+        "illustratorArtist": "塩焼とまと",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24199,6 +24473,7 @@
         "translate": "000 -无限之光-",
         "BPM": 194,
         "duration": "154.21",
+        "illustratorArtist": "NerSAN",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24287,6 +24562,7 @@
         "translate": "例外",
         "BPM": 170,
         "duration": "117.76",
+        "illustratorArtist": "Ctymax & クルス",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24375,6 +24651,7 @@
         "translate": "至高荣誉",
         "BPM": 160,
         "duration": "123.76",
+        "illustratorArtist": "Ctymax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24463,6 +24740,7 @@
         "translate": "百鬼夜行",
         "BPM": 200,
         "duration": "138.01",
+        "illustratorArtist": "Ctymax & 軽目くお",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24551,6 +24829,7 @@
         "translate": "惊霆一击",
         "BPM": 234,
         "duration": "148.00",
+        "illustratorArtist": "Rutumn & 汉堡",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24639,6 +24918,7 @@
         "translate": "大寂之章",
         "BPM": 157,
         "duration": "143.53",
+        "illustratorArtist": "Rayark Inc. CYTUS II®",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24727,6 +25007,7 @@
         "translate": "结晶之境",
         "BPM": 134,
         "duration": "136.58",
+        "illustratorArtist": "Rayark Inc. CYTUS II®",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24815,6 +25096,7 @@
         "translate": "海德拉",
         "BPM": 160,
         "duration": "150.02",
+        "illustratorArtist": "Rayark Inc. CYTUS II®",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24903,6 +25185,7 @@
         "translate": "最高杰作",
         "BPM": 140,
         "duration": "144.01",
+        "illustratorArtist": "Nai Guozi",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24991,6 +25274,7 @@
         "translate": "列车",
         "BPM": 128,
         "duration": "148.88",
+        "illustratorArtist": "Otaku_宅",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25079,6 +25363,7 @@
         "translate": "垩",
         "BPM": 140,
         "duration": "150.88",
+        "illustratorArtist": "Rayark Inc. CYTUS II®",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25167,6 +25452,7 @@
         "translate": "影迹",
         "BPM": "180~540",
         "duration": "200.58",
+        "illustratorArtist": "Rayark Inc. CYTUS II®",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25255,6 +25541,7 @@
         "translate": "彩",
         "BPM": 170,
         "duration": "162.38",
+        "illustratorArtist": "Rayark Inc. CYTUS II®",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25343,6 +25630,7 @@
         "translate": "向着远方、那无名的海畔",
         "BPM": 185,
         "duration": "171.90",
+        "illustratorArtist": "月乃",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25431,6 +25719,7 @@
         "translate": "深渊行动 192.333",
         "BPM": 192.333,
         "duration": "126.11",
+        "illustratorArtist": "kkmfd",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25519,6 +25808,7 @@
         "translate": "仇外",
         "BPM": 174,
         "duration": "146.61",
+        "illustratorArtist": "Ots-15",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25607,6 +25897,7 @@
         "translate": "疯狂",
         "BPM": 238,
         "duration": "121.25",
+        "illustratorArtist": "AiLANE",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25695,6 +25986,7 @@
         "translate": "妄想心音后",
         "BPM": 222,
         "duration": "147.31",
+        "illustratorArtist": "Daily天利 & Nakaiankow",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25783,6 +26075,7 @@
         "translate": "下一秒",
         "BPM": 150,
         "duration": "149.94",
+        "illustratorArtist": "虚拟九点",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25871,6 +26164,7 @@
         "translate": "玩具狂奏曲 -終焉-",
         "BPM": "130~390",
         "duration": "153.71",
+        "illustratorArtist": "SEGA & V17AMax",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -25959,6 +26253,7 @@
         "translate": "雪之舞",
         "BPM": 188,
         "duration": "118.43",
+        "illustratorArtist": "kurara",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26047,6 +26342,7 @@
         "translate": "乱★舞",
         "BPM": 196,
         "duration": "128.15",
+        "illustratorArtist": "鲸弑",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26135,6 +26431,7 @@
         "translate": "杨桐",
         "BPM": 191,
         "duration": "139.48",
+        "illustratorArtist": "神居冰绘",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26223,6 +26520,7 @@
         "translate": "七十分斗士",
         "BPM": 223,
         "duration": "146.39",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26311,6 +26609,7 @@
         "translate": "冈格尼尔之裂",
         "BPM": 240,
         "duration": "150.03",
+        "illustratorArtist": "PEZZ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26399,6 +26698,7 @@
         "translate": "梦落之日",
         "BPM": 260,
         "duration": "131.84",
+        "illustratorArtist": "翠冷兮",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26487,6 +26787,7 @@
         "translate": "尚竞之勇",
         "BPM": 222,
         "duration": "153.53",
+        "illustratorArtist": "kurara & 祈莲 & 夏宇Detristry",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26575,6 +26876,7 @@
         "translate": "星拂云锦",
         "BPM": 182,
         "duration": "168.81",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26604,7 +26906,7 @@
     "NWAD.Knighthood.0": {
         "name": "[NWAD]",
         "composer": "Knighthood",
-        "illustrator": "2Al4wU4",
+        "illustrator": "2AI4wU4",
         "previews": "109.00000",
         "previewe": "129.50000",
         "EZ": {
@@ -26663,6 +26965,7 @@
         "translate": "[晓破]",
         "BPM": "3.28125~210",
         "duration": "159.44",
+        "illustratorArtist": "2AI4wU4",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26751,6 +27054,7 @@
         "translate": "浩劫之史",
         "BPM": "110~220",
         "duration": "142.93",
+        "illustratorArtist": "Ctymax & わせ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26839,6 +27143,7 @@
         "translate": "极寒",
         "BPM": "145~725",
         "duration": "142.36",
+        "illustratorArtist": "V17AMax & Vormis. & アオノアオ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -26927,6 +27232,7 @@
         "translate": "波塞冬",
         "BPM": 175,
         "duration": "123.17",
+        "illustratorArtist": "老张",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27015,6 +27321,7 @@
         "translate": "水",
         "BPM": 170,
         "duration": "156.73",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27103,6 +27410,7 @@
         "translate": "奇迹森林（反身混曲）",
         "BPM": 192,
         "duration": "170.02",
+        "illustratorArtist": "L-sp4",
         "LY": {
             "notecount": 917,
             "tcharter": "亚树见希子 & 野从",
@@ -27191,6 +27499,7 @@
         "translate": "动境中之动",
         "BPM": 144,
         "duration": "163.36",
+        "illustratorArtist": "わっふゑ",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27279,6 +27588,7 @@
         "translate": "迷宫莉莉丝",
         "BPM": 177,
         "duration": "147.20",
+        "illustratorArtist": "何呵",
         "LY": {
             "notecount": 1122,
             "tcharter": "阿爽 & 野从",
@@ -27367,6 +27677,7 @@
         "translate": "创",
         "BPM": "111~222",
         "duration": "169.35",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27455,6 +27766,7 @@
         "translate": "魔族",
         "BPM": 192,
         "duration": "138.67",
+        "illustratorArtist": "Jeffery",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27543,6 +27855,7 @@
         "translate": "新生（Psystyle版）",
         "BPM": 150,
         "duration": "147.11",
+        "illustratorArtist": "Tsuioku",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27631,6 +27944,7 @@
         "translate": "方舟",
         "BPM": 180,
         "duration": "158.68",
+        "illustratorArtist": "MOAI WORKS",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27719,6 +28033,7 @@
         "translate": "破晓之后",
         "BPM": 110,
         "duration": "142.93",
+        "illustratorArtist": "月亮酱",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27807,6 +28122,7 @@
         "translate": "无限能量 -过量-",
         "BPM": 180,
         "duration": "117.36",
+        "illustratorArtist": "knife美工刀",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27895,6 +28211,7 @@
         "translate": "哈立德",
         "BPM": 128,
         "duration": "131.28",
+        "illustratorArtist": "HAZUQU",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -27983,6 +28300,7 @@
         "translate": "超量子空间",
         "BPM": 200,
         "duration": "115.25",
+        "illustratorArtist": "sa1t",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28071,6 +28389,7 @@
         "translate": "异动 ~ 高贵音韵之士 ~",
         "BPM": "101~202",
         "duration": "136.55",
+        "illustratorArtist": "CattoHato & PEZZ & 祈莲",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28159,6 +28478,7 @@
         "translate": "恐慌天堂",
         "BPM": 170,
         "duration": "129.18",
+        "illustratorArtist": "百九十八",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28247,6 +28567,7 @@
         "translate": "重生：梦境之终",
         "BPM": 212,
         "duration": "141.54",
+        "illustratorArtist": "adaptor & masiro",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28335,6 +28656,7 @@
         "translate": "心之记忆",
         "BPM": 150,
         "duration": "164.82",
+        "illustratorArtist": "Konya/绀屋",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28423,6 +28745,7 @@
         "translate": "聚光灯",
         "BPM": 160,
         "duration": "129.01",
+        "illustratorArtist": "NerSAN",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28511,6 +28834,7 @@
         "translate": "夜剧场",
         "BPM": 151,
         "duration": "131.53",
+        "illustratorArtist": "青鸟",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28599,6 +28923,7 @@
         "translate": "衍生物",
         "BPM": 175,
         "duration": "136.78",
+        "illustratorArtist": "cokeAnut",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28687,6 +29012,7 @@
         "translate": "法官",
         "BPM": 192,
         "duration": "146.22",
+        "illustratorArtist": "森灵",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28775,6 +29101,7 @@
         "translate": "被遗忘恐惧症",
         "BPM": 280,
         "duration": "167.07",
+        "illustratorArtist": "御坂果子",
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -28810,6 +29137,9 @@
         "translate": "序曲",
         "BPM": 138,
         "duration": "150.02",
+        "composer": "姜米條 & ElousΛ.-FZ",
+        "illustrator": "L-sp4",
+        "illustratorArtist": "L-sp4",
         "EZ": {
             "notecount": 93,
             "tcharter": "野从",
@@ -28884,8 +29214,6 @@
         },
         "display": false,
         "name": "Introduction",
-        "composer": "姜米條 & ElousΛ.-FZ",
-        "illustrator": "L-sp4",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -28898,6 +29226,9 @@
         "translate": "圣诞节",
         "BPM": 125,
         "duration": "65.28",
+        "composer": "姜米條",
+        "illustrator": "鲸弑",
+        "illustratorArtist": "鲸弑",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -28972,8 +29303,6 @@
         },
         "display": false,
         "name": "Christmas",
-        "composer": "姜米條",
-        "illustrator": "鲸弑",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -28986,6 +29315,9 @@
         "translate": "燃烧（好核混曲）",
         "BPM": 200,
         "duration": "144.61",
+        "composer": "NceS-Daily天利",
+        "illustrator": "knife美工刀",
+        "illustratorArtist": "knife美工刀",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -29060,8 +29392,6 @@
         },
         "display": false,
         "name": "Burn(Haocore Mix)",
-        "composer": "NceS-Daily天利",
-        "illustrator": "knife美工刀",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29074,6 +29404,9 @@
         "translate": "异常",
         "BPM": 200,
         "duration": "146.40",
+        "composer": "姜米條&RocketLant",
+        "illustrator": "姜米條",
+        "illustratorArtist": "姜米條",
         "EZ": {
             "notecount": 873,
             "tcharter": "NerSAN",
@@ -29148,8 +29481,6 @@
         },
         "display": false,
         "name": "Anomaly",
-        "composer": "姜米條&RocketLant",
-        "illustrator": "姜米條",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29162,6 +29493,9 @@
         "translate": "终点站",
         "BPM": 200,
         "duration": "150.61",
+        "composer": "姜米條&RocketLant",
+        "illustrator": "Rallxkurara",
+        "illustratorArtist": "kurara",
         "EZ": {
             "notecount": 253,
             "tcharter": "阿爽",
@@ -29236,8 +29570,6 @@
         },
         "display": false,
         "name": "Destination",
-        "composer": "姜米條&RocketLant",
-        "illustrator": "Rallxkurara",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29250,6 +29582,9 @@
         "translate": "痉挛（好核混曲）",
         "BPM": 200,
         "duration": "144.00",
+        "composer": "姜米條-天利",
+        "illustrator": "笔记RE",
+        "illustratorArtist": "笔记RE",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -29324,8 +29659,6 @@
         },
         "display": false,
         "name": "Spasmodic(Haocore Mix)",
-        "composer": "姜米條-天利",
-        "illustrator": "笔记RE",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29338,6 +29671,9 @@
         "translate": "西格玛（好核混曲） ~ 105 秒的传说 ~",
         "BPM": 200,
         "duration": "105.58",
+        "composer": "Daily天利",
+        "illustrator": "天利利利利利利~",
+        "illustratorArtist": "Daily天利",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -29412,8 +29748,6 @@
         },
         "display": false,
         "name": "Sigma (Haocore Mix) ~ 105秒の伝説 ~",
-        "composer": "Daily天利",
-        "illustrator": "天利利利利利利~",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29426,6 +29760,9 @@
         "translate": "西格玛（好核混曲） ~ 黄色郁金香之憾 ~",
         "BPM": 201,
         "duration": "158.12",
+        "composer": "Daily天利",
+        "illustrator": "Viosgit",
+        "illustratorArtist": "Viosgit",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -29500,8 +29837,6 @@
         },
         "display": false,
         "name": "Sigma (Haocore Mix) ~ Regrets of The Yellow Tulip ~",
-        "composer": "Daily天利",
-        "illustrator": "Viosgit",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29514,6 +29849,9 @@
         "translate": "随机",
         "BPM": 132,
         "duration": "137.00",
+        "composer": "Sobrem × Silentroom",
+        "illustrator": "Harkiadel",
+        "illustratorArtist": "Harkiadel",
         "EZ": {
             "notecount": 277,
             "tcharter": "野从 & V17AMax",
@@ -29588,8 +29926,6 @@
         },
         "display": false,
         "name": "Random [R]",
-        "composer": "Sobrem × Silentroom",
-        "illustrator": "Harkiadel",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29602,6 +29938,9 @@
         "translate": "随机",
         "BPM": 132,
         "duration": "137.00",
+        "composer": "Sobrem × Silentroom",
+        "illustrator": "Harkiadel",
+        "illustratorArtist": "Harkiadel",
         "EZ": {
             "notecount": 281,
             "tcharter": "野从 & Pcat",
@@ -29676,8 +30015,6 @@
         },
         "display": false,
         "name": "Random [A]",
-        "composer": "Sobrem × Silentroom",
-        "illustrator": "Harkiadel",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29690,6 +30027,9 @@
         "translate": "随机",
         "BPM": 132,
         "duration": "137.00",
+        "composer": "Sobrem × Silentroom",
+        "illustrator": "Harkiadel",
+        "illustratorArtist": "Harkiadel",
         "EZ": {
             "notecount": 285,
             "tcharter": "野从 & TimiTini",
@@ -29764,8 +30104,6 @@
         },
         "display": false,
         "name": "Random [N]",
-        "composer": "Sobrem × Silentroom",
-        "illustrator": "Harkiadel",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29778,6 +30116,9 @@
         "translate": "随机",
         "BPM": 132,
         "duration": "137.00",
+        "composer": "Sobrem × Silentroom",
+        "illustrator": "Harkiadel",
+        "illustratorArtist": "Harkiadel",
         "EZ": {
             "notecount": 275,
             "tcharter": "野从 & Clutter",
@@ -29852,8 +30193,6 @@
         },
         "display": false,
         "name": "Random [D]",
-        "composer": "Sobrem × Silentroom",
-        "illustrator": "Harkiadel",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29866,6 +30205,9 @@
         "translate": "随机",
         "BPM": 132,
         "duration": "137.00",
+        "composer": "Sobrem × Silentroom",
+        "illustrator": "Harkiadel",
+        "illustratorArtist": "Harkiadel",
         "EZ": {
             "notecount": 286,
             "tcharter": "野从 & 阿爽",
@@ -29940,8 +30282,6 @@
         },
         "display": false,
         "name": "Random [O]",
-        "composer": "Sobrem × Silentroom",
-        "illustrator": "Harkiadel",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -29954,6 +30294,9 @@
         "translate": "随机",
         "BPM": 132,
         "duration": "137.00",
+        "composer": "Sobrem × Silentroom",
+        "illustrator": "Harkiadel",
+        "illustratorArtist": "Harkiadel",
         "EZ": {
             "notecount": 281,
             "tcharter": "野从 & J.R",
@@ -30028,8 +30371,6 @@
         },
         "display": false,
         "name": "Random [M]",
-        "composer": "Sobrem × Silentroom",
-        "illustrator": "Harkiadel",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -30042,6 +30383,9 @@
         "translate": "今年也以《下雪了，圣诞快乐》为目标加油！",
         "BPM": "156~234",
         "duration": "226.90",
+        "composer": "AiSS vs. 华牧狸 w/ 夜輪 ft. 結月ゆかり",
+        "illustrator": "Vios.NoFurry.git",
+        "illustratorArtist": "Viosgit",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -30116,8 +30460,6 @@
         },
         "display": false,
         "name": "今年も「雪降り、メリクリ」目指して頑張ります！！",
-        "composer": "AiSS vs. 华牧狸 w/ 夜輪 ft. 結月ゆかり",
-        "illustrator": "Vios.NoFurry.git",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -30130,6 +30472,9 @@
         "translate": "领土战争(Territory Battle)",
         "BPM": 140,
         "duration": "150.88",
+        "composer": "ツユ",
+        "illustrator": "SEGA (V17AMax modified)",
+        "illustratorArtist": "SEGA & V17AMax",
         "EZ": {
             "notecount": 172,
             "tcharter": "Su1fuR",
@@ -30204,8 +30549,6 @@
         },
         "display": false,
         "name": "テリトリーバトル",
-        "composer": "ツユ",
-        "illustrator": "SEGA (V17AMax modified)",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -30218,6 +30561,9 @@
         "translate": "报应 ~救赎之轮~",
         "BPM": 225,
         "duration": "173.79",
+        "composer": "Ardolf vs. Daily天利",
+        "illustrator": "死と花の大司祭",
+        "illustratorArtist": "Viosgit",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -30292,8 +30638,6 @@
         },
         "display": false,
         "name": "Retribution ~ Cycle of Redemption ~[SP]",
-        "composer": "Ardolf vs. Daily天利",
-        "illustrator": "死と花の大司祭",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -30306,6 +30650,9 @@
         "translate": "逃离 -宇宙无敌狂拽酷炫屌炸天额外混曲-",
         "BPM": 210,
         "duration": "149.75",
+        "composer": "lIKEY",
+        "illustrator": "是谁呢，总不会是曲师本人吧，画得这么艺术",
+        "illustratorArtist": "Likey",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -30380,8 +30727,6 @@
         },
         "display": false,
         "name": "Dlyrotz -SUPER ULTIMATE AMAZING AWESOME PRO MAX EXTRA REMIX-",
-        "composer": "lIKEY",
-        "illustrator": "是谁呢，总不会是曲师本人吧，画得这么艺术",
         "previews": "0.00",
         "previewe": "0.00"
     },
@@ -30394,6 +30739,9 @@
         "translate": "湮灭: 终局",
         "BPM": 185,
         "duration": "187.80",
+        "composer": "Daily天利 vs. EndCat - 终猫 ft. Aiss w/ 夜輪",
+        "illustrator": "永続·末来∅(ƆǝʇʇolɹɐɥƆ ʌᴉoƨმᴉϝ);;",
+        "illustratorArtist": "Viosgit",
         "EZ": {
             "notecount": "",
             "tcharter": "",
@@ -30468,8 +30816,6 @@
         },
         "display": false,
         "name": "Oblivion: PHIN",
-        "composer": "Daily天利 vs. EndCat - 终猫 ft. Aiss w/ 夜輪",
-        "illustrator": "永続·末来∅(ƆǝʇʇolɹɐɥƆ ʌᴉoƨმᴉϝ);;",
         "previews": "0.00",
         "previewe": "0.00"
     }

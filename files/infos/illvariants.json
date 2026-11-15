@@ -1,0 +1,638 @@
+{
+  "songs": {
+    "PRAW.Bluewind.0": {
+      "name": "[PRAW]",
+      "variants": {
+        "0": {
+          "nominal": "老张",
+          "artist": "老张"
+        },
+        "-1": {
+          "nominal": "老张",
+          "artist": "老张",
+          "replacedAt": "1.4.5"
+        }
+      }
+    },
+    "AnotherMe.NeutralMoon.0": {
+      "name": "Another Me",
+      "variants": {
+        "0": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers"
+        },
+        "-1": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers",
+          "replacedAt": "2.4.0"
+        }
+      }
+    },
+    "Aphasia.闫东炜.0": {
+      "name": "Aphasia",
+      "variants": {
+        "0": {
+          "nominal": "笔记RE",
+          "artist": "笔记RE"
+        },
+        "-1": {
+          "nominal": "笔记RE",
+          "artist": "笔记RE",
+          "replacedAt": "2.0.0"
+        }
+      }
+    },
+    "AphroditesChildshortver.RUQOA.0": {
+      "name": "Aphrodite's Child (short ver.)",
+      "variants": {
+        "0": {
+          "nominal": "cala for Immaculée Sekai",
+          "artist": "cala"
+        },
+        "-1": {
+          "nominal": "Sin:cK for Immaculée Sekai",
+          "artist": "Sin:cK",
+          "replacedAt": "3.18.0"
+        }
+      }
+    },
+    "BANGINGSTRIKE.DewPleiades.0": {
+      "name": "BANGING STRIKE",
+      "variants": {
+        "0": {
+          "nominal": "Rutumn feat. 汉堡",
+          "artist": "Rutumn & 汉堡"
+        },
+        "-1": {
+          "nominal": "Rutumn feat. 汉堡",
+          "artist": "Rutumn & 汉堡",
+          "replacedAt": "3.17.0.1"
+        }
+      }
+    },
+    "BonusTime.MegaloPaleWhite.0": {
+      "name": "Bonus Time",
+      "variants": {
+        "0": {
+          "nominal": "笔记RE",
+          "artist": "笔记RE"
+        },
+        "-1": {
+          "nominal": "Megalo_PaleWhite",
+          "artist": "笔记RE",
+          "replacedAt": "1.2.5"
+        }
+      }
+    },
+    "BreakOver.Kforest.0": {
+      "name": "Break Over",
+      "variants": {
+        "0": {
+          "nominal": "圆规compasses",
+          "artist": "圆规Compasses"
+        },
+        "-1": {
+          "nominal": "圆规compasses",
+          "artist": "圆规Compasses",
+          "replacedAt": "2.4.5"
+        }
+      }
+    },
+    "Cereris.SunsetRayNceS.0": {
+      "name": "Cereris",
+      "variants": {
+        "0": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers"
+        },
+        "-1": {
+          "nominal": "Zris",
+          "artist": "Zris",
+          "replacedAt": "2.0.0"
+        }
+      }
+    },
+    "Cipher20.TetrajectoryfeatCtymax.0": {
+      "name": "Cipher : /2&//<|0",
+      "variants": {
+        "0": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers"
+        },
+        "-1": {
+          "nominal": "Zris",
+          "artist": "Zris",
+          "replacedAt": "2.0.0"
+        }
+      }
+    },
+    "CraveWave.LandRoot.0": {
+      "name": "Crave Wave",
+      "variants": {
+        "0": {
+          "nominal": "笔记RE",
+          "artist": "笔记RE"
+        },
+        "1": {
+          "nominal": "Rubrum, Flavum & Caeruleum",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      }
+    },
+    "Demiurge.Rabpit.0": {
+      "name": "Demiurge",
+      "variants": {
+        "0": {
+          "nominal": "青鸟",
+          "artist": "青鸟"
+        },
+        "1": {
+          "nominal": "夜輪",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      }
+    },
+    "DESTRUCTION321.Normal1zervsBrokenNerdz.0": {
+      "name": "DESTRUCTION 3,2,1",
+      "variants": {
+        "0": {
+          "nominal": "rN",
+          "artist": "rN"
+        },
+        "1": {
+          "nominal": "N",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      }
+    },
+    "DistortedFate.Sakuzyo.0": {
+      "name": "Distorted Fate",
+      "variants": {
+        "0": {
+          "nominal": "knife美工刀",
+          "artist": "knife美工刀"
+        },
+        "1": {
+          "nominal": "Ner - Fast Food Addicted",
+          "artist": "NerSAN",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        },
+        "2": {
+          "nominal": "笔记RE",
+          "artist": "笔记RE",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      }
+    },
+    "Doppelganger.LeaF.0": {
+      "name": "Doppelganger",
+      "variants": {
+        "0": {
+          "nominal": "海产",
+          "artist": "海产"
+        },
+        "-1": {
+          "nominal": "海产",
+          "artist": "海产",
+          "replacedAt": "1.1.0"
+        }
+      }
+    },
+    "DropIt.Asuka.0": {
+      "name": "Drop It",
+      "variants": {
+        "0": {
+          "nominal": "TNiK",
+          "artist": "TNiK"
+        },
+        "-1": {
+          "nominal": "TNiK",
+          "artist": "TNiK",
+          "replacedAt": "1.4.1"
+        }
+      }
+    },
+    "EradicationCatastrophe.NceS.0": {
+      "name": "Eradication Catastrophe",
+      "variants": {
+        "0": {
+          "nominal": "海产",
+          "artist": "海产"
+        },
+        "-1": {
+          "nominal": "海产",
+          "artist": "海产",
+          "replacedAt": "1.5.0"
+        }
+      }
+    },
+    "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0": {
+      "name": "Freaky Undulations ~Noble Knights of Tune~",
+      "variants": {
+        "0": {
+          "nominal": "PEZZ feat. 祈莲 & CattoHato",
+          "artist": "CattoHato & PEZZ & 祈莲"
+        },
+        "1": {
+          "nominal": "夜輪",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      },
+      "toggle": true
+    },
+    "FULiAUTOSHOOTER.MYUKKE.0": {
+      "name": "FULi AUTO SHOOTER",
+      "variants": {
+        "0": {
+          "nominal": "ViscerA & Psycholine",
+          "artist": "Psycholine & ViscerA"
+        },
+        "-1": {
+          "nominal": "MYUKKE.",
+          "artist": "MYUKKE.",
+          "replacedAt": "1.4.4"
+        }
+      }
+    },
+    "GetBack.CAP3.0": {
+      "name": "Get Back",
+      "variants": {
+        "0": {
+          "nominal": "TNiK",
+          "artist": "TNiK"
+        },
+        "-1": {
+          "nominal": "TNiK",
+          "artist": "TNiK",
+          "replacedAt": "3.5.0"
+        }
+      }
+    },
+    "Igallta.SeURa.0": {
+      "name": "Igallta",
+      "variants": {
+        "0": {
+          "nominal": "Se-U-Ra",
+          "artist": "Se-U-Ra"
+        },
+        "1": {
+          "nominal": "夜輪",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      },
+      "toggle": true
+    },
+    "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0": {
+      "name": "JunXion Between Life And Death(VIP Mix)",
+      "variants": {
+        "0": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers"
+        },
+        "-1": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers",
+          "replacedAt": "2.4.0"
+        }
+      }
+    },
+    "LeaveAllBehind.rider.0": {
+      "name": "Leave All Behind",
+      "variants": {
+        "0": {
+          "nominal": "笔记RE",
+          "artist": "笔记RE"
+        },
+        "-1": {
+          "nominal": "笔记RE",
+          "artist": "笔记RE",
+          "replacedAt": "3.10.3"
+        }
+      }
+    },
+    "Luminescence.米虾Fomiki初云CLoudie.0": {
+      "name": "Luminescence",
+      "variants": {
+        "0": {
+          "nominal": "子狼",
+          "artist": "子狼"
+        },
+        "1": {
+          "nominal": "①②④⑨ | ②③⑤口 | ④⑤⑥⑦ | ⑨口⑦⑧",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      }
+    },
+    "MARENOL.LeaF.0": {
+      "name": "MARENOL",
+      "variants": {
+        "0": {
+          "nominal": "喵n葵",
+          "artist": "喵n葵"
+        },
+        "-1": {
+          "nominal": "喵n葵",
+          "artist": "喵n葵",
+          "replacedAt": "1.5.2"
+        }
+      }
+    },
+    "MiracleForestVIPMix.Rinthlive.0": {
+      "name": "Miracle Forest (VIP Mix)",
+      "variants": {
+        "0": {
+          "nominal": "L-sp4",
+          "artist": "L-sp4"
+        },
+        "1": {
+          "nominal": "夜輪",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      },
+      "toggle": true
+    },
+    "NYA.FLuoRiTe姜米條.0": {
+      "name": "NYA!!! (Phigros ver.)",
+      "variants": {
+        "0": {
+          "nominal": "NEKO&海产",
+          "artist": "NEKO & 海产"
+        },
+        "-1": {
+          "nominal": "NEKO&海产",
+          "artist": "NEKO & 海产",
+          "replacedAt": "2.2.1"
+        }
+      }
+    },
+    "PixelRebelz.Normal1zer.0": {
+      "name": "Pixel Rebelz",
+      "variants": {
+        "0": {
+          "nominal": "艾是Abby",
+          "artist": "艾是Abby"
+        },
+        "-2": {
+          "nominal": "艾是Abby",
+          "artist": "艾是Abby",
+          "replacedAt": "1.6.4"
+        },
+        "-1": {
+          "nominal": "艾是Abby",
+          "artist": "艾是Abby",
+          "replacedAt": "1.2.5"
+        }
+      }
+    },
+    "Retribution.nmyKryexe.0": {
+      "name": "Retribution",
+      "variants": {
+        "0": {
+          "nominal": "NerSAN",
+          "artist": "NerSAN"
+        },
+        "1": {
+          "nominal": "Ner - Furry Friend",
+          "artist": "NerSAN",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        },
+        "2": {
+          "nominal": "Ner - Furry Friend",
+          "artist": "NerSAN",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      }
+    },
+    "RIPPER.Friedwav.0": {
+      "name": "RIPPER",
+      "variants": {
+        "0": {
+          "nominal": "何呵",
+          "artist": "何呵"
+        },
+        "-1": {
+          "nominal": "何呵",
+          "artist": "何呵",
+          "replacedAt": "1.4.0"
+        }
+      }
+    },
+    "Rrharil.TeamGrimoire.0": {
+      "name": "Rrhar'il",
+      "variants": {
+        "0": {
+          "nominal": "犀牛坨动画工坊",
+          "artist": "knife美工刀"
+        },
+        "1": {
+          "nominal": "夜輪",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      },
+      "toggle": true
+    },
+    "Spasmodic.姜米條颶風元力上人.0": {
+      "name": "Spasmodic",
+      "variants": {
+        "0": {
+          "nominal": "昔璃☆暴雨 ~ ♫危難聖帝♫",
+          "artist": "昔璃"
+        },
+        "1": {
+          "nominal": "夜輪",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      },
+      "toggle": true
+    },
+    "SpeedUp.DarTokki.0": {
+      "name": "Speed Up!",
+      "variants": {
+        "0": {
+          "nominal": "TNiK",
+          "artist": "TNiK"
+        },
+        "-1": {
+          "nominal": "TNiK",
+          "artist": "TNiK",
+          "replacedAt": "2.0.0"
+        }
+      }
+    },
+    "TheChariotREVIIVAL.Attoclef.0": {
+      "name": "The Chariot ~REVIIVAL~",
+      "variants": {
+        "0": {
+          "nominal": "翠冷兮",
+          "artist": "翠冷兮"
+        },
+        "1": {
+          "nominal": "Ｘ＝Ｘ",
+          "artist": "夜輪",
+          "versions": [
+            "3.5.2",
+            "3.6.0"
+          ]
+        }
+      }
+    },
+    "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい.0": {
+      "name": "What do you want more than a Happy ending?",
+      "variants": {
+        "0": {
+          "nominal": "Amor fati",
+          "artist": "笔记RE & Rutumn"
+        },
+        "1": {
+          "nominal": "Amor fati",
+          "artist": "笔记RE & Rutumn"
+        },
+        "2": {
+          "nominal": "Amor fati",
+          "artist": "笔记RE & Rutumn"
+        },
+        "3": {
+          "nominal": "Amor fati",
+          "artist": "笔记RE & Rutumn"
+        }
+      }
+    },
+    "万吨匿名信.闫东炜.0": {
+      "name": "万吨匿名信",
+      "variants": {
+        "0": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers"
+        },
+        "-2": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers",
+          "replacedAt": "2.0.0"
+        },
+        "-1": {
+          "nominal": "IvyTowers",
+          "artist": "IvyTowers",
+          "replacedAt": "1.2.1"
+        }
+      }
+    },
+    "云女孩.符白牙SiYFics.0": {
+      "name": "云女孩",
+      "variants": {
+        "0": {
+          "nominal": "御坂果子",
+          "artist": "御坂果子"
+        },
+        "-1": {
+          "nominal": "御坂果子",
+          "artist": "御坂果子",
+          "replacedAt": "1.2.5"
+        }
+      }
+    },
+    "开心病.闫东炜.0": {
+      "name": "开心病",
+      "variants": {
+        "0": {
+          "nominal": "昔璃",
+          "artist": "昔璃"
+        },
+        "-1": {
+          "nominal": "喵n葵",
+          "artist": "喵n葵",
+          "replacedAt": "3.0.0"
+        }
+      }
+    },
+    "萤火虫の怨.闫东炜.0": {
+      "name": "萤火虫の怨",
+      "variants": {
+        "0": {
+          "nominal": "L-sp4",
+          "artist": "L-sp4"
+        },
+        "-1": {
+          "nominal": "L-sp4",
+          "artist": "L-sp4",
+          "replacedAt": "1.2.1"
+        }
+      }
+    },
+    "零號車輛.seatrus.0": {
+      "name": "零號車輛",
+      "variants": {
+        "0": {
+          "nominal": "2AI4wU4",
+          "artist": "2AI4wU4"
+        },
+        "-1": {
+          "nominal": "2AI4wU4",
+          "artist": "2AI4wU4",
+          "replacedAt": "3.2.2"
+        }
+      }
+    },
+    "风屿.闫东炜.0": {
+      "name": "风屿",
+      "variants": {
+        "0": {
+          "nominal": "cycats",
+          "artist": "cycats"
+        },
+        "-1": {
+          "nominal": "cycats",
+          "artist": "cycats",
+          "replacedAt": "1.2.1"
+        }
+      }
+    }
+  }
+}
